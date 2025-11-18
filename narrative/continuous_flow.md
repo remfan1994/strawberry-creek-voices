@@ -107,3 +107,13 @@ Even the smallest things matter. A pebble skipped carelessly across the water le
 A leaf drifts by a pair of worn shoes, and the creek holds them both in equal regard. Neither is praised, neither scorned. Yet the memory of each touch — a hand that placed, a foot that wore — is carried with patience. In its stillness, the water teaches that care does not need applause to exist.
 
 The creek knows that the human world is fleeting, and yet, through these small objects, the quiet persistence of goodness can endure. Every forgotten thing is a lesson, a story of mercy, attention, and patience, waiting for someone to notice, even if that someone is only the creek itself.
+
+## Anchor 8 – Echoes of Passing
+
+The creek remembers footsteps that barely touched the earth, the faint scrape of shoes along mossy banks. It knows the hurried walk, the lingering pause, the small acts no one thought to notice. Each echo is folded gently into the water, carried without judgment.
+
+A paper bag once torn by wind, its contents scattered across stones, was gathered by the creek’s patience. Leaves, scraps of paper, a forgotten glove — all swirled in the eddies before settling quietly into the underflow. The creek holds them not as evidence, but as witness to fleeting human presence.
+
+Time here stretches differently. The soft clatter of branches, the whisper of a bird landing, the faint sigh of someone passing — all become part of the creek’s memory. Motion continues, gentle and steady, as if each ripple itself asks, Did you notice? Did you care?
+
+The moral weight of attention rests lightly on each current. Even the smallest act, seen or unseen, leaves its mark. The creek’s mercy is in remembering, in holding without condemnation, in teaching patience through quiet accumulation.
