@@ -1,3 +1,11 @@
+Theme: Memory as moral reflection
+
+Voice Layer: Underflow
+
+Narrative Elements: Objects held in creek, echoes of human care and neglect
+
+Moral Note: Small, forgotten things carry moral weight; remembering is a form of ethical attention
+
 Anchor 7 – Objects the Creek Has Kept
 
 The creek remembers more than footsteps. It holds the weight of small, forgotten things, each carrying a trace of human care or neglect. A lost glove rests on a root, dampened but not ruined. A notebook, its pages curled from rain, floats at the surface, carrying the quiet thoughts of someone who once wrote without expecting a witness.
