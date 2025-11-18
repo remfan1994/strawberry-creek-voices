@@ -1,7 +1,10 @@
 Theme: Smallness with dignity
+
 Voice Layer: Surface Water (quick, light)
+
 Narrative Elements: Creek observing people, time moving gently
-Moral Note: Attention is a form of mercy; motion can be gentle without being weak.
+
+Moral Note: Attention is a form of mercy; motion can be gentle without being weak
 
 Strawberry Creek moves quietly when no one is listening, but not silently. Its sound is a kind of remembering — soft, continuous, unafraid of being small. It speaks in the way water speaks: by touching everything. The stones, the roots, the underside of leaves that never see the sun.
 
