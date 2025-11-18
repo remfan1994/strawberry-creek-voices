@@ -108,6 +108,12 @@ A leaf drifts by a pair of worn shoes, and the creek holds them both in equal re
 
 The creek knows that the human world is fleeting, and yet, through these small objects, the quiet persistence of goodness can endure. Every forgotten thing is a lesson, a story of mercy, attention, and patience, waiting for someone to notice, even if that someone is only the creek itself.
 
+## Transition 7 → 8
+
+The creek slows its surface ripples, leaving the playfulness behind. Shadows lengthen, light softens, and the echoes of recent movement — laughter, whispered conversations, the small clatter of forgotten objects — are folded into deeper currents. The attention of the creek shifts from motion to reflection, from immediate presence to enduring memory.
+
+Here, the water gathers the residue of human traces, not to judge or erase, but to carry forward quietly. It prepares the mind to follow underflow’s moral rhythm, where every small act, seen or unseen, contributes to the ledger of attention and mercy.
+
 ## Anchor 8 – Echoes of Passing
 
 The creek remembers footsteps that barely touched the earth, the faint scrape of shoes along mossy banks. It knows the hurried walk, the lingering pause, the small acts no one thought to notice. Each echo is folded gently into the water, carried without judgment.
