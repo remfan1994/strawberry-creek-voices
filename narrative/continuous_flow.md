@@ -76,7 +76,11 @@ A passerby drops a leaf into the flow, and the creek carries it without comment.
 The deep silence of the far bend loosens its hold as the creek returns to playful ripples. Shadows shorten, air brightens, and motion itself becomes a gentle teacher. From the stillness of witnessing, the water flows again — swift enough to carry a hat, light enough to spin a paper boat, patient enough to hold what is fleeting. Each movement is mercy, and the creek reminds the world that even the smallest currents can be kind.
 
 ## Anchor 5
-<insert text from anchor05.md>
+A paper boat drifts along the creek, tipped by a sudden wind. It wobbles, lists, almost overturns, yet the water carries it safely past stones and roots. Children’s laughter echoes upstream, quick and bright, and the creek follows, nudging the boat as if saying, "go, go gently, go freely."
+
+A hat slides from a bench and spins in a quiet eddy. No one hurries to retrieve it. The creek holds it lightly, rocking it in soft circles, giving it time and space. Motion itself becomes an act of mercy: the water does not force, does not judge, only guides what is fragile toward calm.
+
+Even the smallest current teaches this lesson. A fallen leaf, a drifting twig, the faint trail of someone passing — all are carried, observed, and released. Nothing is lost; nothing is wasted. Everything moves in its own rhythm, and everything is remembered.
 
 ## Transition 5 → 6
 From the playful eddies and light currents of motion, the water deepens once more. It slows, holds, and watches. The small mercies of drifting paper boats and spinning hats fade into something older, weightier — the quiet ledger of memory, collected without complaint. And as the creek bends around stones and roots, it carries both joy and regret, balanced in gentle patience.
