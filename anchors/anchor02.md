@@ -6,6 +6,8 @@ Narrative Elements: Dusk as moral atmosphere, objects dropped/forgotten
 
 Moral Note: Even small currents can carry mercy; the creek witnesses without judgment
 
+Anchor 2 – At Dusk
+
 The creek does not hurry at dusk.
 It learns the shapes of things by patience—
 a fallen leaf, a broken twig,
