@@ -7,3 +7,8 @@ Sometimes the creek sounds like it is bearing witness. Sometimes it sounds like 
 The creek remembers footfalls, conversations, arguments, prayers, small cruelty, small kindness, the weight of bicycles, the moment someone finally told the truth aloud. Water hears everything. It never interrupts. It never refuses to carry what it is given, though it softens whatever it can.
 
 If there is a lesson here, it is this: motion can be gentle without being weak. And attention — real attention — is a kind of mercy.
+
+Theme: Smallness with dignity
+Voice Layer: Surface Water (quick, light)
+Narrative Elements: Creek observing people, time moving gently
+Moral Note: Attention is a form of mercy; motion can be gentle without being weak.
