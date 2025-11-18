@@ -1,6 +1,9 @@
 Theme: Memory without complaint
+
 Voice Layer: Underflow
+
 Narrative Elements: Creek observing people, water holding stories
+
 Moral Note: Memory can be patient and merciful; mistakes and small cruelties are carried without bitterness
 
 The creek remembers the shoes left at the bank long ago, worn thin and still holding the shape of feet that walked through mud and rain. No one asks for them back. No one laments their absence. The water carries the shape, the story, quietly, as if memory itself does not need applause.
