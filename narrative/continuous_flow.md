@@ -91,3 +91,19 @@ The creek remembers the shoes left at the bank long ago, worn thin and still hol
 A woman pauses by the edge, humming softly, and the creek listens without interrupting. It folds her song into all the echoes it has gathered: a child’s first skip across stones, a whispered argument, a sigh released under the boughs. Everything settles gently into the undercurrent, neither praised nor scolded.
 
 Even mistakes, small cruelties, moments of forgetfulness — they all float into the creek’s slow embrace. And in its patience, the creek shows that remembering need not carry bitterness. Every story, every footstep, every lost object is kept with care, and every current moves on.
+
+## Transition 6 → 7
+
+The quiet ledger of memory carried by the creek bends gently toward tangible forms. What was once an abstract weight of footsteps and whispers now takes shape in the small objects left behind. Each pebble, glove, or fragment of paper becomes a marker in the stream’s moral map — a reminder that the attention we give, even when unnoticed, ripples outward.
+
+The water’s patience does not waver. Memory and material merge; the ethical resonance of care flows downstream, preparing the reader for the creek’s next act of gentle witness: holding what humans forget without judgment, yet with steadfast attentiveness.
+
+## Anchor 7 – Objects the Creek Has Kept
+
+The creek remembers more than footsteps. It holds the weight of small, forgotten things, each carrying a trace of human care or neglect. A lost glove rests on a root, dampened but not ruined. A notebook, its pages curled from rain, floats at the surface, carrying the quiet thoughts of someone who once wrote without expecting a witness.
+
+Even the smallest things matter. A pebble skipped carelessly across the water leaves a tiny memory, a ripple that folds back on itself, folding kindness into the undercurrent. The creek does not judge what was lost or abandoned; it only remembers, and in that remembering, it shapes the moral echo of what has passed.
+
+A leaf drifts by a pair of worn shoes, and the creek holds them both in equal regard. Neither is praised, neither scorned. Yet the memory of each touch — a hand that placed, a foot that wore — is carried with patience. In its stillness, the water teaches that care does not need applause to exist.
+
+The creek knows that the human world is fleeting, and yet, through these small objects, the quiet persistence of goodness can endure. Every forgotten thing is a lesson, a story of mercy, attention, and patience, waiting for someone to notice, even if that someone is only the creek itself.
