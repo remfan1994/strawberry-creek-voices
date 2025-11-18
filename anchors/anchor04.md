@@ -1,3 +1,8 @@
+Theme: Witness as moral act
+Voice Layer: Deep Silence (watchful, moral)
+Narrative Elements: Creek observing people, time moving gently
+Moral Note: Silence is active; observing attentively is itself an ethical act
+
 At the far bend, the creek pauses in a way that no eye can see. It listens, not for sound but for intention. Footsteps linger on the soft earth, a whispered conversation passes overhead, the faint scraping of a bench where someone has left their thoughts behind. The creek knows — it always knows — without needing to mark what it holds.
 
 Time drifts here differently. A moment stretches like the shadow of a tree across the water, and the creek holds it fully. No judgment touches the ripple, no hurry disturbs the current. Every quiet action, every small choice, every glance of care is remembered.
