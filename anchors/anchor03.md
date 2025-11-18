@@ -1,6 +1,9 @@
 Theme: Harm absorbed, softened
+
 Voice Layer: Underflow
+
 Narrative Elements: Human cruelty and kindness, objects dropped/forgotten
+
 Moral Note: Creek teaches patience and forgiveness; slow accumulation of care
 
 The creek has learned the weight of things left behind. A worn scarf caught on a branch, a cracked teacup at the water’s edge, a note crumpled and faded — these are not lost. They are carried, folded into the riverbed like quiet prayers.
