@@ -66,7 +66,11 @@ Stories linger here, in slow layers. Every mark, every whisper, every forgotten 
 And in the deepest bend, the water’s surface stills. It does not need to speak; it witnesses the world — footsteps, whispers, choices — holding each with the patient authority of silence.
 
 ## Anchor 4
-<insert text from anchor04.md>
+At the far bend, the creek pauses in a way that no eye can see. It listens, not for sound but for intention. Footsteps linger on the soft earth, a whispered conversation passes overhead, the faint scraping of a bench where someone has left their thoughts behind. The creek knows — it always knows — without needing to mark what it holds.
+
+Time drifts here differently. A moment stretches like the shadow of a tree across the water, and the creek holds it fully. No judgment touches the ripple, no hurry disturbs the current. Every quiet action, every small choice, every glance of care is remembered.
+
+A passerby drops a leaf into the flow, and the creek carries it without comment. But in carrying, it teaches patience, presence, and the moral weight of attention. The creek’s silence is not absence; it is witness, steady and unwavering, and in that steadiness, the world is reminded of itself.
 
 ## Transition 4 → 5
 The deep silence of the far bend loosens its hold as the creek returns to playful ripples. Shadows shorten, air brightens, and motion itself becomes a gentle teacher. From the stillness of witnessing, the water flows again — swift enough to carry a hat, light enough to spin a paper boat, patient enough to hold what is fleeting. Each movement is mercy, and the creek reminds the world that even the smallest currents can be kind.
