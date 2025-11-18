@@ -39,19 +39,19 @@ Rights are automatically revoked if alignment conditions are not met.
 See LICENSE.md for the full text.
 
 Project Structure
+
 strawberry-creek-voices/
-│
-├── LICENSE.md                   <- Custom SCV license
-├── README.md                     <- Project overview (this file)
-├── anchors/                      <- Core narrative anchor passages
-│   ├── anchor01.md               <- “The creek moves quietly…”
-│   └── anchor02.md               <- “At Dusk”
-├── narrative/                    <- Combined anchors and transitions
-│   └── continuous_flow.md
-├── meta/                         <- Conceptual scaffolding, meta-work
-│   └── conceptual_scaffold.md
-└── progress/                     <- Status tracking and notes
-    └── status_tracking.md
+LICENSE.md <- Custom SCV license
+README.md <- Project overview (this file)
+anchors/ <- Core narrative anchor passages
+anchor01.md <- “The creek moves quietly…”
+anchor02.md <- “At Dusk”
+narrative/ <- Combined anchors and transitions
+continuous_flow.md
+meta/ <- Conceptual scaffolding, meta-work
+conceptual_scaffold.md
+progress/ <- Status tracking and notes
+status_tracking.md
 
 Voice Layers
 
