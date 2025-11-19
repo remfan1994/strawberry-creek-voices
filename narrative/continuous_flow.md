@@ -11,7 +11,7 @@ The creek remembers footfalls, conversations, arguments, prayers, small cruelty,
 
 If there is a lesson here, it is this: motion can be gentle without being weak. And attention — real attention — is a kind of mercy.
 
-## Transition 1 → 2
+## Transition 1 -> 2
 The playful currents of the creek slow as dusk approaches. Light dims, reflections lengthen, and the remembering of the day’s motions folds naturally into quiet observation.
 
 ## Anchor 2
@@ -50,7 +50,7 @@ but not with fear—
 only with the quiet confidence
 of something that has nothing to hide.
 
-## Transition 2 → 3
+## Transition 2 -> 3
 Where the creek once watched leaves fall, it now cradles the weight of forgotten objects. The small mercy extended to a marble or teacup is carried downstream, softening the impact of neglect.
 
 ## Anchor 3
@@ -62,7 +62,7 @@ A bird lands where a lost shoe rests, tilting its head as if asking permission t
 
 Stories linger here, in slow layers. Every mark, every whisper, every forgotten fragment becomes a part of the underflow — a memory that carries kindness forward, even when the world forgets to notice.
 
-## Transition 3 → 4
+## Transition 3 -> 4
 And in the deepest bend, the water’s surface stills. It does not need to speak; it witnesses the world — footsteps, whispers, choices — holding each with the patient authority of silence.
 
 ## Anchor 4
@@ -72,7 +72,7 @@ Time drifts here differently. A moment stretches like the shadow of a tree acros
 
 A passerby drops a leaf into the flow, and the creek carries it without comment. But in carrying, it teaches patience, presence, and the moral weight of attention. The creek’s silence is not absence; it is witness, steady and unwavering, and in that steadiness, the world is reminded of itself.
 
-## Transition 4 → 5
+## Transition 4 -> 5
 The deep silence of the far bend loosens its hold as the creek returns to playful ripples. Shadows shorten, air brightens, and motion itself becomes a gentle teacher. From the stillness of witnessing, the water flows again — swift enough to carry a hat, light enough to spin a paper boat, patient enough to hold what is fleeting. Each movement is mercy, and the creek reminds the world that even the smallest currents can be kind.
 
 ## Anchor 5
@@ -82,7 +82,7 @@ A hat slides from a bench and spins in a quiet eddy. No one hurries to retrieve 
 
 Even the smallest current teaches this lesson. A fallen leaf, a drifting twig, the faint trail of someone passing — all are carried, observed, and released. Nothing is lost; nothing is wasted. Everything moves in its own rhythm, and everything is remembered.
 
-## Transition 5 → 6
+## Transition 5 -> 6
 From the playful eddies and light currents of motion, the water deepens once more. It slows, holds, and watches. The small mercies of drifting paper boats and spinning hats fade into something older, weightier — the quiet ledger of memory, collected without complaint. And as the creek bends around stones and roots, it carries both joy and regret, balanced in gentle patience.
 
 ## Anchor 6
@@ -92,7 +92,7 @@ A woman pauses by the edge, humming softly, and the creek listens without interr
 
 Even mistakes, small cruelties, moments of forgetfulness — they all float into the creek’s slow embrace. And in its patience, the creek shows that remembering need not carry bitterness. Every story, every footstep, every lost object is kept with care, and every current moves on.
 
-## Transition 6 → 7
+## Transition 6 -> 7
 
 The quiet ledger of memory carried by the creek bends gently toward tangible forms. What was once an abstract weight of footsteps and whispers now takes shape in the small objects left behind. Each pebble, glove, or fragment of paper becomes a marker in the stream’s moral map — a reminder that the attention we give, even when unnoticed, ripples outward.
 
@@ -108,7 +108,7 @@ A leaf drifts by a pair of worn shoes, and the creek holds them both in equal re
 
 The creek knows that the human world is fleeting, and yet, through these small objects, the quiet persistence of goodness can endure. Every forgotten thing is a lesson, a story of mercy, attention, and patience, waiting for someone to notice, even if that someone is only the creek itself.
 
-## Transition 7 → 8
+## Transition 7 -> 8
 
 The creek slows its surface ripples, leaving the playfulness behind. Shadows lengthen, light softens, and the echoes of recent movement — laughter, whispered conversations, the small clatter of forgotten objects — are folded into deeper currents. The attention of the creek shifts from motion to reflection, from immediate presence to enduring memory.
 
@@ -124,7 +124,7 @@ Time here stretches differently. The soft clatter of branches, the whisper of a 
 
 The moral weight of attention rests lightly on each current. Even the smallest act, seen or unseen, leaves its mark. The creek’s mercy is in remembering, in holding without condemnation, in teaching patience through quiet accumulation.
 
-## Transition 8 → 9
+## Transition 8 -> 9
 The creek’s surface softens, and the echoes of past footsteps mingle with the faint sigh of the wind. Shadows stretch across stones, and the small objects the creek has carried—gloves, paper scraps, tiny pebbles—settle into gentle eddies. The attention of the water shifts from remembering human actions to noticing the subtle interplay of life around it: the rustle of reeds, the brushing of bird wings, the slow drip of water from leaves.
 
 The currents teach patience without speech. Even the smallest ripple carries intention. As the water flows, it folds the lessons of mercy, memory, and moral attention into what comes next. The observer is invited to follow not only the movement but the quiet teaching beneath it.
