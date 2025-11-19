@@ -1,6 +1,6 @@
 # Strawberry Creek Voices – Continuous Flow
 
-## Anchor 1
+## Anchor 1 - The creek moves quietly…
 Strawberry Creek moves quietly when no one is listening, but not silently. Its sound is a kind of remembering — soft, continuous, unafraid of being small. It speaks in the way water speaks: by touching everything. The stones, the roots, the underside of leaves that never see the sun.
 
 The voice of the creek is not a single voice. It is layers. The surface water that catches light speaks quickly, almost playfully, but beneath it is another voice: slower, older, patient in a way living things rarely manage. And deeper still is a silence that isn’t empty but attentive, a kind of watchfulness that waits for the world to come to its senses.
@@ -14,7 +14,7 @@ If there is a lesson here, it is this: motion can be gentle without being weak. 
 ## Transition 1 -> 2
 The playful currents of the creek slow as dusk approaches. Light dims, reflections lengthen, and the remembering of the day’s motions folds naturally into quiet observation.
 
-## Anchor 2
+## Anchor 2 - At Dusk
 The creek does not hurry at dusk.
 It learns the shapes of things by patience—
 a fallen leaf, a broken twig,
@@ -53,7 +53,7 @@ of something that has nothing to hide.
 ## Transition 2 -> 3
 Where the creek once watched leaves fall, it now cradles the weight of forgotten objects. The small mercy extended to a marble or teacup is carried downstream, softening the impact of neglect.
 
-## Anchor 3
+## Anchor 3 - Harm absorbed, softened
 The creek has learned the weight of things left behind. A worn scarf caught on a branch, a cracked teacup at the water’s edge, a note crumpled and faded — these are not lost. They are carried, folded into the riverbed like quiet prayers.
 
 Sometimes, a child reaches for a stone the creek has kept for years, and in that moment, the water remembers both the hand that dropped it and the one that will lift it again. It softens the memory of small injuries, the scrape of a foot, the tear in a jacket, as if the current itself can forgive what the world cannot.
@@ -65,7 +65,7 @@ Stories linger here, in slow layers. Every mark, every whisper, every forgotten 
 ## Transition 3 -> 4
 And in the deepest bend, the water’s surface stills. It does not need to speak; it witnesses the world — footsteps, whispers, choices — holding each with the patient authority of silence.
 
-## Anchor 4
+## Anchor 4 - Witness as moral act
 At the far bend, the creek pauses in a way that no eye can see. It listens, not for sound but for intention. Footsteps linger on the soft earth, a whispered conversation passes overhead, the faint scraping of a bench where someone has left their thoughts behind. The creek knows — it always knows — without needing to mark what it holds.
 
 Time drifts here differently. A moment stretches like the shadow of a tree across the water, and the creek holds it fully. No judgment touches the ripple, no hurry disturbs the current. Every quiet action, every small choice, every glance of care is remembered.
@@ -75,7 +75,7 @@ A passerby drops a leaf into the flow, and the creek carries it without comment.
 ## Transition 4 -> 5
 The deep silence of the far bend loosens its hold as the creek returns to playful ripples. Shadows shorten, air brightens, and motion itself becomes a gentle teacher. From the stillness of witnessing, the water flows again — swift enough to carry a hat, light enough to spin a paper boat, patient enough to hold what is fleeting. Each movement is mercy, and the creek reminds the world that even the smallest currents can be kind.
 
-## Anchor 5
+## Anchor 5 - Motion as merciful
 A paper boat drifts along the creek, tipped by a sudden wind. It wobbles, lists, almost overturns, yet the water carries it safely past stones and roots. Children’s laughter echoes upstream, quick and bright, and the creek follows, nudging the boat as if saying, "go, go gently, go freely."
 
 A hat slides from a bench and spins in a quiet eddy. No one hurries to retrieve it. The creek holds it lightly, rocking it in soft circles, giving it time and space. Motion itself becomes an act of mercy: the water does not force, does not judge, only guides what is fragile toward calm.
@@ -85,7 +85,7 @@ Even the smallest current teaches this lesson. A fallen leaf, a drifting twig, t
 ## Transition 5 -> 6
 From the playful eddies and light currents of motion, the water deepens once more. It slows, holds, and watches. The small mercies of drifting paper boats and spinning hats fade into something older, weightier — the quiet ledger of memory, collected without complaint. And as the creek bends around stones and roots, it carries both joy and regret, balanced in gentle patience.
 
-## Anchor 6
+## Anchor 6 - Memory without complaint
 The creek remembers the shoes left at the bank long ago, worn thin and still holding the shape of feet that walked through mud and rain. No one asks for them back. No one laments their absence. The water carries the shape, the story, quietly, as if memory itself does not need applause.
 
 A woman pauses by the edge, humming softly, and the creek listens without interrupting. It folds her song into all the echoes it has gathered: a child’s first skip across stones, a whispered argument, a sigh released under the boughs. Everything settles gently into the undercurrent, neither praised nor scolded.
