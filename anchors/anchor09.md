@@ -1,7 +1,11 @@
-Theme: Attention as service  
-Voice Layer: Underflow (slow, deep)  
-Narrative Elements: Creek observing nature, forgotten objects, small human acts  
+Theme: Attention as service
+
+Voice Layer: Underflow (slow, deep)
+
+Narrative Elements: Creek observing nature, forgotten objects, small human acts
+
 Moral Note: Strength is in patience and attentiveness; consciousness as guide; service and mercy manifest in small, gentle movements
+
 
 Beneath the arch of reeds along the bank, the creek gathers whispers from the world above. A bird alights on a broken branch, shaking droplets into the slow current. A child’s forgotten scarf flutters into the water, and the creek catches it without comment, folding it into the flow as it has learned to do with everything: quietly, without judgment, entirely attentive.
 
