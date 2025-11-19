@@ -129,7 +129,7 @@ The creek’s surface softens, and the echoes of past footsteps mingle with the 
 
 The currents teach patience without speech. Even the smallest ripple carries intention. As the water flows, it folds the lessons of mercy, memory, and moral attention into what comes next. The observer is invited to follow not only the movement but the quiet teaching beneath it.
 
-## Anchor 9 - 
+## Anchor 9 - Reflections Beneath the Reeds
 Beneath the arch of reeds along the bank, the creek gathers whispers from the world above. A bird alights on a broken branch, shaking droplets into the slow current. A child’s forgotten scarf flutters into the water, and the creek catches it without comment, folding it into the flow as it has learned to do with everything: quietly, without judgment, entirely attentive.
 
 The water holds more than objects; it carries the weight of small mercies, moments of care that went unnoticed, gestures that never received acknowledgment. Each ripple becomes a teacher, demonstrating that presence itself is a form of service, attention itself a moral act.
