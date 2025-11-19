@@ -137,3 +137,17 @@ The water holds more than objects; it carries the weight of small mercies, momen
 A pebble nudged by the current shows how even the smallest movement can matter. Its path curves around leaves and twigs, slowed and guided by unseen contours beneath the water. So too does attention bend and shape experience, gentle but powerful. The creek reminds the observer that strength is in watchfulness, mercy in motion, and clarity in stillness.
 
 Time stretches differently here. The quiet under reeds is not empty—it is alert, waiting for subtle acts of consciousness. The creek’s moral ledger grows with every unnoticed kindness, every gentle act, every careful touch. And in this slow accumulation, the world is remembered rightly, patiently, fully.
+
+## Transition 9 -> 10
+The creek’s ripples deepen as the reeds sway. The objects it has carried — gloves, scraps of paper, pebbles — now settle, their journeys complete for the moment. Attention turns inward, from the trace of human hands to the small rhythms of life surrounding the water: a frog’s pause on a stone, the gentle bend of a cattail, the soft patter of rain on leaves.
+
+The water does not hurry. Every movement, every quiet settling, speaks of patience. The moral echo of prior acts—mercy, care, attentiveness—lingers in the current, guiding what is still to come. The observer, invited to follow, learns that gentleness is as powerful as motion, and presence is a form of service.
+
+## Anchor 10 The Creek's Quiet Watch
+The creek flows under overhanging branches, calm and unassuming. Sunlight flickers across the surface, catching the smallest details: a floating leaf, a pebble’s swirl, the faint wake of a bird’s feet. Each mark is recorded, each small act remembered.
+
+Here, the water listens more than it moves. Every droplet carries the imprint of attention, the patient tracing of the world’s subtle gestures. Forgotten objects, scattered notes, the faint whisper of footsteps—all are absorbed without judgment.
+
+A frog leaps from a stone into the current. The splash is brief, gentle, but the creek notes it, folding the motion into its ledger of small attentions. The strength of the creek is not in rushing, but in watchfulness, in quiet service, in bearing witness to what might otherwise vanish unnoticed.
+
+Even in its stillness, the water teaches: attentiveness is mercy, patience is strength, and the smallest actions ripple outward in ways that endure.
