@@ -123,3 +123,9 @@ A paper bag once torn by wind, its contents scattered across stones, was gathere
 Time here stretches differently. The soft clatter of branches, the whisper of a bird landing, the faint sigh of someone passing — all become part of the creek’s memory. Motion continues, gentle and steady, as if each ripple itself asks, Did you notice? Did you care?
 
 The moral weight of attention rests lightly on each current. Even the smallest act, seen or unseen, leaves its mark. The creek’s mercy is in remembering, in holding without condemnation, in teaching patience through quiet accumulation.
+
+## Transition 8 → 9
+The creek’s surface softens, and the echoes of past footsteps mingle with the faint sigh of the wind. Shadows stretch across stones, and the small objects the creek has carried—gloves, paper scraps, tiny pebbles—settle into gentle eddies. The attention of the water shifts from remembering human actions to noticing the subtle interplay of life around it: the rustle of reeds, the brushing of bird wings, the slow drip of water from leaves.
+
+The currents teach patience without speech. Even the smallest ripple carries intention. As the water flows, it folds the lessons of mercy, memory, and moral attention into what comes next. The observer is invited to follow not only the movement but the quiet teaching beneath it.
+
