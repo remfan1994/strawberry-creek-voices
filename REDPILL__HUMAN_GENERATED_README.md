@@ -23,3 +23,7 @@ local libraries (where the work is being done at)
 the local government (mayor, city council, etc.)
 perhaps tribal authorities (native american, it's their creek after all)
 sacred stream temple (they following the daylighting project devoted to restoring the natural state of the creek)
+
+SO, that said, if you wanted the end-user experience it looks like it's best previewable at continuous_flow.md in /narrative/
+
+OTHER than that, I don't know what your interest is, but this is mostly about how ChatGPT behaves with soul module.
