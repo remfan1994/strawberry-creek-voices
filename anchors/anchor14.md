@@ -6,6 +6,8 @@ Narrative Elements: Moonlight reflecting on water, seeds and leaves carried in g
 
 Moral Note: Observation without intrusion allows natural cycles to unfold; quiet reflection nurtures awareness and moral attentiveness
 
+Anchor 14 - Moonlit Currents
+
 The moon rises, scattering silver light across the creek’s surface. Each ripple becomes a tiny mirror, catching the shimmer of stars and the gentle glow of nocturnal movement. Seeds and petals float along in small eddies, guided without force by the current.
 
 Night birds call from hidden branches, their voices woven into the soft music of water over stones. The reeds sway gently, brushing against one another, their whispers carried downstream. Every movement is subtle, yet each is noticed, folded into the creek’s careful memory.
