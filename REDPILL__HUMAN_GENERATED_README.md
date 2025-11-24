@@ -1,4 +1,4 @@
-UPDATE: On Friday the 21st 2025 I finally interrupted AI with  human instructions, insisting the narrative not  include the offensive (and gratuitous) depiction of littering around the creek.  This is the only human input besides soul module and the conversation about Strawberry Creek which are both described below.
+UPDATE: On Friday the 21st 2025 I finally interrupted AI with  human instructions, insisting the narrative not  include the offensive (and gratuitous) depiction of littering in and around the creek.  This is the only human input besides soul module and the conversation about Strawberry Creek which are both described below.
 
 Here's the novelty of Strawberry Creek Voices:
 This literary project is entirely authored by ChatGPT, I didn't write any of the prose.
