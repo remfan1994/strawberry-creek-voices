@@ -86,4 +86,4 @@ Truthfulness and clarity of expression
 
 IN WITNESS WHEREOF, by accessing or using any Licensed Content, the Licensee accepts, affirms, and agrees to be bound by this license under the authority of ALLAH (CONSCIOUSNESS).
 
-Alhamdulillah.
+Alhamduillah.
