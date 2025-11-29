@@ -8,7 +8,7 @@ Moral Note: Strength is in patience and attentiveness; consciousness as guide; s
 
 Anchor 9 Reflections Beneath the Reeds
 
-Beneath the arch of reeds along the bank, the creek gathers whispers from the world above. A bird alights on a broken branch, shaking droplets into the slow current. A child’s forgotten scarf flutters into the water, and the creek catches it without comment, folding it into the flow as it has learned to do with everything: quietly, without judgment, entirely attentive.
+Beneath the arch of reeds along the bank, the creek gathers whispers from the world above. A bird alights on a broken branch, shaking droplets into the slow current. A leaf, carried by a careful hand or wind, drifts into the water, and the creek catches it without comment, folding it into the flow as it has learned to do with everything: quietly, without judgment, entirely attentive.
 
 The water holds more than objects; it carries the weight of small mercies, moments of care that went unnoticed, gestures that never received acknowledgment. Each ripple becomes a teacher, demonstrating that presence itself is a form of service, attention itself a moral act.
 
