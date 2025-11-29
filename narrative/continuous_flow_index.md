@@ -156,7 +156,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 11 – Lessons in Quiet Flow
 **File:** `anchor11.md`  
-**Theme:** Integration of memory and presence  
+**Theme:** Quiet attention as moral practice
 **Voice Layer:** Underflow  
 **Narrative Elements:** Fallen twigs, footprints, drifting paper boats  
 **Moral Note:** Motion and stillness coexist; attention is a moral act; patience is guidance.
