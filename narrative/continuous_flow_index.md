@@ -141,7 +141,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 10 – The Creek's Quiet Watch
 **File:** `anchor10.md`  
-**Theme:** Attentive presence  
+**Theme:** Watchfulness as service
 **Voice Layer:** Deep Silence  
 **Narrative Elements:** Natural elements, subtle movements, reflection  
 **Moral Note:** Strength is in watchfulness; attentiveness is mercy; small actions ripple outward.
