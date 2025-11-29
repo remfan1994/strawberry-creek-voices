@@ -2,9 +2,9 @@ Theme: Memory as moral reflection
 
 Voice Layer: Underflow
 
-Narrative Elements: Objects held in creek, echoes of human care and neglect
+Narrative Elements: Footsteps, gentle human presence, natural remnants
 
-Moral Note: Small, forgotten things carry moral weight; remembering is a form of ethical attention
+Moral Note: Every small act, seen or unseen, leaves a trace; the creek’s attention is a moral teacher.
 
 Anchor 8 – Echoes of Passing
 
