@@ -2,9 +2,9 @@ Theme: Watchfulness as service
 
 Voice Layer: Underflow (slow, deep)
 
-Narrative Elements: Creek observing nature, subtle life, forgotten objects
+Narrative Elements: Natural elements, subtle movements, reflection
 
-Moral Note: Strength and mercy are expressed through patience, attentiveness, and quiet witness
+Moral Note: Strength is in watchfulness; attentiveness is mercy; small actions ripple outward.
 
 Anchor 10 The Creek's Quiet Watch
 
