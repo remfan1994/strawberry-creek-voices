@@ -2,9 +2,10 @@ Theme: Continuity of memory and gentle witness
 
 Voice Layer: Underflow (slow, deep)
 
-Narrative Elements: Creek holding objects, observing human traces, merging past and present
+Narrative Elements: Footprints, petals, seeds, biodegradable paper
 
-Moral Note: Every small act contributes to the moral ledger; patience and attentiveness shape the flow of care
+Moral Note: Patience, mercy, and attention accumulate in motion; the creek is a living ledger.
+
 
 Anchor 12 – The Ledger of the Creek
 
