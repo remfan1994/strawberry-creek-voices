@@ -2,9 +2,9 @@ Theme: Quiet attention as moral practice
 
 Voice Layer: Underflow (slow, deep)
 
-Narrative Elements: Creek observing objects, subtle human actions, interplay of motion and stillness
+Narrative Elements: Fallen twigs, footprints, drifting paper boats
 
-Moral Note: Strength is in measured attention; patience guides action; mercy manifests in gentle, unobtrusive care
+Moral Note: Motion and stillness coexist; attention is a moral act; patience is guidance.
 
 Anchor 11 - Lessons in Quiet Flow
 
