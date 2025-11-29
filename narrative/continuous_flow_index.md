@@ -126,7 +126,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 9 – Reflections Beneath the Reeds
 **File:** `anchor09.md`  
-**Theme:** Interplay of life and observation  
+**Theme:** Attention as service 
 **Voice Layer:** Deep Silence  
 **Narrative Elements:** Birds, reeds, water ripples, small objects carried  
 **Moral Note:** Awareness itself is service; attentiveness extends beyond human actions.
