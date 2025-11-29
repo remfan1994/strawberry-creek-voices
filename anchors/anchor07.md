@@ -2,9 +2,9 @@ Theme: Memory as moral reflection
 
 Voice Layer: Underflow
 
-Narrative Elements: Objects held in creek, echoes of human care and neglect
+Narrative Elements: Leaves, seeds, pebbles, biodegradable paper
 
-Moral Note: Leaves, seeds, pebbles, biodegradable paper
+Moral Note: Care and attention extend to small, natural objects; the creek remembers without judgment.
 
 Anchor 7 – Objects the Creek Has Kept
 
