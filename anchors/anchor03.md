@@ -2,7 +2,7 @@ Theme: Harm absorbed, softened
 
 Voice Layer: Underflow
 
-Narrative Elements: Human cruelty and kindness, objects dropped/forgotten
+Narrative Elements: Creek carrying natural elements, observing gentle human traces
 
 Moral Note: Creek teaches patience and forgiveness; slow accumulation of care
 
