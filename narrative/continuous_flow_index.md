@@ -171,7 +171,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 12 – The Ledger of the Creek
 **File:** `anchor12.md`  
-**Theme:** Moral attentiveness accumulated  
+**Theme:** Continuity of memory and gentle witness
 **Voice Layer:** Underflow  
 **Narrative Elements:** Footprints, petals, seeds, biodegradable paper  
 **Moral Note:** Patience, mercy, and attention accumulate in motion; the creek is a living ledger.
@@ -186,7 +186,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 13 – Nightfall and Renewal
 **File:** `anchor13.md`  
-**Theme:** Renewal and ecosystem continuity  
+**Theme:** Shifting from memory to renewal
 **Voice Layer:** Underflow  
 **Narrative Elements:** Reeds, nocturnal animals, biodegradable remnants  
 **Moral Note:** Even in absence of observation, care and attentiveness sustain life; the creek absorbs and renews.
@@ -201,7 +201,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 14 – Moonlit Currents
 **File:** `anchor14.md`  
-**Theme:** Nighttime observation and attentiveness  
+**Theme:** Reflection and subtle illumination
 **Voice Layer:** Surface Water and Underflow  
 **Narrative Elements:** Moonlight, seeds, petals, nocturnal birds  
 **Moral Note:** Awareness remains active in night; motion and reflection coexist.
@@ -216,7 +216,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 15 – Small Lives at Dusk
 **File:** `anchor15.md`  
-**Theme:** Quiet nocturnal life  
+**Theme:** The quiet vitality of nocturnal life
 **Voice Layer:** Deep Silence  
 **Narrative Elements:** Frogs, insects, seeds, twigs, biodegradable fragments  
 **Moral Note:** Moral attention extends to all beings; small lives and minor currents matter.
@@ -231,7 +231,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 
 ## Anchor 16 – Quiet Consolidation
 **File:** `anchor16.md`  
-**Theme:** Accumulation and ecosystem attentiveness  
+**Theme:** Integration of day’s and night’s traces
 **Voice Layer:** Underflow  
 **Narrative Elements:** Seeds, petals, leaves, paper fragments, nocturnal creatures  
 **Moral Note:** Attentiveness and moral care accumulate; ecosystem continuity is sustained; small acts of care are recorded in stillness.
