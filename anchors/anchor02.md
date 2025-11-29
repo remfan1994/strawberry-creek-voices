@@ -2,7 +2,7 @@ Theme: Motion as merciful
 
 Voice Layer: Underflow (slow, old)
 
-Narrative Elements: Dusk as moral atmosphere, objects dropped/forgotten
+Narrative Elements: Dusk as moral atmosphere, seeds, petals, twigs, biodegradable remnants
 
 Moral Note: Even small currents can carry mercy; the creek witnesses without judgment
 
