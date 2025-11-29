@@ -1,4 +1,4 @@
-Theme: Memory as moral reflection
+Theme: Moral resonance of small actions
 
 Voice Layer: Underflow
 
