@@ -2,7 +2,7 @@ Theme: Motion as merciful
 
 Voice Layer: Surface Water
 
-Narrative Elements: Objects dropped/forgotten, human echoes
+Narrative Elements: Seeds, petals, biodegradable fragments; gentle currents carrying life
 
 Moral Note: Even small movements can teach kindness; motion itself can be ethical
 
