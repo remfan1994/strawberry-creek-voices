@@ -2,7 +2,7 @@ Theme: Memory without complaint
 
 Voice Layer: Underflow
 
-Narrative Elements: Creek observing people, water holding stories
+Narrative Elements: Creek observing natural traces, water holding stories
 
 Moral Note: Memory can be patient and merciful; mistakes and small cruelties are carried without bitterness
 
