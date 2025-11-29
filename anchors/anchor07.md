@@ -4,7 +4,7 @@ Voice Layer: Underflow
 
 Narrative Elements: Objects held in creek, echoes of human care and neglect
 
-Moral Note: Small, forgotten things carry moral weight; remembering is a form of ethical attention
+Moral Note: Leaves, seeds, pebbles, biodegradable paper
 
 Anchor 7 – Objects the Creek Has Kept
 
