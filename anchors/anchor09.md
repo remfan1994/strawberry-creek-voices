@@ -2,9 +2,9 @@ Theme: Attention as service
 
 Voice Layer: Underflow (slow, deep)
 
-Narrative Elements: Creek observing nature, forgotten objects, small human acts
+Narrative Elements: Birds, reeds, water ripples, small objects carried
 
-Moral Note: Strength is in patience and attentiveness; consciousness as guide; service and mercy manifest in small, gentle movements
+Moral Note: Awareness itself is service; attentiveness extends beyond human actions.
 
 Anchor 9 Reflections Beneath the Reeds
 
