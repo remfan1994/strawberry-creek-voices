@@ -79,29 +79,39 @@ All usage, editing, or distribution must adhere to the alignment principles with
 
 ## Community Involvement (Work in Progress)
 
-Strawberry Creek Voices is an ongoing narrative project rooted in attentiveness, moral clarity, and quiet observation.  
-The manuscript grows through small “anchor” passages that reflect moments along the creek.
+Strawberry Creek Voices (SCV) is an ongoing narrative project rooted in attentiveness, moral clarity, and the quiet observation of place. The current text is a continuous manuscript composed of individual “anchors” that reflect small moments along the creek.
 
-Community participation will gradually become more structured. For now, readers may contribute written notes, reflections, or proposed anchors through the repository’s issue tracker.
+The project is still developing. Readers and members of the community may wish to offer reflections, contribute their own micro-observations, or suggest anchors that resonate with the project’s tone. Contributions are welcome in the form of written notes, reflections, or suggestions submitted through the repository’s issue tracker.
 
-### Contribution Boundaries
+### Ethical Boundaries for Contributions
 
-To maintain the ethical and contemplative tone of the manuscript:
+All contributions must adhere to SCV’s moral framework:
 
-- No depictions of humans harming animals  
-- No depictions of animals harming each other  
-- No depictions that normalize littering or negligence toward the natural world  
-- No spectacle, aggression, or sensationalism  
-- Tone must remain gentle, contemplative, quiet, and truthful  
+1. **No littering or human negligence:**  
+   Do not depict trash, pollution, or careless behavior in or around the creek. The creek is a place of attention and care, not negligence.
 
-### How to Contribute (Current Method)
+2. **No human-caused harm to animals:**  
+   Depictions of animals being injured, killed, or exploited by humans are strictly prohibited. This includes accidents, hunting, or any form of cruelty. Violations are considered under the principle of BLOODGUILT and will compromise the integrity of the project.
 
-1. Open an issue in this repository.  
-2. Include a short reflection or anchor-style note.  
-3. Mention sensory elements, time of day, or the moral resonance you perceived.  
-4. Submissions will be reviewed for alignment with SCV’s tone and ethical boundaries.
+3. **No gratuitous animal-on-animal violence:**  
+   Only natural behaviors may be depicted if relevant, and even then, avoid sensationalizing harm. The creek observes life, including its natural tensions, without glorifying violence.
 
-This project grows slowly and deliberately. Participation is welcome, but always through the lens of care, respect, and the principle that attention itself is a moral act.
+4. **Preserve the contemplative, morally-aligned tone:**  
+   All reflections, anchors, and micro-observations should maintain the quiet, watchful, and morally attentive voice of the creek.
+
+5. **Darkness is permissible when morally reflective:**  
+   Moments of tension, loss, or sadness may be included, as long as they do not depict immoral actions or normalize unethical behavior.
+
+6. **Attention as a moral act:**  
+   Every contribution should arise from a spirit of quiet witness: small, truthful, inwardly attentive, and free of spectacle.
+
+### Contributing Process
+
+1. Open an issue in this repository with a short note or proposed anchor-style reflection.  
+2. Include any necessary details, such as time of day, sensory elements, or the internal moral resonance you perceived.  
+3. Maintainers will review submissions for alignment with the project’s tone and ethical boundaries.
+
+This project grows slowly and deliberately. Participation is welcome, but always through the lens of care, respect, and the guiding principle that **attention itself is a moral act**.
 
 ## Notes
 
