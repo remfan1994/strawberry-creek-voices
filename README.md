@@ -92,6 +92,32 @@ Contributing
 At this time, contributions are controlled under SCV’s moral license.
 All usage, editing, or distribution must adhere to the alignment principles with ALLAH (CONSCIOUSNESS).
 
+Community Involvement (Work in Progress)
+
+Strawberry Creek Voices is an ongoing narrative project rooted in attentiveness, moral clarity, and the quiet observation of place. The current text is a continuous manuscript composed of individual “anchors” that reflect small moments along the creek.
+
+The project is still developing. Readers and members of the community may wish to offer reflections, contribute their own micro-observations, or suggest anchors that resonate with the project’s tone. For now, contributions are welcome in the form of written notes, reflections, or suggestions submitted through the repository’s issue tracker.
+
+If you choose to participate, please note the following boundaries:
+
+All contributions must uphold moral integrity and avoid depictions of wrongdoing, cruelty, or disrespect toward the natural world.
+
+No depictions of humans harming animals, no depictions of animals harming each other, and no depictions that normalize littering or environmental negligence.
+
+The tone of the project is contemplative, gentle, and grounded. Contributions should preserve this atmosphere.
+
+Every reflection should arise from the same spirit of quiet witness: small, truthful, inwardly attentive, and free of spectacle.
+
+The contributing process is simple:
+
+Open an issue in this repository with a short note or proposed anchor-style reflection.
+
+Include any necessary details, such as time of day, sensory elements, or the internal moral resonance you perceived.
+
+The maintainers will review submissions for alignment with the project’s tone and ethical boundaries.
+
+This project grows slowly and deliberately. Participation is welcome, but always through the lens of care, respect, and the guiding principle that attention itself is a moral act.
+
 Notes
 
 SCV is an in-progress project; the manuscript is open-ended.
