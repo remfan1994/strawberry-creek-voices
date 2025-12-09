@@ -1,108 +1,117 @@
-<!--
-  Strawberry Creek Voices - GitHub Pages index.html
-  Plain-text, accessible single-file webpage suitable for publishing at <your-username>.github.io
-
-  Deployment:
-  1. Create a new public repository named: <your-username>.github.io
-  2. Add this file as `index.html` in the repository root and push to GitHub.
-  3. GitHub Pages will publish at: https://<your-username>.github.io
-
-  Notes: This page intentionally avoids images, videos, or decorative graphics per your preference.
--->
-
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Strawberry Creek Voices</title>
-  <meta name="description" content="Strawberry Creek Voices — community storytelling, oral history, and civic arts for the Strawberry Creek neighborhood.">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Strawberry Creek Voices — community audio/archives and project hub." />
+  <title>Strawberry Creek Voices — Project Home</title>
   <style>
-    /* Minimal, plain-text-forward styling (no decorative graphics) */
+    /* Minimal styling — plain, text-first presentation */
     :root{color-scheme: light dark}
-    html,body{height:100%;}
-    body{
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-      line-height:1.45;
-      margin:0;
-      padding:2rem 1rem;
-      background: #f3f3f3;
-      color:#111;
-    }
-    main{max-width:860px;margin:0 auto}
-    header h1{margin:.2rem 0 0;font-size:1.8rem}
-    header p.lead{margin:.25rem 0 1.25rem;color:#333}
-    nav{margin:1rem 0}
-    nav a{margin-right:1rem;text-decoration:underline}
-    section{margin:1.25rem 0;padding:0}
-    h2{font-size:1.15rem;margin:.6rem 0}
-    ul{padding-left:1.25rem}
-    footer{margin-top:2rem;font-size:.9rem;color:#444}
-    .muted{color:#444;font-size:0.95rem}
-    .cta{display:inline-block;margin-top:.5rem;padding:.4rem .6rem;border:1px solid #222;text-decoration:none}
-    @media (prefers-color-scheme:dark){
-      body{background:#111;color:#e8e8e8}
-      header p.lead{color:#cfcfcf}
-      footer{color:#bdbdbd}
-    }
-      header p.lead{color:#cfcfcf}
-      footer{color:#bdbdbd}
-    }
+    html,body{height:100%;margin:0;padding:2rem;font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif;line-height:1.4}
+    header h1{margin:.25rem 0;font-size:1.6rem}
+    header p{margin:.25rem 0;color:#444}
+    main{max-width:900px;margin:1.25rem auto}
+    section{margin:1rem 0}
+    pre{background:transparent;border:0;padding:0;margin:0;font-family:monospace;white-space:pre-wrap}
+    code{font-family:monospace}
+    .muted{color:#666;font-size:.95rem}
+    .kbd{font-family:monospace;background:transparent;border:1px solid #ddd;padding:.08rem .35rem;border-radius:4px}
+    footer{margin-top:2rem;font-size:.95rem;color:#666}
+    a{color:inherit;text-decoration:underline}
   </style>
 </head>
 <body>
   <main>
     <header>
-      <h1>Strawberry Creek Voices</h1>
-      <p class="lead">Community storytelling, oral history, and civic arts in the Strawberry Creek neighborhood.</p>
-      <nav aria-label="Primary">
-        <a href="#about">About</a>
-        <a href="#programs">Programs</a>
-        <a href="#events">Events</a>
-        <a href="#get-involved">Get Involved</a>
-        <a href="#contact">Contact</a>
-      </nav>
+      <h1>Strawberry Creek Voices (SCV)</h1>
+      <p class="muted">Community audio archives, oral histories, and project coordination — GitHub Pages site (single-file index.html).</p>
     </header>
 
-    <section id="about" aria-labelledby="about-heading">
-      <h2 id="about-heading">About</h2>
-      <p>Strawberry Creek Voices (SCV) collects and shares the stories, memories, and music of our neighborhood. We create safe spaces for people to speak, record, and archive neighborhood life — centering youth, elders, and historically underrepresented voices.</p>
+    <section>
+      <h2>About</h2>
+      <p>Strawberry Creek Voices (SCV) collects and preserves community audio, interviews, and local stories. This GitHub Pages site serves as the project landing page, documentation hub, and quick reference for contributors.</p>
     </section>
 
-    <section id="programs" aria-labelledby="programs-heading">
-      <h2 id="programs-heading">Programs</h2>
+    <section>
+      <h2>Project structure (repository tree)</h2>
+      <pre>
+str strawberry-creek-voices/
+├─ index.html                # This file (GitHub Pages site)
+├─ README.md                 # Project README and contributor notes
+├─ LICENSE                   # License text (MIT or project license)
+├─ data/                     # Processed metadata and indexes (JSON/CSV)
+│  ├─ episodes.json
+│  └─ contributors.csv
+├─ audio/                    # Raw and processed audio files (LFS or external storage recommended)
+│  ├─ raw/
+│  └─ processed/
+├─ transcripts/              # Transcripts (plain text or WebVTT)
+├─ scripts/                  # Build and processing scripts (Python, Node)
+│  ├─ build-index.py
+│  └─ normalize-audio.sh
+├─ docs/                     # Longer-form docs, policies, and templates
+│  └─ style-guide.md
+└─ .github/
+   ├─ workflows/             # CI (optional): tests, audio validation
+   └─ ISSUE_TEMPLATE.md
+
+Note: keep large audio assets in a dedicated storage (S3, Wasabi, or Git LFS) and store small metadata files in the repo.
+      </pre>
+    </section>
+
+    <section>
+      <h2>Quickstart — publish to GitHub Pages</h2>
+      <pre>
+1) Create a repo named: strawberry-creek-voices (or your preferred name)
+2) Add this file as <code>index.html</code> at the repository root
+3) Commit and push to GitHub
+4) In repository Settings → Pages, set source to:
+   • Branch: <span class="kbd">main</span> (or <span class="kbd">gh-pages</span>)
+   • Folder: <span class="kbd">/ (root)</span>
+5) Wait a few minutes and visit: https://&lt;your-username&gt;.github.io/&lt;repository-name&gt;/
+
+If you use a custom domain, create a <code>CNAME</code> file with the domain and add the DNS records as required by GitHub.
+      </pre>
+    </section>
+
+    <section>
+      <h2>README (short template)</h2>
+      <pre>
+# Strawberry Creek Voices
+
+Short description: Community audio archives and local oral histories.
+
+## Contents
+- audio/: audio files (store large files externally)
+- transcripts/: text transcriptions
+- data/: episode metadata and indexes
+
+## Contributing
+- Fork the repo, clone, add metadata and transcripts
+- For audio uploads, coordinate with maintainers; use external storage link references
+
+## License
+This project is offered under the MIT License — see LICENSE for details.
+      </pre>
+    </section>
+
+    <section>
+      <h2>Contributing & Guidelines</h2>
+      <p class="muted">Keep contributions focused and minimal: metadata (JSON/CSV), transcripts (plain text), and code for processing. Do not commit large binary audio files directly to the repo unless Git LFS or other storage is set up.</p>
+    </section>
+
+    <section>
+      <h2>Maintenance notes</h2>
       <ul>
-        <li><strong>Oral History Workshops</strong> — training sessions in interviewing and ethical archiving.</li>
-        <li><strong>Community Listening Nights</strong> — shared listening events where we play locally contributed recordings and invite reflection.</li>
-        <li><strong>Youth Story Labs</strong> — mentorship and media-skills sessions for young people.</li>
-        <li><strong>Public Presentations</strong> — talks, readings, and site-based story installations (text & audio).</li>
+        <li>Use an audio normalization pipeline (sample rate, bitrate) before publishing.</li>
+        <li>Keep a clear metadata schema: id, title, date, contributors, location, license, transcript_link, audio_url.</li>
+        <li>Automate index generation with a script (scripts/build-index.py) that reads metadata and emits episodes.json.</li>
       </ul>
-    </section>
-
-    <section id="events" aria-labelledby="events-heading">
-      <h2 id="events-heading">Upcoming events</h2>
-      <p class="muted">Events are scheduled periodically. Join our mailing list or contact us for the latest calendar.</p>
-    </section>
-
-    <section id="get-involved" aria-labelledby="get-involved-heading">
-      <h2 id="get-involved-heading">Get involved</h2>
-      <ul>
-        <li><strong>Volunteer</strong> — help with workshops, transcription, or outreach.</li>
-        <li><strong>Contribute a Story</strong> — we welcome recorded stories in any language; we offer editing support and release options.</li>
-        <li><strong>Partner</strong> — if you're an organization interested in collaboration, we can design co-programming.</li>
-      </ul>
-      <p>If you'd like to discuss a project, writing, or partnership, please reach out.</p>
-    </section>
-
-    <section id="contact" aria-labelledby="contact-heading">
-      <h2 id="contact-heading">Contact</h2>
-      <p>Email: <a href="mailto:contact@strawberrycreekvoices.org">contact@strawberrycreekvoices.org</a></p>
-      <p class="muted">Prefer a plain-text message. Include your name, affiliation (if any), and a brief note about how you'd like to participate.</p>
     </section>
 
     <footer>
-      <p>Copyright © Strawberry Creek Voices.</p>
-      <p class="muted">This page is intentionally simple and plain-text-first for accessibility and easy maintenance. To edit, update <code>index.html</code> in your GitHub Pages repository.</p>
+      <p class="muted">Generated for Strawberry Creek Voices. To publish: copy <span class="kbd">index.html</span> into your repository root and enable GitHub Pages. Replace placeholder repository name and domain where needed.</p>
     </footer>
   </main>
 </body>
