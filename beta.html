@@ -26,17 +26,17 @@ html, body {
 .hero h1 { font-size:3rem; margin:0; }
 .hero p { font-size:1.2rem; margin-top:0.5rem; }
 
-.parallax-layer {
-  position:absolute; top:0; left:0; width:100%; height:100%; background-repeat:no-repeat; background-position:center; background-size:cover; pointer-events:none; z-index:-1;
-}
+#river-svg { width:100%; height:400px; margin:2rem 0; }
 
-#river-svg { width:100%; height:400px; }
+.anchor { fill:#1a73e8; cursor:pointer; transition: transform 0.3s ease; }
+.anchor:hover { transform: scale(1.2); }
 
-.anchor { fill:#1a73e8; cursor:pointer; transition:transform 0.3s ease; }
-.anchor:hover { transform: scale(1.4); }
+.anchor-hitarea { fill:transparent; cursor:pointer; }
 
 .tooltip {
-  position:absolute; padding:0.5rem 1rem; background:rgba(255,255,255,0.95); border:1px solid #ccc; border-radius:5px; font-size:0.9rem; pointer-events:none; display:none; z-index:10;
+  position:absolute; padding:0.5rem 1rem; background:rgba(255,255,255,0.95);
+  border:1px solid #ccc; border-radius:5px; font-size:0.9rem;
+  pointer-events:none; display:none; z-index:10;
 }
 
 .reflections { position:fixed; right:1rem; top:0; width:250px; pointer-events:none; z-index:10; }
@@ -46,10 +46,11 @@ html, body {
   font-size:0.9rem; color:#111;
   animation: drift 6s ease-in-out infinite alternate;
 }
-@keyframes drift { 0%{transform:translateX(0);} 100%{transform:translateX(15px);} }
+@keyframes drift { 0%{ transform: translateX(0); } 100%{ transform: translateX(15px); } }
 
 .resources { display:flex; flex-wrap:wrap; gap:1rem; margin:2rem 0; }
-.card { background:rgba(255,255,255,0.9); border-left:6px solid #1a73e8; padding:1rem; border-radius:10px; flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer; }
+.card { background:rgba(255,255,255,0.9); border-left:6px solid #1a73e8; padding:1rem; border-radius:10px;
+       flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer; }
 .card:hover { transform:translateY(-5px); box-shadow:0 10px 20px rgba(26,115,232,0.3); }
 
 h2 { font-size:1.5rem; margin:2rem 0 0.5rem; }
@@ -83,9 +84,14 @@ footer { margin-top:3rem; font-size:0.9rem; color:#444; border-top:1px solid #ee
   <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand inline.</p>
   <svg id="river-svg">
     <path d="M50,350 C200,100 800,100 950,350" stroke="#1a73e8" stroke-width="4" fill="transparent"/>
-    <!-- Anchors -->
+    <!-- Anchors with invisible hit area for stable clicks -->
+    <circle class="anchor-hitarea" cx="100" cy="300" r="20" data-target="anchor01"></circle>
     <circle class="anchor" cx="100" cy="300" r="12" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md"></circle>
+
+    <circle class="anchor-hitarea" cx="450" cy="150" r="20" data-target="anchor02"></circle>
     <circle class="anchor" cx="450" cy="150" r="12" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md"></circle>
+
+    <circle class="anchor-hitarea" cx="800" cy="250" r="20" data-target="anchor03"></circle>
     <circle class="anchor" cx="800" cy="250" r="12" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md"></circle>
   </svg>
   <div class="tooltip" id="anchor-tooltip"></div>
@@ -126,21 +132,24 @@ footer { margin-top:3rem; font-size:0.9rem; color:#444; border-top:1px solid #ee
 const tooltip = document.getElementById('anchor-tooltip');
 const previews = document.getElementById('anchor-previews');
 
+// Handle hover and click
 document.querySelectorAll('.anchor').forEach(anchor => {
-  anchor.addEventListener('mouseenter', e => {
+  const hitarea = anchor.previousElementSibling; // corresponding invisible hit circle
+
+  hitarea.addEventListener('mouseenter', e => {
     const title = anchor.getAttribute('data-title');
     const theme = anchor.getAttribute('data-theme');
     tooltip.innerHTML = `<strong>${title}</strong><br><em>${theme}</em>`;
     tooltip.style.display = 'block';
   });
-  anchor.addEventListener('mousemove', e => {
+  hitarea.addEventListener('mousemove', e => {
     tooltip.style.left = (e.pageX + 15) + 'px';
     tooltip.style.top = (e.pageY + 15) + 'px';
   });
-  anchor.addEventListener('mouseleave', e => {
+  hitarea.addEventListener('mouseleave', e => {
     tooltip.style.display = 'none';
   });
-  anchor.addEventListener('click', e => {
+  hitarea.addEventListener('click', e => {
     const title = anchor.getAttribute('data-title');
     const link = anchor.getAttribute('data-link');
     let existing = document.getElementById(link);
