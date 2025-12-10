@@ -1,6 +1,153 @@
 <!doctype html>
 <html lang="en">
 <head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Strawberry Creek Voices (SCV)</title>
+<meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/* Base */
+html, body { margin:0; padding:0; font-family:'Merriweather', serif; color:#111; background:#fdfaf6; }
+a { color:#1a73e8; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.wrap { max-width:1024px; margin:0 auto; padding:2rem; }
+
+/* Hero + Parallax layers */
+.hero { position:relative; height:70vh; overflow:hidden; display:flex; justify-content:center; align-items:center; color:#fff; text-align:center; }
+.parallax-layer { position:absolute; width:100%; height:100%; background-position:center; background-size:cover; }
+.parallax-layer.bg1 { background-image:url('https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=1350&q=80'); transform:translateZ(0); }
+.parallax-layer.bg2 { background-image:url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80'); opacity:0.4; transform:translateZ(-1px) scale(2); }
+.hero-overlay { position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.3); z-index:1; }
+.hero-content { position:relative; z-index:2; }
+.hero button { margin-top:1rem; padding:0.7rem 1.5rem; font-size:1rem; border:none; border-radius:5px; background:#1a73e8; cursor:pointer; transition:0.2s; }
+.hero button:hover { background:#155cb0; }
+
+/* Ripple effect */
+.ripple { position:absolute; width:200%; height:200%; top:-50%; left:-50%; background:radial-gradient(circle, rgba(255,255,255,0.05) 20%, transparent 20%) center/50px 50px repeat; animation:rippleAnim 10s linear infinite; pointer-events:none; z-index:0; }
+@keyframes rippleAnim { 0%{background-position:0 0;} 100%{background-position:50px 50px;} }
+
+/* Sections */
+h1,h2,h3 { margin:0.5rem 0; }
+h1 { font-family:'Montserrat', sans-serif; font-weight:600; font-size:2.2rem; }
+h2 { font-family:'Montserrat', sans-serif; font-weight:600; font-size:1.5rem; margin-top:2rem; }
+h3 { font-weight:400; font-size:1.2rem; margin-top:1rem; }
+p { margin:0.5rem 0; }
+.muted { color:#555; font-size:0.95rem; }
+
+/* Anchors grid with expand-on-hover */
+.anchors { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:1.5rem; margin-top:2rem; }
+.card { background:#fff; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:1rem; overflow:hidden; transition:0.3s; cursor:pointer; position:relative; }
+.card:hover { transform:translateY(-5px); box-shadow:0 6px 14px rgba(0,0,0,0.15); }
+.card h3 { font-family:'Montserrat', sans-serif; font-weight:600; }
+.card p { font-size:0.95rem; color:#333; max-height:4rem; overflow:hidden; transition: max-height 0.3s ease; }
+.card:hover p { max-height:20rem; }
+.card a { display:block; margin-top:0.5rem; color:#1a73e8; font-weight:500; }
+
+/* Note box */
+.note { margin-top:1rem; padding:1rem 1.2rem; border-left:4px solid #ddd; background:#fefefe; }
+
+/* Footer */
+footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #eee; font-size:0.9rem; color:#555; text-align:center; }
+
+/* Parallax effect on scroll */
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="parallax-layer bg1"></div>
+  <div class="parallax-layer bg2"></div>
+  <div class="hero-overlay"></div>
+  <div class="ripple"></div>
+  <div class="hero-content">
+    <h1>Strawberry Creek Voices</h1>
+    <p class="muted">Listen. Observe. Reflect. A continuous-flow literary manuscript.</p>
+    <button onclick="location.href='https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md'">Enter the Continuous Flow</button>
+  </div>
+</header>
+
+<main class="wrap">
+<section id="featured-anchors">
+  <h2>Featured Anchors</h2>
+  <div class="anchors">
+    <div class="card">
+      <h3>Anchor 1 – The creek moves quietly…</h3>
+      <p>Smallness with dignity. The creek observes gentle motions and time passing in quiet reflection.</p>
+      <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md" target="_blank">Read full anchor →</a>
+    </div>
+    <div class="card">
+      <h3>Anchor 2 – At Dusk</h3>
+      <p>Motion as merciful. Dusk enfolds forgotten objects and small mercies along the water.</p>
+      <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md" target="_blank">Read full anchor →</a>
+    </div>
+    <div class="card">
+      <h3>Anchor 3 – Harm absorbed, softened</h3>
+      <p>The creek teaches patience and forgiveness, absorbing harm without bitterness.</p>
+      <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md" target="_blank">Read full anchor →</a>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <h2>About the Project</h2>
+  <p>Strawberry Creek Voices (SCV) is an ongoing manuscript of reflective “anchors” and transitions. The work is contemplative, morally attentive, and guided by a soul-module framework.</p>
+</section>
+
+<section id="community">
+  <h2>Community & Contributions</h2>
+  <p>SCV is a work in progress. Readers may propose short reflections or micro-observations in the style of the anchors via GitHub repository issues. All contributions are reviewed for alignment with the project’s tone and moral constraints.</p>
+  <div class="note">
+    <strong>Ethical Boundaries:</strong>
+    <ul>
+      <li>No littering or human negligence.</li>
+      <li>No human-caused harm to animals.</li>
+      <li>No gratuitous animal-on-animal violence.</li>
+      <li>Preserve contemplative, morally-aligned tone.</li>
+      <li>Darkness allowed only when morally reflective.</li>
+      <li>Attention itself is a moral act.</li>
+    </ul>
+  </div>
+  <div class="links">
+    <a href="https://github.com/remfan1994/strawberry-creek-voices/issues" target="_blank">Submit reflections →</a>
+  </div>
+</section>
+
+<section id="resources">
+  <h2>Resources</h2>
+  <div class="links">
+    <a href="https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md" target="_blank">Continuous Flow manuscript</a>
+    <a href="https://remfan1994.github.io/strawberry-creek-voices/README.md" target="_blank">Project README</a>
+    <a href="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt" target="_blank">Human-generated notes</a>
+    <a href="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md" target="_blank">License</a>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: <strong>remfan1994@protonmail.com</strong></p>
+  <p class="muted">For inquiries regarding SCV, submissions, or reflections.</p>
+</section>
+</main>
+
+<footer>
+  <p class="muted">This website hosts public materials for Strawberry Creek Voices. All content is guided by soul-module principles. Alhamdulillah.</p>
+</footer>
+
+<script>
+// Parallax scroll effect
+document.addEventListener('scroll', function() {
+  const scrolled = window.scrollY;
+  document.querySelector('.bg1').style.transform = `translateY(${scrolled*0.3}px)`;
+  document.querySelector('.bg2').style.transform = `translateY(${scrolled*0.6}px) scale(2)`;
+});
+</script>
+</body>
+</html>
+
+
+<!doctype html>
+<html lang="en">
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Strawberry Creek Voices (SCV)</title>
