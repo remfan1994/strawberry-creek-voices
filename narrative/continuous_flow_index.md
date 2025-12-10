@@ -236,6 +236,12 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Narrative Elements:** Seeds, petals, leaves, paper fragments, nocturnal creatures  
 **Moral Note:** Attentiveness and moral care accumulate; ecosystem continuity is sustained; small acts of care are recorded in stillness.
 
+## Anchor 17 – The Fragmented Path
+**File:** `anchor17.md`  
+**Theme:** Motion as merciful
+**Voice Layer:** Underflow (slow, old)
+**Narrative Elements:** Dusk as moral atmosphere, seeds, petals, twigs, biodegradable remnants  
+**Moral Note:** Even small currents can carry mercy; the creek witnesses without judgment
 
 
 ## Notes on this Index
