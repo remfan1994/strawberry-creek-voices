@@ -6,57 +6,71 @@
 <title>Strawberry Creek Voices (SCV)</title>
 <meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
 <style>
+/* Base */
 html, body {
-  margin:0; padding:0; height:100%; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  color:#111; background:#fefefc; overflow-x:hidden;
+  margin:0; padding:0; min-height:100%; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color:#eee; background:#2e2b28; overflow-x:hidden; line-height:1.6;
 }
-.wrap { max-width:1000px; margin:0 auto; padding:1rem 1.5rem; }
+.wrap { max-width:1000px; margin:0 auto; padding:1.5rem; font-size:1.15rem; }
 
+/* Hero */
 .hero {
-  position:relative; width:100%; height:80vh; overflow:hidden; display:flex; align-items:center; justify-content:center;
+  position:relative; width:100%; height:75vh; overflow:hidden; display:flex; align-items:center; justify-content:center;
   background:url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
 }
 .hero::after {
   content:''; position:absolute; top:0; left:0; width:100%; height:100%;
-  background:rgba(254,254,252,0.3);
+  background:rgba(46,43,40,0.5);
 }
 .hero-content {
-  position:relative; text-align:center; color:#111; text-shadow:0 2px 4px rgba(255,255,255,0.6);
+  position:relative; text-align:center; color:#fff; text-shadow:0 2px 6px rgba(0,0,0,0.7);
 }
-.hero h1 { font-size:3rem; margin:0; }
-.hero p { font-size:1.2rem; margin-top:0.5rem; }
+.hero h1 { font-size:3.2rem; margin:0; }
+.hero p { font-size:1.4rem; margin-top:0.5rem; }
 
+/* Parallax layers */
+.parallax-layer {
+  position:absolute; top:0; left:0; width:100%; height:100%; background-repeat:no-repeat; background-position:center; background-size:cover; pointer-events:none; z-index:-1;
+}
+
+/* River & Anchors */
 #river-svg { width:100%; height:400px; margin:2rem 0; }
-
-.anchor { fill:#1a73e8; cursor:pointer; transition: transform 0.3s ease; }
+.anchor { fill:#ffcb05; cursor:pointer; transition: transform 0.3s ease; }
 .anchor:hover { transform: scale(1.2); }
-
 .anchor-hitarea { fill:transparent; cursor:pointer; }
 
+/* Tooltip */
 .tooltip {
-  position:absolute; padding:0.5rem 1rem; background:rgba(255,255,255,0.95);
-  border:1px solid #ccc; border-radius:5px; font-size:0.9rem;
+  position:absolute; padding:0.5rem 1rem; background:rgba(46,43,40,0.95);
+  border:1px solid #555; border-radius:5px; font-size:1rem;
   pointer-events:none; display:none; z-index:10;
+  color:#fff;
 }
 
-.reflections { position:fixed; right:1rem; top:0; width:250px; pointer-events:none; z-index:10; }
+/* Reflections */
+.reflections { position:fixed; right:1rem; top:0; width:260px; pointer-events:none; z-index:10; }
 .reflection {
-  position:absolute; padding:0.5rem 1rem; background:rgba(255,255,255,0.9);
-  border-left:4px solid #1a73e8; border-radius:5px; opacity:0;
-  font-size:0.9rem; color:#111;
+  position:absolute; padding:0.5rem 1rem; background:rgba(70,60,50,0.85);
+  border-left:4px solid #ffcb05; border-radius:5px; opacity:0;
+  font-size:1rem; color:#fff;
   animation: drift 6s ease-in-out infinite alternate;
 }
-@keyframes drift { 0%{ transform: translateX(0); } 100%{ transform: translateX(15px); } }
+@keyframes drift { 0%{ transform: translateX(0); } 100%{ transform: translateX(12px); } }
 
+/* Cards & Previews */
 .resources { display:flex; flex-wrap:wrap; gap:1rem; margin:2rem 0; }
-.card { background:rgba(255,255,255,0.9); border-left:6px solid #1a73e8; padding:1rem; border-radius:10px;
-       flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer; }
-.card:hover { transform:translateY(-5px); box-shadow:0 10px 20px rgba(26,115,232,0.3); }
+.card {
+  background:rgba(50,45,40,0.85); border-left:6px solid #ffcb05;
+  padding:1rem; border-radius:12px;
+  flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer;
+  color:#fff;
+}
+.card:hover { transform:translateY(-5px); box-shadow:0 10px 20px rgba(255,203,5,0.4); }
 
-h2 { font-size:1.5rem; margin:2rem 0 0.5rem; }
-.preview { background:#f9f9f9; padding:0.5rem 1rem; border-left:4px solid #1a73e8; margin-top:0.5rem; display:none; border-radius:5px; }
+h2 { font-size:1.8rem; margin:2rem 0 0.5rem; }
+.preview { background:rgba(60,55,50,0.85); padding:0.5rem 1rem; border-left:4px solid #ffcb05; margin-top:0.5rem; display:none; border-radius:8px; color:#fff; font-size:1rem; }
 
-footer { margin-top:3rem; font-size:0.9rem; color:#444; border-top:1px solid #eee; padding-top:1rem; }
+footer { margin-top:3rem; font-size:0.95rem; color:#bbb; border-top:1px solid #555; padding-top:1rem; text-align:center; }
 </style>
 </head>
 <body>
@@ -74,17 +88,15 @@ footer { margin-top:3rem; font-size:0.9rem; color:#444; border-top:1px solid #ee
   <!-- Continuous Flow card -->
   <h2>Continuous Flow Manuscript</h2>
   <div class="card" id="continuous-flow-card">→ Read Continuous Flow manuscript
-    <div class="preview" id="continuous-flow-preview">
-      Loading preview...
-    </div>
+    <div class="preview" id="continuous-flow-preview">Loading preview...</div>
   </div>
 
   <!-- River / Anchors -->
   <h2>Anchor Flow Along the Creek</h2>
   <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand inline.</p>
   <svg id="river-svg">
-    <path d="M50,350 C200,100 800,100 950,350" stroke="#1a73e8" stroke-width="4" fill="transparent"/>
-    <!-- Anchors with invisible hit area for stable clicks -->
+    <path d="M50,350 C200,100 800,100 950,350" stroke="#ffcb05" stroke-width="4" fill="transparent"/>
+    <!-- Anchors with hit area -->
     <circle class="anchor-hitarea" cx="100" cy="300" r="20" data-target="anchor01"></circle>
     <circle class="anchor" cx="100" cy="300" r="12" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md"></circle>
 
@@ -132,10 +144,8 @@ footer { margin-top:3rem; font-size:0.9rem; color:#444; border-top:1px solid #ee
 const tooltip = document.getElementById('anchor-tooltip');
 const previews = document.getElementById('anchor-previews');
 
-// Handle hover and click
 document.querySelectorAll('.anchor').forEach(anchor => {
-  const hitarea = anchor.previousElementSibling; // corresponding invisible hit circle
-
+  const hitarea = anchor.previousElementSibling; 
   hitarea.addEventListener('mouseenter', e => {
     const title = anchor.getAttribute('data-title');
     const theme = anchor.getAttribute('data-theme');
