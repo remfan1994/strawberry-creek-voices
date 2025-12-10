@@ -28,16 +28,17 @@ html, body {
 .hero h1 { font-size:3.2rem; margin:0; }
 .hero p { font-size:1.4rem; margin-top:0.5rem; }
 
-/* Parallax layers */
-.parallax-layer {
-  position:absolute; top:0; left:0; width:100%; height:100%; background-repeat:no-repeat; background-position:center; background-size:cover; pointer-events:none; z-index:-1;
-}
-
 /* River & Anchors */
 #river-svg { width:100%; height:400px; margin:2rem 0; }
-.anchor { fill:#ffcb05; cursor:pointer; transition: transform 0.3s ease; }
-.anchor:hover { transform: scale(1.2); }
-.anchor-hitarea { fill:transparent; cursor:pointer; }
+
+.anchor-group circle:first-child {
+  transition: transform 0.3s ease;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.anchor-group:hover circle:first-child {
+  transform: scale(1.2);
+}
 
 /* Tooltip */
 .tooltip {
@@ -96,15 +97,22 @@ footer { margin-top:3rem; font-size:0.95rem; color:#bbb; border-top:1px solid #5
   <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand inline.</p>
   <svg id="river-svg">
     <path d="M50,350 C200,100 800,100 950,350" stroke="#ffcb05" stroke-width="4" fill="transparent"/>
-    <!-- Anchors with hit area -->
-    <circle class="anchor-hitarea" cx="100" cy="300" r="20" data-target="anchor01"></circle>
-    <circle class="anchor" cx="100" cy="300" r="12" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md"></circle>
-
-    <circle class="anchor-hitarea" cx="450" cy="150" r="20" data-target="anchor02"></circle>
-    <circle class="anchor" cx="450" cy="150" r="12" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md"></circle>
-
-    <circle class="anchor-hitarea" cx="800" cy="250" r="20" data-target="anchor03"></circle>
-    <circle class="anchor" cx="800" cy="250" r="12" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md"></circle>
+    
+    <!-- Anchor 1 -->
+    <g class="anchor-group" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md">
+      <circle r="12" cx="100" cy="300" fill="#1a73e8"/>
+      <circle r="20" cx="100" cy="300" fill="transparent"/>
+    </g>
+    <!-- Anchor 2 -->
+    <g class="anchor-group" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md">
+      <circle r="12" cx="450" cy="150" fill="#1a73e8"/>
+      <circle r="20" cx="450" cy="150" fill="transparent"/>
+    </g>
+    <!-- Anchor 3 -->
+    <g class="anchor-group" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md">
+      <circle r="12" cx="800" cy="250" fill="#1a73e8"/>
+      <circle r="20" cx="800" cy="250" fill="transparent"/>
+    </g>
   </svg>
   <div class="tooltip" id="anchor-tooltip"></div>
   <div id="anchor-previews"></div>
@@ -140,30 +148,30 @@ footer { margin-top:3rem; font-size:0.95rem; color:#bbb; border-top:1px solid #5
 </footer>
 
 <script>
-// Tooltip for anchors
+// Tooltip and inline previews
 const tooltip = document.getElementById('anchor-tooltip');
 const previews = document.getElementById('anchor-previews');
 
-document.querySelectorAll('.anchor').forEach(anchor => {
-  const hitarea = anchor.previousElementSibling; 
-  hitarea.addEventListener('mouseenter', e => {
-    const title = anchor.getAttribute('data-title');
-    const theme = anchor.getAttribute('data-theme');
-    tooltip.innerHTML = `<strong>${title}</strong><br><em>${theme}</em>`;
+document.querySelectorAll('.anchor-group').forEach(group=>{
+  const circle = group.querySelector('circle:first-child');
+  const hitarea = group.querySelector('circle:last-child');
+
+  hitarea.addEventListener('mouseenter', e=>{
+    tooltip.innerHTML = `<strong>${group.dataset.title}</strong><br><em>${group.dataset.theme}</em>`;
     tooltip.style.display = 'block';
   });
-  hitarea.addEventListener('mousemove', e => {
-    tooltip.style.left = (e.pageX + 15) + 'px';
-    tooltip.style.top = (e.pageY + 15) + 'px';
+  hitarea.addEventListener('mousemove', e=>{
+    tooltip.style.left = (e.pageX+15)+'px';
+    tooltip.style.top = (e.pageY+15)+'px';
   });
-  hitarea.addEventListener('mouseleave', e => {
+  hitarea.addEventListener('mouseleave', e=>{
     tooltip.style.display = 'none';
   });
-  hitarea.addEventListener('click', e => {
-    const title = anchor.getAttribute('data-title');
-    const link = anchor.getAttribute('data-link');
+  hitarea.addEventListener('click', e=>{
+    const link = group.dataset.link;
+    const title = group.dataset.title;
     let existing = document.getElementById(link);
-    if (!existing) {
+    if(!existing){
       const card = document.createElement('div');
       card.className = 'preview';
       card.id = link;
@@ -178,13 +186,13 @@ document.querySelectorAll('.anchor').forEach(anchor => {
   });
 });
 
-// Floating reflections fade in
+// Reflections fade in
 const reflections = document.querySelectorAll('.reflection');
 window.addEventListener('scroll', ()=>{
   const scrollY = window.scrollY;
   reflections.forEach(ref=>{
     const top = parseInt(ref.style.top);
-    if(scrollY + window.innerHeight > top + 50){
+    if(scrollY + window.innerHeight > top+50){
       ref.style.opacity = 1;
     } else {
       ref.style.opacity = 0;
@@ -203,5 +211,6 @@ flowCard.addEventListener('click', ()=>{
     .then(text=>{ flowPreview.innerHTML = `<pre style="white-space:pre-wrap;">${text}</pre>`; });
 });
 </script>
+
 </body>
 </html>
