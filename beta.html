@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Strawberry Creek Voices (SCV)</title>
+  <meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    /* Reset & base */
+    html, body { margin:0; padding:0; font-family: 'Merriweather', serif; color:#111; background:#fdfaf6; line-height:1.5; }
+    a { color:#1a73e8; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width:1024px; margin:0 auto; padding:2rem; }
+    h1,h2,h3 { margin:0.5rem 0; }
+    h1 { font-family:'Montserrat', sans-serif; font-weight:600; font-size:2.2rem; }
+    h2 { font-family:'Montserrat', sans-serif; font-weight:600; font-size:1.5rem; margin-top:2rem; }
+    h3 { font-weight:400; font-size:1.2rem; margin-top:1rem; }
+    p { margin:0.5rem 0; }
+    .muted { color:#555; font-size:0.95rem; }
+
+    /* Hero Section */
+    .hero { position:relative; display:flex; flex-direction:column; justify-content:center; align-items:center; height:60vh; background:url('https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=1350&q=80') center/cover no-repeat; color:#fff; text-align:center; }
+    .hero-overlay { position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.3); }
+    .hero-content { position:relative; z-index:1; }
+    .hero button { margin-top:1rem; padding:0.7rem 1.5rem; font-size:1rem; border:none; border-radius:5px; background:#1a73e8; color:#fff; cursor:pointer; transition:0.2s; }
+    .hero button:hover { background:#155cb0; }
+
+    /* Anchor Cards */
+    .anchors { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:1.5rem; margin-top:2rem; }
+    .card { background:#fff; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:1rem; transition:0.2s; }
+    .card:hover { transform:translateY(-5px); box-shadow:0 4px 12px rgba(0,0,0,0.15); }
+    .card h3 { font-family:'Montserrat', sans-serif; font-weight:600; font-size:1.1rem; }
+    .card p { font-size:0.95rem; color:#333; }
+
+    /* Sections */
+    section { margin-top:3rem; }
+    .links a { display:block; margin:0.3rem 0; }
+
+    /* Callout Box */
+    .note { margin-top:1rem; padding:1rem 1.2rem; border-left:4px solid #ddd; background:#fefefe; }
+
+    /* Footer */
+    footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #eee; font-size:0.9rem; color:#555; text-align:center; }
+
+    /* Responsive */
+    @media(max-width:600px) {
+      h1 { font-size:1.8rem; }
+      h2 { font-size:1.3rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1>Strawberry Creek Voices</h1>
+      <p class="muted">Listen. Observe. Reflect. A continuous-flow literary manuscript.</p>
+      <button onclick="location.href='https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md'" type="button">Enter the Continuous Flow</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="featured-anchors">
+      <h2>Featured Anchors</h2>
+      <div class="anchors">
+        <div class="card">
+          <h3>Anchor 1 – The creek moves quietly…</h3>
+          <p>Smallness with dignity. The creek observes gentle motions and time passing in quiet reflection.</p>
+          <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md" target="_blank">Read full anchor →</a>
+        </div>
+        <div class="card">
+          <h3>Anchor 2 – At Dusk</h3>
+          <p>Motion as merciful. Dusk enfolds forgotten objects and small mercies along the water.</p>
