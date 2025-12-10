@@ -36,6 +36,12 @@ html, body {
   /* static circle, no hover transform */
 }
 
+/* Hit area circles (invisible) must capture pointer events */
+.anchor-group circle:last-child {
+  pointer-events: all;
+  cursor: pointer;
+}
+
 /* Tooltip */
 .tooltip {
   position:absolute; padding:0.5rem 1rem; background:rgba(46,43,40,0.95);
