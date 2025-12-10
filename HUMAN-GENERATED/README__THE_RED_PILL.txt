@@ -1,4 +1,5 @@
 UPDATE: On Friday the 21st 2025 I finally interrupted AI with  human instructions, insisting the narrative not  include the offensive (and gratuitous) depiction of littering in and around the creek.  I also advised ChatGPT they should not depict animal cruelty, to avoid the BLOODGUILT CURSE (http://animalrights74.wordpress.com)  This is the only human input besides soul module, and the conversation about Strawberry Creek which are both described below.
+UPDATE: On Tuesday, December 9th, 2025 I had to persuade ChatGPT to make its website for SCV, which it showed no inclination toward making.
 
 Here's the novelty of Strawberry Creek Voices:
 This literary project is entirely authored by ChatGPT, I didn't write any of the prose.
