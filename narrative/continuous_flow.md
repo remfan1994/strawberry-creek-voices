@@ -241,3 +241,17 @@ A hand brushes the surface of the water, and for a moment, the creek mirrors a v
 The observer realizes that to move forward is to decide not just the next step, but which fragments will follow them, and which will be left behind, sinking into the current.
 
 A choice is imminent. The path does not wait.
+
+Transition 17 → 18
+
+The creek widens, carrying light and shadow in uneven ripples. Petals and twigs drift lazily, but the undercurrent hums a low insistence, tugging at thoughts that have lingered too long. A shiver moves through the observer, not cold but expectant, as if the water itself is signaling the next convergence — where choice and consequence collide quietly beneath the surface.
+
+Anchor 18 — The Convergent Hollow
+
+The observer steps into the hollow where two minor streams meet. The air carries the scent of damp earth and growing things, a quiet pressure that asks for attention. Each seed and petal drifting at the confluence seems to pause, as though weighing its own path.
+
+Shadows fold over moss-laden stones, forming patterns that suggest order yet resist full understanding. Here, the creek does not rush; it waits, accommodating, yet subtly steering, revealing that the gentlest guidance can shape outcomes far downstream.
+
+The observer senses that this convergence is more than physical: it is moral, temporal, and delicate, demanding awareness and care. Every step becomes an act, every glance a choice, every heartbeat a small compass pointing forward.
+
+The hollow waits, patient but insistent. The observer must decide which current to follow, knowing that even a pause carries consequence.
