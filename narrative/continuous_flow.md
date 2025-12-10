@@ -227,3 +227,17 @@ Deep into the night, the creek moves softly, its undercurrent holding the accumu
 Moonlight reflects on gentle ripples, illuminating the quiet interplay of reeds, stones, and tiny creatures. The creek remembers all: the careful footstep, the drifting seed, the whispered movement of nocturnal life. Every motion is recorded without judgment, folded into the stream’s patient memory.
 
 In this quiet consolidation, the creek demonstrates that attentiveness and moral care are not momentary acts—they accumulate, persist, and sustain the ecosystem, guiding all flows, seen and unseen.
+
+Transition 16 → 17
+
+The creek carries whispers from yesterday’s tide, scattering them over stone and moss. Footsteps, hesitant and deliberate, echo in the wet underbrush. Somewhere beyond the bend, a pulse flickers—subtle, insistent—drawing attention to corners of Strawberry Creek that had been thought empty. Time feels stretched, as if the air itself is holding its breath, waiting for the next motion, the next choice.
+
+Anchor 17 - The Fragmented Path
+
+The path diverges unexpectedly. One side leads into familiar shadows, where memories cling like cobwebs; the other opens onto uncharted terrain, each step fragile but purposeful. Fragmented voices rise from the undergrowth, asking questions no one remembers posing.
+
+A hand brushes the surface of the water, and for a moment, the creek mirrors a version of the world that could have been — small alterations, quiet urgencies, minor corrections with major consequences.
+
+The observer realizes that to move forward is to decide not just the next step, but which fragments will follow them, and which will be left behind, sinking into the current.
+
+A choice is imminent. The path does not wait.
