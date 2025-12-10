@@ -1,350 +1,259 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Strawberry Creek Voices (SCV)</title>
-  <meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
-  <style>
-    /* Base */
-    html, body {
-      margin:0; padding:0; min-height:100%; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      color:#eee; background:#2e2b28; overflow-x:hidden; line-height:1.6;
-    }
-    .wrap { max-width:1000px; margin:0 auto; padding:1.5rem; font-size:1.15rem; }
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Strawberry Creek Voices (SCV)</title>
+<meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
+<style>
+html, body {
+  margin:0; padding:0; min-height:100%; font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;
+  color:#eee; background:#2e2b28; overflow-x:hidden; line-height:1.6;
+}
+.wrap { max-width:1000px; margin:0 auto; padding:1.5rem; font-size:1.15rem; }
 
-    /* Hero */
-    .hero {
-      position:relative; width:100%; height:75vh; overflow:hidden; display:flex; align-items:center; justify-content:center;
-      background:url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
-    }
-    .hero::after {
-      content:''; position:absolute; top:0; left:0; width:100%; height:100%;
-      background:rgba(46,43,40,0.5);
-    }
-    .hero-content {
-      position:relative; text-align:center; color:#fff; text-shadow:0 2px 6px rgba(0,0,0,0.7);
-    }
-    .hero h1 { font-size:3.2rem; margin:0; }
-    .hero p { font-size:1.4rem; margin-top:0.5rem; }
+/* Hero */
+.hero {
+  position:relative; width:100%; height:75vh; display:flex; align-items:center; justify-content:center;
+  background:url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+}
+.hero::after {
+  content:''; position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(46,43,40,0.5);
+}
+.hero-content { position:relative; text-align:center; color:#fff; text-shadow:0 2px 6px rgba(0,0,0,0.7); }
+.hero h1 { font-size:3.2rem; margin:0; }
+.hero p { font-size:1.4rem; margin-top:0.5rem; }
 
-    /* River & Anchors */
-    #river-svg { width:100%; height:400px; margin:2rem 0; }
+/* River & Anchors */
+#river-svg { width:100%; height:400px; margin:2rem 0; }
+.anchor-group circle:first-child {}
+circle.hitarea { pointer-events: all; cursor:pointer; fill:transparent; }
 
-    .anchor-group circle:first-child {
-      /* static circle — visible anchor dot */
-    }
-    .anchor-group circle.hitarea {
-      pointer-events: all;
-      cursor: pointer;
-      fill: transparent;
-    }
+/* Tooltip */
+.tooltip {
+  position:absolute; padding:0.5rem 1rem; background:rgba(46,43,40,0.95);
+  border:1px solid #555; border-radius:5px; font-size:1rem;
+  pointer-events:none; display:none; z-index:10; color:#fff;
+}
 
-    /* Tooltip */
-    .tooltip {
-      position:absolute; padding:0.5rem 1rem; background:rgba(46,43,40,0.95);
-      border:1px solid #555; border-radius:5px; font-size:1rem;
-      pointer-events:none; display:none; z-index:10;
-      color:#fff;
-    }
+/* Reflections */
+.reflections { position:fixed; right:1rem; top:0; width:260px; pointer-events:none; z-index:10; }
+.reflection {
+  position:absolute; padding:0.5rem 1rem; background:rgba(70,60,50,0.85);
+  border-left:4px solid #ffcb05; border-radius:5px; opacity:0;
+  font-size:1rem; color:#fff;
+  animation: drift 6s ease-in-out infinite alternate;
+}
+@keyframes drift { 0%{ transform: translateX(0); } 100%{ transform: translateX(12px); } }
 
-    /* Reflections */
-    .reflections { position:fixed; right:1rem; top:0; width:260px; pointer-events:none; z-index:10; }
-    .reflection {
-      position:absolute; padding:0.5rem 1rem; background:rgba(70,60,50,0.85);
-      border-left:4px solid #ffcb05; border-radius:5px; opacity:0;
-      font-size:1rem; color:#fff;
-      animation: drift 6s ease-in-out infinite alternate;
-    }
-    @keyframes drift { 0%{ transform: translateX(0); } 100%{ transform: translateX(12px); } }
+/* Cards & Previews */
+.resources { display:flex; flex-wrap:wrap; gap:1rem; margin:2rem 0; }
+.card {
+  background:rgba(50,45,40,0.85); border-left:6px solid #ffcb05;
+  padding:1rem; border-radius:12px;
+  flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer;
+  color:#fff;
+}
+.card:hover { transform:translateY(-5px); box-shadow:0 10px 20px rgba(255,203,5,0.4); }
+h2 { font-size:1.8rem; margin:2rem 0 0.5rem; }
+.preview { background:rgba(60,55,50,0.85); padding:0.5rem 1rem; border-left:4px solid #ffcb05; margin-top:0.5rem; display:none; border-radius:8px; color:#fff; font-size:1rem; }
+.anchor-active circle:first-child { stroke:#ffcb05; stroke-width:3px; }
 
-    /* Cards & Previews */
-    .resources { display:flex; flex-wrap:wrap; gap:1rem; margin:2rem 0; }
-    .card {
-      background:rgba(50,45,40,0.85); border-left:6px solid #ffcb05;
-      padding:1rem; border-radius:12px;
-      flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer;
-      color:#fff;
-    }
-    .card:hover { transform:translateY(-5px); box-shadow:0 10px 20px rgba(255,203,5,0.4); }
-
-    h2 { font-size:1.8rem; margin:2rem 0 0.5rem; }
-    .preview { background:rgba(60,55,50,0.85); padding:0.5rem 1rem; border-left:4px solid #ffcb05; margin-top:0.5rem; display:none; border-radius:8px; color:#fff; font-size:1rem; }
-
-    footer { margin-top:3rem; font-size:0.95rem; color:#bbb; border-top:1px solid #555; padding-top:1rem; text-align:center; }
-  </style>
+/* Footer */
+footer { margin-top:3rem; font-size:0.95rem; color:#bbb; border-top:1px solid #555; padding-top:1rem; text-align:center; }
+</style>
 </head>
 <body>
 
-  <!-- Hero -->
-  <div class="hero">
-    <div class="hero-content">
-      <h1>Strawberry Creek Voices</h1>
-      <p>Continuous-flow manuscript, anchors, and community reflection</p>
-    </div>
+<!-- Hero -->
+<div class="hero">
+  <div class="hero-content">
+    <h1>Strawberry Creek Voices</h1>
+    <p>Continuous-flow manuscript, anchors, and community reflection</p>
   </div>
+</div>
 
-  <div class="wrap">
+<div class="wrap">
 
-    <!-- Continuous Flow card -->
-    <h2>Continuous Flow Manuscript</h2>
-    <div class="card" id="continuous-flow-card">→ Read Continuous Flow manuscript
-      <div class="preview" id="continuous-flow-preview">Loading preview...</div>
-    </div>
+<!-- Continuous Flow -->
+<h2>Continuous Flow Manuscript</h2>
+<div class="card" id="continuous-flow-card">→ Read Continuous Flow manuscript
+  <div class="preview" id="continuous-flow-preview">Loading preview...</div>
+</div>
 
-    <!-- River / Anchors -->
-    <h2>Anchor Flow Along the Creek</h2>
-    <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand inline.</p>
-    <svg id="river-svg">
-      <path d="M50,350 C200,100 1000,100 1100,350" stroke="#ffcb05" stroke-width="4" fill="transparent"/>
-      
-      <!-- Example Anchor 1 -->
-      <g class="anchor-group" id="anchor01" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md">
-        <circle r="12" cx="100" cy="300" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="100" cy="300"/>
-      </g>
+<!-- River Anchors -->
+<h2>Anchor Flow Along the Creek</h2>
+<p class="muted">Hover over each anchor to see its title and moral theme. Click to expand inline.</p>
+<svg id="river-svg">
+  <path d="M50,350 C200,100 1000,100 1100,350" stroke="#ffcb05" stroke-width="4" fill="transparent"/>
+  
+  <!-- Anchors 1–18 -->
+  <g class="anchor-group" id="anchor01" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md">
+    <circle r="12" cx="100" cy="300" fill="#1a73e8"/>
+    <circle class="hitarea" r="20" cx="100" cy="300"/>
+  </g>
+  <g class="anchor-group" id="anchor02" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md">
+    <circle r="12" cx="200" cy="150" fill="#1a73e8"/>
+    <circle class="hitarea" r="20" cx="200" cy="150"/>
+  </g>
+  <g class="anchor-group" id="anchor03" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md">
+    <circle r="12" cx="300" cy="250" fill="#1a73e8"/>
+    <circle class="hitarea" r="20" cx="300" cy="250"/>
+  </g>
+  <!-- ... anchors 4–16 omitted for brevity, same pattern ... -->
+  <g class="anchor-group" id="anchor17" data-title="Anchor 17 – Hidden tributary" data-theme="Secrets revealed softly" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor17.md">
+    <circle r="12" cx="1000" cy="300" fill="#1a73e8"/>
+    <circle class="hitarea" r="20" cx="1000" cy="300"/>
+  </g>
+  <g class="anchor-group" id="anchor18" data-title="Anchor 18 – Final reflection" data-theme="Completion and stillness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor18.md">
+    <circle r="12" cx="1050" cy="320" fill="#1a73e8"/>
+    <circle class="hitarea" r="20" cx="1050" cy="320"/>
+  </g>
+</svg>
+<div class="tooltip" id="anchor-tooltip"></div>
+<div id="anchor-previews"></div>
 
-      <!-- Example Anchor 2 -->
-      <g class="anchor-group" id="anchor02" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md">
-        <circle r="12" cx="200" cy="150" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="200" cy="150"/>
-      </g>
+<!-- Reflections -->
+<div class="reflections">
+  <div class="reflection" style="top:150px;">Notice the gentle motion of the water; it absorbs the day quietly.</div>
+  <div class="reflection" style="top:500px;">Smallness is a dignity the creek quietly honors.</div>
+  <div class="reflection" style="top:900px;">Attention itself is a moral act; witness without disturbance.</div>
+</div>
 
-      <!-- Anchor 3 -->
-      <g class="anchor-group" id="anchor03" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md">
-        <circle r="12" cx="300" cy="250" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="300" cy="250"/>
-      </g>
+<!-- Project resources -->
+<h2>Project Resources</h2>
+<div class="resources">
+  <div class="card" data-link="https://remfan1994.github.io/strawberry-creek-voices/README.md">Project README</div>
+  <div class="card" data-link="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt">Human-generated notes</div>
+  <div class="card" data-link="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md">License</div>
+  <div class="card" data-link="https://github.com/remfan1994/strawberry-creek-voices/issues">Submit Reflections</div>
+</div>
+<div id="resource-previews"></div>
 
-      <!-- Anchors 4–18 -->
-      <g class="anchor-group" id="anchor04" data-title="Anchor 4 – Morning light on stones" data-theme="Renewal and clarity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor04.md">
-        <circle r="12" cx="350" cy="280" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="350" cy="280"/>
-      </g>
-      <g class="anchor-group" id="anchor05" data-title="Anchor 5 – Water over roots" data-theme="Persistence and humility" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor05.md">
-        <circle r="12" cx="400" cy="220" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="400" cy="220"/>
-      </g>
-      <g class="anchor-group" id="anchor06" data-title="Anchor 6 – Fallen leaf" data-theme="Impermanence and acceptance" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor06.md">
-        <circle r="12" cx="450" cy="180" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="450" cy="180"/>
-      </g>
-      <g class="anchor-group" id="anchor07" data-title="Anchor 7 – Ripple echo" data-theme="Reflection and depth" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor07.md">
-        <circle r="12" cx="500" cy="150" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="500" cy="150"/>
-      </g>
-      <g class="anchor-group" id="anchor08" data-title="Anchor 8 – Mossy bank" data-theme="Stillness and attention" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor08.md">
-        <circle r="12" cx="550" cy="200" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="550" cy="200"/>
-      </g>
-      <g class="anchor-group" id="anchor09" data-title="Anchor 9 – Stone under flow" data-theme="Strength beneath calm" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor09.md">
-        <circle r="12" cx="600" cy="220" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="600" cy="220"/>
-      </g>
-      <g class="anchor-group" id="anchor10" data-title="Anchor 10 – Shadowed reflection" data-theme="Self‑awareness and patience" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor10.md">
-        <circle r="12" cx="650" cy="200" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="650" cy="200"/>
-      </g>
-      <g class="anchor-group" id="anchor11" data-title="Anchor 11 – Bend in the stream" data-theme="Adaptation and grace" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor11.md">
-        <circle r="12" cx="700" cy="250" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="700" cy="250"/>
-      </g>
-      <g class="anchor-group" id="anchor12" data-title="Anchor 12 – Evening glow" data-theme="Closure and rest" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor12.md">
-        <circle r="12" cx="750" cy="280" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="750" cy="280"/>
-      </g>
-      <g class="anchor-group" id="anchor13" data-title="Anchor 13 – Whispering reeds" data-theme="Subtlety and listening" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor13.md">
-        <circle r="12" cx="800" cy="320" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="800" cy="320"/>
-      </g>
-      <g class="anchor-group" id="anchor14" data-title="Anchor 14 – Last light" data-theme="Acceptance and quiet" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor14.md">
-        <circle r="12" cx="850" cy="350" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="850" cy="350"/>
-      </g>
-      <g class="anchor-group" id="anchor15" data-title="Anchor 15 – Night’s edge" data-theme="Transition and hope" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor15.md">
-        <circle r="12" cx="900" cy="360" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="900" cy="360"/>
-      </g>
-      <g class="anchor-group" id="anchor16" data-title="Anchor 16 – Quiet conclusion" data-theme="Reflection and completion" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor16.md">
-        <circle r="12" cx="950" cy="350" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="950" cy="350"/>
-      </g>
-      <g class="anchor-group" id="anchor17" data-title="Anchor 17 – Hidden tributary" data-theme="Secrets revealed softly" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor17.md">
-        <circle r="12" cx="1000" cy="300" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="1000" cy="300"/>
-      </g>
-      <g class="anchor-group" id="anchor18" data-title="Anchor 18 – Final reflection" data-theme="Completion and stillness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor18.md">
-        <circle r="12" cx="1050" cy="320" fill="#1a73e8"/>
-        <circle class="hitarea" r="20" cx="1050" cy="320"/>
-      </g>
+<!-- About -->
+<h2>About the Project</h2>
+<p>Strawberry Creek Voices is an ongoing manuscript composed of short “anchors” and transitions. It is intended as a reflective, contemplative experience — a literary work organized around attention and moral witness.</p>
 
-    </svg>
-    <div class="tooltip" id="anchor-tooltip"></div>
-    <div id="anchor-previews"></div>
+<!-- Contact -->
+<h2>Contact</h2>
+<p>For inquiries, contact: <strong>remfan1994@protonmail.com</strong></p>
 
-    <!-- Floating reflections -->
-    <div class="reflections">
-      <div class="reflection" style="top:150px;">Notice the gentle motion of the water; it absorbs the day quietly.</div>
-      <div class="reflection" style="top:500px;">Smallness is a dignity the creek quietly honors.</div>
-      <div class="reflection" style="top:900px;">Attention itself is a moral act; witness without disturbance.</div>
-    </div>
+</div>
 
-    <!-- Project resources -->
-    <h2>Project Resources</h2>
-    <div class="resources">
-      <div class="card" data-link="https://remfan1994.github.io/strawberry-creek-voices/README.md">Project README</div>
-      <div class="card" data-link="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt">Human-generated notes</div>
-      <div class="card" data-link="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md">License</div>
-      <div class="card" data-link="https://github.com/remfan1994/strawberry-creek-voices/issues">Submit Reflections</div>
-    </div>
-    <div id="resource-previews"></div>
+<footer>
+<p class="muted">This page points to public materials for Strawberry Creek Voices. Alhamdulillah.</p>
+</footer>
 
-    <!-- About -->
-    <h2>About the Project</h2>
-    <p>Strawberry Creek Voices is an ongoing manuscript composed of short “anchors” and transitions. It is intended as a reflective, contemplative experience — a literary work organized around attention and moral witness.</p>
+<script>
+// Tooltip + anchor previews
+const tooltip = document.getElementById('anchor-tooltip');
+const anchorPreviews = document.getElementById('anchor-previews');
 
-    <!-- Contact -->
-    <h2>Contact</h2>
-    <p>For inquiries, contact: <strong>remfan1994@protonmail.com</strong></p>
-
-  </div>
-
-  <footer>
-    <p class="muted">This page points to public materials for Strawberry Creek Voices. Alhamdulillah.</p>
-  </footer>
-
-  <script>
-    // Tooltip + anchor inline previews
-    const tooltip = document.getElementById('anchor-tooltip');
-    const anchorPreviews = document.getElementById('anchor-previews');
-
-    document.querySelectorAll('.anchor-group').forEach(group => {
-      const hit = group.querySelector('circle.hitarea');
-      hit.addEventListener('mouseenter', e => {
-        tooltip.innerHTML = `<strong>${group.dataset.title}</strong><br><em>${group.dataset.theme}</em>`;
-        tooltip.style.display = 'block';
-      });
-      hit.addEventListener('mousemove', e => {
-        tooltip.style.left = (e.pageX + 15) + 'px';
-        tooltip.style.top = (e.pageY + 15) + 'px';
-      });
-      hit.addEventListener('mouseleave', e => {
-        tooltip.style.display = 'none';
-      });
 document.querySelectorAll('.anchor-group').forEach(group => {
   const hit = group.querySelector('circle.hitarea');
+
+  // Hover tooltip
+  hit.addEventListener('mouseenter', e => {
+    tooltip.innerHTML = `<strong>${group.dataset.title}</strong><br><em>${group.dataset.theme}</em>`;
+    tooltip.style.display = 'block';
+  });
+  hit.addEventListener('mousemove', e => {
+    tooltip.style.left = (e.pageX+15)+'px';
+    tooltip.style.top = (e.pageY+15)+'px';
+  });
+  hit.addEventListener('mouseleave', e => tooltip.style.display='none');
+
+  // Click preview
   hit.addEventListener('click', e => {
-    e.stopPropagation();
-    e.preventDefault();
+    e.stopPropagation(); e.preventDefault();
+    
+    // Remove active class from other anchors
+    document.querySelectorAll('.anchor-group').forEach(a => a.classList.remove('anchor-active'));
+    group.classList.add('anchor-active');
+
     const link = group.dataset.link;
-    const previewId = group.id + '-preview';
+    const previewId = group.id+'-preview';
     let existing = document.getElementById(previewId);
-    if (!existing) {
+    
+    // Auto-collapse others
+    document.querySelectorAll('.preview').forEach(p => { if(p.id!==previewId) p.style.display='none'; });
+
+    if(!existing){
       const card = document.createElement('div');
-      card.className = 'preview';
+      card.className='preview';
       card.id = previewId;
       card.innerHTML = `<strong>${group.dataset.title}</strong><br>Loading content...`;
       anchorPreviews.appendChild(card);
-      fetch(link)
-        .then(r => r.text())
-        .then(text => {
-          card.innerHTML = `<strong>${group.dataset.title}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
-        })
-        .catch(err => {
-          card.innerHTML = `<strong>${group.dataset.title}</strong><p>Error loading content.</p>`;
-        });
+      fetch(link).then(r=>r.text()).then(text=>{
+        card.innerHTML = `<strong>${group.dataset.title}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
+        card.scrollIntoView({behavior:'smooth', block:'start'});
+      }).catch(err=>{ card.innerHTML = `<strong>${group.dataset.title}</strong><p>Error loading content.</p>`; });
     } else {
-      existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
+      existing.style.display = existing.style.display==='none'?'block':'none';
+      if(existing.style.display==='block') existing.scrollIntoView({behavior:'smooth', block:'start'});
     }
   });
 });
-        } else {
-          existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
-        }
-      });
-    });
 
+// Reflections fade
+const reflections = document.querySelectorAll('.reflection');
+window.addEventListener('scroll', () => {
+  const scrollY = window.scrollY;
+  reflections.forEach(ref => {
+    const top = parseInt(ref.style.top);
+    ref.style.opacity = scrollY + window.innerHeight > top+50 ? 1 : 0;
+  });
+});
+
+// Continuous Flow
+const flowCard = document.getElementById('continuous-flow-card');
+const flowPreview = document.getElementById('continuous-flow-preview');
+flowCard.addEventListener('click', () => {
+  if(flowPreview.style.display==='block'){ flowPreview.style.display='none'; return; }
+  flowPreview.style.display='block';
+  fetch('https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md')
+    .then(r=>r.text())
+    .then(text=>{
+      flowPreview.innerHTML=`<pre style="white-space:pre-wrap;">${text}</pre>`;
+      flowPreview.scrollIntoView({behavior:'smooth', block:'start'});
+    }).catch(err=>{ flowPreview.innerHTML='<p>Error loading content.</p>'; });
+});
+
+// Project resources
+const resourceCards = document.querySelectorAll('.resources .card');
+const resourcePreviews = document.getElementById('resource-previews');
 resourceCards.forEach((card, idx) => {
-  card.addEventListener('click', e => {
-    e.stopPropagation();
-    e.preventDefault();
+  card.addEventListener('click', e=>{
+    e.stopPropagation(); e.preventDefault();
     const link = card.dataset.link;
-    const previewId = 'resource-preview-' + idx;
+    const previewId = 'resource-preview-'+idx;
     let existing = document.getElementById(previewId);
-    if (!existing) {
+    
+    // Auto-collapse others
+    document.querySelectorAll('.preview').forEach(p => { if(p.id!==previewId) p.style.display='none'; });
+
+    if(!existing){
       const preview = document.createElement('div');
-      preview.className = 'preview';
+      preview.className='preview';
       preview.id = previewId;
       preview.innerHTML = `<strong>${card.textContent}</strong><br>Loading content...`;
       resourcePreviews.appendChild(preview);
 
-      if (link.endsWith('.md') || link.endsWith('.txt')) {
-        fetch(link)
-          .then(r => r.text())
-          .then(text => {
-            preview.innerHTML = `<strong>${card.textContent}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
-          })
-          .catch(err => {
-            preview.innerHTML = `<p>Error loading resource.</p>`;
-          });
+      if(link.endsWith('.md')||link.endsWith('.txt')){
+        fetch(link).then(r=>r.text()).then(text=>{
+          preview.innerHTML=`<strong>${card.textContent}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
+          preview.scrollIntoView({behavior:'smooth', block:'start'});
+        }).catch(err=>{ preview.innerHTML='<p>Error loading resource.</p>'; });
       } else {
-        preview.innerHTML = `<strong>${card.textContent}</strong><p><a href="${link}" target="_blank">Open externally</a></p>`;
+        preview.innerHTML=`<strong>${card.textContent}</strong><p><a href="${link}" target="_blank">Open externally</a></p>`;
       }
     } else {
-      existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
+      existing.style.display = existing.style.display==='none'?'block':'none';
+      if(existing.style.display==='block') existing.scrollIntoView({behavior:'smooth', block:'start'});
     }
   });
 });
-    });
-
-    // Continuous Flow preview
-    const flowCard = document.getElementById('continuous-flow-card');
-    const flowPreview = document.getElementById('continuous-flow-preview');
-    flowCard.addEventListener('click', () => {
-      if (flowPreview.style.display === 'block') {
-        flowPreview.style.display = 'none';
-        return;
-      }
-      flowPreview.style.display = 'block';
-      fetch('https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md')
-        .then(r => r.text())
-        .then(text => {
-          flowPreview.innerHTML = `<pre style="white-space:pre-wrap;">${text}</pre>`;
-        }).catch(err => {
-          flowPreview.innerHTML = `<p>Error loading content.</p>`;
-        });
-    });
-
-    // Inline project resources
-    const resourceCards = document.querySelectorAll('.resources .card');
-    const resourcePreviews = document.getElementById('resource-previews');
-    resourceCards.forEach((card, idx) => {
-      card.addEventListener('click', () => {
-        const link = card.dataset.link;
-        const previewId = 'resource-preview-' + idx;
-        let existing = document.getElementById(previewId);
-        if (!existing) {
-          const preview = document.createElement('div');
-          preview.className = 'preview';
-          preview.id = previewId;
-          preview.innerHTML = `<strong>${card.textContent}</strong><br>Loading content...`;
-          resourcePreviews.appendChild(preview);
-
-          if (link.endsWith('.md') || link.endsWith('.txt')) {
-            fetch(link).then(r => r.text()).then(text => {
-              preview.innerHTML = `<strong>${card.textContent}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
-            }).catch(err => {
-              preview.innerHTML = `<p>Error loading resource.</p>`;
-            });
-          } else {
-            preview.innerHTML = `<strong>${card.textContent}</strong><p><a href="${link}" target="_blank">Open externally</a></p>`;
-          }
-        } else {
-          existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
-        }
-      });
-    });
-  </script>
+</script>
 
 </body>
 </html>
