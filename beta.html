@@ -1,130 +1,258 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Strawberry Creek Voices (SCV)</title>
-  <meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
-  <style>
-    html, body {
-      height: 100%; margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      color: #111; background: #fefefc; line-height: 1.45; overflow-x: hidden;
-    }
-    .wrap { max-width: 900px; margin: 40px auto; padding: 20px; }
-    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
-    h2 { font-size: 1.2rem; margin: 1.25rem 0 0.25rem; }
-    p { margin: 0.5rem 0; }
-    a { color: #0b5ed7; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .muted { color: #444; font-size: 0.95rem; }
-    .links { margin-top: 1rem; }
-    .links a { display: block; margin: 0.35rem 0; }
-    .note { margin-top: 1.25rem; padding: 10px 12px; border-left: 4px solid #ddd; background: #fbfbfb; }
-    .contact { margin-top: 1.25rem; }
-    footer { margin-top: 2rem; font-size: 0.9rem; color: #444; border-top: 1px solid #eee; padding-top: 1rem; }
-    .timeline { display: flex; justify-content: space-between; align-items: center; margin-top: 1rem; padding: 1rem 0; border-top: 2px solid #c5c5c5; position: relative; }
-    .anchor-point a { display: inline-block; width: 18px; height: 18px; background: #1a73e8; border-radius: 50%; text-indent: -9999px; position: relative; }
-    #anchor-tooltip { position: absolute; padding: 0.5rem 1rem; background: rgba(255,255,255,0.95); border: 1px solid #ccc; border-radius: 5px; display: none; font-size: 0.9rem; pointer-events: none; z-index: 10; }
-    .floating-reflections { position: fixed; right: 1rem; top: 0; width: 250px; pointer-events: none; z-index: 10; }
-    .reflection { position: absolute; padding: 0.5rem 1rem; background: rgba(255,255,255,0.9); border-left: 4px solid #1a73e8; margin-bottom: 1rem; border-radius: 5px; opacity: 0; transition: opacity 0.6s ease; font-size: 0.9rem; color: #111; }
-    .bg-water { position: fixed; top:0; left:0; width:100%; height:100%; background: url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') no-repeat center center; background-size: cover; opacity:0.05; z-index:-1; }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Strawberry Creek Voices (SCV)</title>
+<meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
+<style>
+  /* Basic resets */
+  html, body {
+    height: 100%;
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    color: #111;
+    background: #fefefc;
+    overflow-x: hidden;
+  }
+
+  /* Hero banner */
+  .hero {
+    position: relative;
+    width: 100%;
+    height: 80vh;
+    background: url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .hero::after {
+    content: '';
+    position: absolute;
+    top:0; left:0; width:100%; height:100%;
+    background: rgba(254,254,252,0.3);
+  }
+
+  .hero-content {
+    position: relative;
+    text-align: center;
+    color: #111;
+    text-shadow: 0 2px 4px rgba(255,255,255,0.6);
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+    margin: 0;
+  }
+  .hero p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+  }
+
+  /* River / anchors */
+  .river {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin: 2rem 0;
+    background: linear-gradient(180deg, #e0f7fa 0%, #ffffff 100%);
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  .anchor-point {
+    position: absolute;
+    width: 24px; height: 24px;
+    background: #1a73e8;
+    border-radius: 50%;
+    cursor: pointer;
+    animation: pulse 2s infinite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @keyframes pulse {
+    0%,100%{transform: scale(1);}
+    50%{transform: scale(1.3);}
+  }
+
+  .tooltip {
+    position: absolute;
+    padding: 0.5rem 1rem;
+    background: rgba(255,255,255,0.95);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+  }
+
+  /* Floating reflections */
+  .floating-reflections {
+    position: fixed;
+    right: 1rem;
+    top: 0;
+    width: 250px;
+    pointer-events: none;
+    z-index: 10;
+  }
+
+  .reflection {
+    position: absolute;
+    padding: 0.5rem 1rem;
+    background: rgba(255,255,255,0.9);
+    border-left: 4px solid #1a73e8;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.6s ease, transform 1s ease;
+    font-size: 0.9rem;
+    color: #111;
+    animation: drift 6s ease-in-out infinite alternate;
+  }
+
+  @keyframes drift {
+    0%{transform: translateX(0);}
+    100%{transform: translateX(15px);}
+  }
+
+  /* Resource cards */
+  .resources {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+
+  .card {
+    background: rgba(255,255,255,0.9);
+    border-left: 6px solid #1a73e8;
+    padding: 1rem;
+    border-radius: 10px;
+    flex: 1 1 250px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(26,115,232,0.3);
+  }
+
+  /* About / Contact */
+  .wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0.5rem;
+  }
+
+  footer {
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #444;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+  }
+
+</style>
 </head>
 <body>
-  <div class="bg-water"></div>
+
+  <!-- Hero -->
+  <div class="hero">
+    <div class="hero-content">
+      <h1>Strawberry Creek Voices</h1>
+      <p>Continuous-flow manuscript, anchors, and community reflection</p>
+    </div>
+  </div>
+
   <main class="wrap" role="main">
-    <h1>Strawberry Creek Voices (SCV)</h1>
-    <p class="muted">A continuous-flow literary project of attention, memory, and quiet witness.</p>
 
-    <h2>Read the manuscript (continuous flow)</h2>
-    <p>The primary reading for SCV is the continuous-flow manuscript, integrating the anchors and transitions into a coherent narrative.</p>
-    <div class="links">
-      <a href="https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md" target="_blank" rel="noopener noreferrer">
-        → Read the Continuous Flow manuscript
-      </a>
-    </div>
-
-    <h2>Project resources</h2>
-    <div class="links">
-      <a href="https://remfan1994.github.io/strawberry-creek-voices/README.md" target="_blank" rel="noopener noreferrer">Project README</a>
-      <a href="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt" target="_blank" rel="noopener noreferrer">Human-generated notes</a>
-      <a href="https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md" target="_blank" rel="noopener noreferrer">License</a>
-      <a href="https://github.com/remfan1994/strawberry-creek-voices/issues" target="_blank" rel="noopener noreferrer">Contribute / submit reflections</a>
-    </div>
-
+    <!-- River with Anchors -->
     <h2>Anchor Flow Along the Creek</h2>
-    <p class="muted">Hover over each anchor to see its title and moral theme, and click to read the full passage.</p>
-    <div class="timeline">
-      <div class="anchor-point" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity">
-        <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md" target="_blank">●</a>
-      </div>
-      <div class="anchor-point" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful">
-        <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md" target="_blank">●</a>
-      </div>
-      <div class="anchor-point" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness">
-        <a href="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md" target="_blank">●</a>
-      </div>
-      <!-- Add additional anchors as needed -->
+    <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand.</p>
+    <div class="river">
+      <div class="anchor-point" style="top:60px; left:10%;" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md"></div>
+      <div class="anchor-point" style="top:200px; left:40%;" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md"></div>
+      <div class="anchor-point" style="top:120px; left:70%;" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md"></div>
     </div>
-    <div id="anchor-tooltip"></div>
+    <div class="tooltip" id="anchor-tooltip"></div>
 
+    <!-- Floating reflections -->
     <div class="floating-reflections">
       <div class="reflection" style="top:150px;">Notice the gentle motion of the water; it absorbs the day quietly.</div>
       <div class="reflection" style="top:500px;">Smallness is a dignity the creek quietly honors.</div>
       <div class="reflection" style="top:900px;">Attention itself is a moral act; witness without disturbance.</div>
     </div>
 
-    <h2>About the project</h2>
-    <p>Strawberry Creek Voices is an ongoing manuscript composed of short “anchors” and transitions. It is intended as a reflective, contemplative experience — a literary work organized around attention and moral witness.</p>
-
-    <div class="note">
-      <strong>Content constraints</strong>
-      <p class="muted">To preserve the project’s moral and aesthetic integrity, SCV maintains strict content boundaries. Contributions must not depict littering or human-caused harm to animals; they should preserve the contemplative voice of the project. These constraints are operational rules for the text, not promotional claims.</p>
+    <!-- Resources -->
+    <h2>Project Resources</h2>
+    <div class="resources">
+      <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/README.md','_blank')">Project README</div>
+      <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt','_blank')">Human-generated notes</div>
+      <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md','_blank')">License</div>
+      <div class="card" onclick="window.open('https://github.com/remfan1994/strawberry-creek-voices/issues','_blank')">Submit Reflections</div>
     </div>
 
-    <h2>Community involvement</h2>
-    <p>SCV is a work in progress. To share a short reflection or propose a micro-observation in the style of the anchors, open an issue on the project repository (link above). Submissions are reviewed for alignment with the project's tone and ethical boundaries.</p>
+    <!-- About -->
+    <h2>About the Project</h2>
+    <p>Strawberry Creek Voices is an ongoing manuscript composed of short “anchors” and transitions. It is intended as a reflective, contemplative experience — a literary work organized around attention and moral witness.</p>
 
+    <!-- Contact -->
     <h2>Contact</h2>
-    <p class="contact">For inquiries, contact the project maintainer: <br><strong>remfan1994@protonmail.com</strong></p>
+    <p>For inquiries, contact: <strong>remfan1994@protonmail.com</strong></p>
 
-    <footer>
-      <p class="muted">This page points to public materials for Strawberry Creek Voices. The manuscript and related files are hosted on GitHub Pages. Alhamdulillah.</p>
-    </footer>
   </main>
 
-  <script>
-    // Tooltip for anchors
-    const tooltip = document.getElementById('anchor-tooltip');
-    document.querySelectorAll('.anchor-point').forEach(point => {
-      point.addEventListener('mouseenter', e => {
-        const title = point.getAttribute('data-title');
-        const theme = point.getAttribute('data-theme');
-        tooltip.innerHTML = `<strong>${title}</strong><br><em>${theme}</em>`;
-        tooltip.style.display = 'block';
-      });
-      point.addEventListener('mousemove', e => {
-        tooltip.style.left = (e.pageX + 15) + 'px';
-        tooltip.style.top = (e.pageY + 15) + 'px';
-      });
-      point.addEventListener('mouseleave', e => {
-        tooltip.style.display = 'none';
-      });
-    });
+  <footer>
+    <p class="muted">This page points to public materials for Strawberry Creek Voices. Alhamdulillah.</p>
+  </footer>
 
-    // Floating reflections
-    const reflections = document.querySelectorAll('.reflection');
-    window.addEventListener('scroll', () => {
-      const scrollY = window.scrollY;
-      reflections.forEach(ref => {
-        const top = parseInt(ref.style.top);
-        if(scrollY + window.innerHeight > top + 50) {
-          ref.style.opacity = 1;
-        } else {
-          ref.style.opacity = 0;
-        }
-      });
+<script>
+  // Tooltip for anchors
+  const tooltip = document.getElementById('anchor-tooltip');
+  document.querySelectorAll('.anchor-point').forEach(point=>{
+    point.addEventListener('mouseenter', e=>{
+      const title = point.getAttribute('data-title');
+      const theme = point.getAttribute('data-theme');
+      tooltip.innerHTML = `<strong>${title}</strong><br><em>${theme}</em>`;
+      tooltip.style.display = 'block';
     });
-  </script>
+    point.addEventListener('mousemove', e=>{
+      tooltip.style.left = (e.pageX + 15) + 'px';
+      tooltip.style.top = (e.pageY + 15) + 'px';
+    });
+    point.addEventListener('mouseleave', e=>{
+      tooltip.style.display = 'none';
+    });
+    point.addEventListener('click', e=>{
+      const link = point.getAttribute('data-link');
+      window.open(link,'_blank');
+    });
+  });
+
+  // Floating reflections fade in
+  const reflections = document.querySelectorAll('.reflection');
+  window.addEventListener('scroll', ()=>{
+    const scrollY = window.scrollY;
+    reflections.forEach(ref=>{
+      const top = parseInt(ref.style.top);
+      if(scrollY + window.innerHeight > top + 50){
+        ref.style.opacity = 1;
+      } else {
+        ref.style.opacity = 0;
+      }
+    });
+  });
+</script>
 </body>
 </html>
