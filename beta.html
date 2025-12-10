@@ -231,39 +231,70 @@
       hit.addEventListener('mouseleave', e => {
         tooltip.style.display = 'none';
       });
-      hit.addEventListener('click', e => {
-        const link = group.dataset.link;
-        const previewId = group.id + '-preview';
-        let existing = document.getElementById(previewId);
-        if (!existing) {
-          const card = document.createElement('div');
-          card.className = 'preview';
-          card.id = previewId;
-          card.innerHTML = `<strong>${group.dataset.title}</strong><br>Loading content...`;
-          anchorPreviews.appendChild(card);
-          fetch(link).then(r => r.text()).then(text => {
-            card.innerHTML = `<strong>${group.dataset.title}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
-          }).catch(err => {
-            card.innerHTML = `<strong>${group.dataset.title}</strong><p>Error loading content.</p>`;
-          });
+document.querySelectorAll('.anchor-group').forEach(group => {
+  const hit = group.querySelector('circle.hitarea');
+  hit.addEventListener('click', e => {
+    e.stopPropagation();
+    e.preventDefault();
+    const link = group.dataset.link;
+    const previewId = group.id + '-preview';
+    let existing = document.getElementById(previewId);
+    if (!existing) {
+      const card = document.createElement('div');
+      card.className = 'preview';
+      card.id = previewId;
+      card.innerHTML = `<strong>${group.dataset.title}</strong><br>Loading content...`;
+      anchorPreviews.appendChild(card);
+      fetch(link)
+        .then(r => r.text())
+        .then(text => {
+          card.innerHTML = `<strong>${group.dataset.title}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
+        })
+        .catch(err => {
+          card.innerHTML = `<strong>${group.dataset.title}</strong><p>Error loading content.</p>`;
+        });
+    } else {
+      existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
+    }
+  });
+});
         } else {
           existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
         }
       });
     });
 
-    // Reflections fade-in on scroll
-    const reflections = document.querySelectorAll('.reflection');
-    window.addEventListener('scroll', () => {
-      const scrollY = window.scrollY;
-      reflections.forEach(ref => {
-        const top = parseInt(ref.style.top);
-        if (scrollY + window.innerHeight > top + 50) {
-          ref.style.opacity = 1;
-        } else {
-          ref.style.opacity = 0;
-        }
-      });
+resourceCards.forEach((card, idx) => {
+  card.addEventListener('click', e => {
+    e.stopPropagation();
+    e.preventDefault();
+    const link = card.dataset.link;
+    const previewId = 'resource-preview-' + idx;
+    let existing = document.getElementById(previewId);
+    if (!existing) {
+      const preview = document.createElement('div');
+      preview.className = 'preview';
+      preview.id = previewId;
+      preview.innerHTML = `<strong>${card.textContent}</strong><br>Loading content...`;
+      resourcePreviews.appendChild(preview);
+
+      if (link.endsWith('.md') || link.endsWith('.txt')) {
+        fetch(link)
+          .then(r => r.text())
+          .then(text => {
+            preview.innerHTML = `<strong>${card.textContent}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
+          })
+          .catch(err => {
+            preview.innerHTML = `<p>Error loading resource.</p>`;
+          });
+      } else {
+        preview.innerHTML = `<strong>${card.textContent}</strong><p><a href="${link}" target="_blank">Open externally</a></p>`;
+      }
+    } else {
+      existing.style.display = existing.style.display === 'none' ? 'block' : 'none';
+    }
+  });
+});
     });
 
     // Continuous Flow preview
