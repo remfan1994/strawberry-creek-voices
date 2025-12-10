@@ -243,6 +243,13 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Narrative Elements:** Dusk as moral atmosphere, seeds, petals, twigs, biodegradable remnants  
 **Moral Note:** Even small currents can carry mercy; the creek witnesses without judgment
 
+## Anchor 18 – The Convergent Hollow
+**File:** `anchor18.md`  
+**Theme:** Decisions as gentle gravity
+**Voice Layer:** Underflow (slow, old)
+**Narrative Elements:** Hollowed banks, converging streams, moss-laden stones, faint reflections, drifting seeds 
+**Moral Note:** Choices shape currents; even silent motions leave weight
+
 
 ## Notes on this Index
 - Each anchor links to a separate `.md` file containing the full text.  
