@@ -6,253 +6,183 @@
 <title>Strawberry Creek Voices (SCV)</title>
 <meta name="description" content="Strawberry Creek Voices — continuous-flow manuscript, anchors, and community involvement." />
 <style>
-  /* Basic resets */
-  html, body {
-    height: 100%;
-    margin: 0;
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-    color: #111;
-    background: #fefefc;
-    overflow-x: hidden;
-  }
+html, body {
+  margin:0; padding:0; height:100%; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color:#111; background:#fefefc; overflow-x:hidden;
+}
+.wrap { max-width:1000px; margin:0 auto; padding:1rem 1.5rem; }
 
-  /* Hero banner */
-  .hero {
-    position: relative;
-    width: 100%;
-    height: 80vh;
-    background: url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center center/cover no-repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-  }
+.hero {
+  position:relative; width:100%; height:80vh; overflow:hidden; display:flex; align-items:center; justify-content:center;
+  background:url('https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+}
+.hero::after {
+  content:''; position:absolute; top:0; left:0; width:100%; height:100%;
+  background:rgba(254,254,252,0.3);
+}
+.hero-content {
+  position:relative; text-align:center; color:#111; text-shadow:0 2px 4px rgba(255,255,255,0.6);
+}
+.hero h1 { font-size:3rem; margin:0; }
+.hero p { font-size:1.2rem; margin-top:0.5rem; }
 
-  .hero::after {
-    content: '';
-    position: absolute;
-    top:0; left:0; width:100%; height:100%;
-    background: rgba(254,254,252,0.3);
-  }
+.parallax-layer {
+  position:absolute; top:0; left:0; width:100%; height:100%; background-repeat:no-repeat; background-position:center; background-size:cover; pointer-events:none; z-index:-1;
+}
 
-  .hero-content {
-    position: relative;
-    text-align: center;
-    color: #111;
-    text-shadow: 0 2px 4px rgba(255,255,255,0.6);
-  }
+#river-svg { width:100%; height:400px; }
 
-  .hero h1 {
-    font-size: 3rem;
-    margin: 0;
-  }
-  .hero p {
-    font-size: 1.2rem;
-    margin-top: 0.5rem;
-  }
+.anchor { fill:#1a73e8; cursor:pointer; transition:transform 0.3s ease; }
+.anchor:hover { transform: scale(1.4); }
 
-  /* River / anchors */
-  .river {
-    position: relative;
-    width: 100%;
-    height: 400px;
-    margin: 2rem 0;
-    background: linear-gradient(180deg, #e0f7fa 0%, #ffffff 100%);
-    border-radius: 20px;
-    overflow: hidden;
-  }
+.tooltip {
+  position:absolute; padding:0.5rem 1rem; background:rgba(255,255,255,0.95); border:1px solid #ccc; border-radius:5px; font-size:0.9rem; pointer-events:none; display:none; z-index:10;
+}
 
-  .anchor-point {
-    position: absolute;
-    width: 24px; height: 24px;
-    background: #1a73e8;
-    border-radius: 50%;
-    cursor: pointer;
-    animation: pulse 2s infinite;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+.reflections { position:fixed; right:1rem; top:0; width:250px; pointer-events:none; z-index:10; }
+.reflection {
+  position:absolute; padding:0.5rem 1rem; background:rgba(255,255,255,0.9);
+  border-left:4px solid #1a73e8; border-radius:5px; opacity:0;
+  font-size:0.9rem; color:#111;
+  animation: drift 6s ease-in-out infinite alternate;
+}
+@keyframes drift { 0%{transform:translateX(0);} 100%{transform:translateX(15px);} }
 
-  @keyframes pulse {
-    0%,100%{transform: scale(1);}
-    50%{transform: scale(1.3);}
-  }
+.resources { display:flex; flex-wrap:wrap; gap:1rem; margin:2rem 0; }
+.card { background:rgba(255,255,255,0.9); border-left:6px solid #1a73e8; padding:1rem; border-radius:10px; flex:1 1 250px; transition:transform 0.3s ease, box-shadow 0.3s ease; cursor:pointer; }
+.card:hover { transform:translateY(-5px); box-shadow:0 10px 20px rgba(26,115,232,0.3); }
 
-  .tooltip {
-    position: absolute;
-    padding: 0.5rem 1rem;
-    background: rgba(255,255,255,0.95);
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 0.9rem;
-    pointer-events: none;
-    display: none;
-    z-index: 10;
-  }
+h2 { font-size:1.5rem; margin:2rem 0 0.5rem; }
+.preview { background:#f9f9f9; padding:0.5rem 1rem; border-left:4px solid #1a73e8; margin-top:0.5rem; display:none; border-radius:5px; }
 
-  /* Floating reflections */
-  .floating-reflections {
-    position: fixed;
-    right: 1rem;
-    top: 0;
-    width: 250px;
-    pointer-events: none;
-    z-index: 10;
-  }
-
-  .reflection {
-    position: absolute;
-    padding: 0.5rem 1rem;
-    background: rgba(255,255,255,0.9);
-    border-left: 4px solid #1a73e8;
-    margin-bottom: 1rem;
-    border-radius: 5px;
-    opacity: 0;
-    transition: opacity 0.6s ease, transform 1s ease;
-    font-size: 0.9rem;
-    color: #111;
-    animation: drift 6s ease-in-out infinite alternate;
-  }
-
-  @keyframes drift {
-    0%{transform: translateX(0);}
-    100%{transform: translateX(15px);}
-  }
-
-  /* Resource cards */
-  .resources {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin: 2rem 0;
-  }
-
-  .card {
-    background: rgba(255,255,255,0.9);
-    border-left: 6px solid #1a73e8;
-    padding: 1rem;
-    border-radius: 10px;
-    flex: 1 1 250px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-  }
-
-  .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(26,115,232,0.3);
-  }
-
-  /* About / Contact */
-  .wrap {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 1rem 1.5rem;
-  }
-
-  h2 {
-    font-size: 1.5rem;
-    margin: 2rem 0 0.5rem;
-  }
-
-  footer {
-    margin-top: 3rem;
-    font-size: 0.9rem;
-    color: #444;
-    border-top: 1px solid #eee;
-    padding-top: 1rem;
-  }
-
+footer { margin-top:3rem; font-size:0.9rem; color:#444; border-top:1px solid #eee; padding-top:1rem; }
 </style>
 </head>
 <body>
 
-  <!-- Hero -->
-  <div class="hero">
-    <div class="hero-content">
-      <h1>Strawberry Creek Voices</h1>
-      <p>Continuous-flow manuscript, anchors, and community reflection</p>
+<!-- Hero -->
+<div class="hero">
+  <div class="hero-content">
+    <h1>Strawberry Creek Voices</h1>
+    <p>Continuous-flow manuscript, anchors, and community reflection</p>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <!-- Continuous Flow card -->
+  <h2>Continuous Flow Manuscript</h2>
+  <div class="card" id="continuous-flow-card">→ Read Continuous Flow manuscript
+    <div class="preview" id="continuous-flow-preview">
+      Loading preview...
     </div>
   </div>
 
-  <main class="wrap" role="main">
+  <!-- River / Anchors -->
+  <h2>Anchor Flow Along the Creek</h2>
+  <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand inline.</p>
+  <svg id="river-svg">
+    <path d="M50,350 C200,100 800,100 950,350" stroke="#1a73e8" stroke-width="4" fill="transparent"/>
+    <!-- Anchors -->
+    <circle class="anchor" cx="100" cy="300" r="12" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md"></circle>
+    <circle class="anchor" cx="450" cy="150" r="12" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md"></circle>
+    <circle class="anchor" cx="800" cy="250" r="12" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md"></circle>
+  </svg>
+  <div class="tooltip" id="anchor-tooltip"></div>
+  <div id="anchor-previews"></div>
 
-    <!-- River with Anchors -->
-    <h2>Anchor Flow Along the Creek</h2>
-    <p class="muted">Hover over each anchor to see its title and moral theme. Click to expand.</p>
-    <div class="river">
-      <div class="anchor-point" style="top:60px; left:10%;" data-title="Anchor 1 – The creek moves quietly…" data-theme="Smallness with dignity" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor01.md"></div>
-      <div class="anchor-point" style="top:200px; left:40%;" data-title="Anchor 2 – At Dusk" data-theme="Motion as merciful" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor02.md"></div>
-      <div class="anchor-point" style="top:120px; left:70%;" data-title="Anchor 3 – Harm absorbed, softened" data-theme="Patience and moral witness" data-link="https://remfan1994.github.io/strawberry-creek-voices/anchors/anchor03.md"></div>
-    </div>
-    <div class="tooltip" id="anchor-tooltip"></div>
+  <!-- Floating reflections -->
+  <div class="reflections">
+    <div class="reflection" style="top:150px;">Notice the gentle motion of the water; it absorbs the day quietly.</div>
+    <div class="reflection" style="top:500px;">Smallness is a dignity the creek quietly honors.</div>
+    <div class="reflection" style="top:900px;">Attention itself is a moral act; witness without disturbance.</div>
+  </div>
 
-    <!-- Floating reflections -->
-    <div class="floating-reflections">
-      <div class="reflection" style="top:150px;">Notice the gentle motion of the water; it absorbs the day quietly.</div>
-      <div class="reflection" style="top:500px;">Smallness is a dignity the creek quietly honors.</div>
-      <div class="reflection" style="top:900px;">Attention itself is a moral act; witness without disturbance.</div>
-    </div>
+  <!-- Project resources -->
+  <h2>Project Resources</h2>
+  <div class="resources">
+    <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/README.md','_blank')">Project README</div>
+    <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt','_blank')">Human-generated notes</div>
+    <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md','_blank')">License</div>
+    <div class="card" onclick="window.open('https://github.com/remfan1994/strawberry-creek-voices/issues','_blank')">Submit Reflections</div>
+  </div>
 
-    <!-- Resources -->
-    <h2>Project Resources</h2>
-    <div class="resources">
-      <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/README.md','_blank')">Project README</div>
-      <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.txt','_blank')">Human-generated notes</div>
-      <div class="card" onclick="window.open('https://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/LICENSE.md','_blank')">License</div>
-      <div class="card" onclick="window.open('https://github.com/remfan1994/strawberry-creek-voices/issues','_blank')">Submit Reflections</div>
-    </div>
+  <!-- About -->
+  <h2>About the Project</h2>
+  <p>Strawberry Creek Voices is an ongoing manuscript composed of short “anchors” and transitions. It is intended as a reflective, contemplative experience — a literary work organized around attention and moral witness.</p>
 
-    <!-- About -->
-    <h2>About the Project</h2>
-    <p>Strawberry Creek Voices is an ongoing manuscript composed of short “anchors” and transitions. It is intended as a reflective, contemplative experience — a literary work organized around attention and moral witness.</p>
+  <!-- Contact -->
+  <h2>Contact</h2>
+  <p>For inquiries, contact: <strong>remfan1994@protonmail.com</strong></p>
 
-    <!-- Contact -->
-    <h2>Contact</h2>
-    <p>For inquiries, contact: <strong>remfan1994@protonmail.com</strong></p>
+</div>
 
-  </main>
-
-  <footer>
-    <p class="muted">This page points to public materials for Strawberry Creek Voices. Alhamdulillah.</p>
-  </footer>
+<footer>
+  <p class="muted">This page points to public materials for Strawberry Creek Voices. Alhamdulillah.</p>
+</footer>
 
 <script>
-  // Tooltip for anchors
-  const tooltip = document.getElementById('anchor-tooltip');
-  document.querySelectorAll('.anchor-point').forEach(point=>{
-    point.addEventListener('mouseenter', e=>{
-      const title = point.getAttribute('data-title');
-      const theme = point.getAttribute('data-theme');
-      tooltip.innerHTML = `<strong>${title}</strong><br><em>${theme}</em>`;
-      tooltip.style.display = 'block';
-    });
-    point.addEventListener('mousemove', e=>{
-      tooltip.style.left = (e.pageX + 15) + 'px';
-      tooltip.style.top = (e.pageY + 15) + 'px';
-    });
-    point.addEventListener('mouseleave', e=>{
-      tooltip.style.display = 'none';
-    });
-    point.addEventListener('click', e=>{
-      const link = point.getAttribute('data-link');
-      window.open(link,'_blank');
-    });
-  });
+// Tooltip for anchors
+const tooltip = document.getElementById('anchor-tooltip');
+const previews = document.getElementById('anchor-previews');
 
-  // Floating reflections fade in
-  const reflections = document.querySelectorAll('.reflection');
-  window.addEventListener('scroll', ()=>{
-    const scrollY = window.scrollY;
-    reflections.forEach(ref=>{
-      const top = parseInt(ref.style.top);
-      if(scrollY + window.innerHeight > top + 50){
-        ref.style.opacity = 1;
-      } else {
-        ref.style.opacity = 0;
-      }
-    });
+document.querySelectorAll('.anchor').forEach(anchor => {
+  anchor.addEventListener('mouseenter', e => {
+    const title = anchor.getAttribute('data-title');
+    const theme = anchor.getAttribute('data-theme');
+    tooltip.innerHTML = `<strong>${title}</strong><br><em>${theme}</em>`;
+    tooltip.style.display = 'block';
   });
+  anchor.addEventListener('mousemove', e => {
+    tooltip.style.left = (e.pageX + 15) + 'px';
+    tooltip.style.top = (e.pageY + 15) + 'px';
+  });
+  anchor.addEventListener('mouseleave', e => {
+    tooltip.style.display = 'none';
+  });
+  anchor.addEventListener('click', e => {
+    const title = anchor.getAttribute('data-title');
+    const link = anchor.getAttribute('data-link');
+    let existing = document.getElementById(link);
+    if (!existing) {
+      const card = document.createElement('div');
+      card.className = 'preview';
+      card.id = link;
+      card.innerHTML = `<strong>${title}</strong><br>Loading content...`;
+      previews.appendChild(card);
+      fetch(link).then(r=>r.text()).then(text=>{
+        card.innerHTML = `<strong>${title}</strong><pre style="white-space:pre-wrap;">${text}</pre>`;
+      });
+    } else {
+      existing.style.display = existing.style.display==='none'?'block':'none';
+    }
+  });
+});
+
+// Floating reflections fade in
+const reflections = document.querySelectorAll('.reflection');
+window.addEventListener('scroll', ()=>{
+  const scrollY = window.scrollY;
+  reflections.forEach(ref=>{
+    const top = parseInt(ref.style.top);
+    if(scrollY + window.innerHeight > top + 50){
+      ref.style.opacity = 1;
+    } else {
+      ref.style.opacity = 0;
+    }
+  });
+});
+
+// Continuous Flow preview
+const flowCard = document.getElementById('continuous-flow-card');
+const flowPreview = document.getElementById('continuous-flow-preview');
+flowCard.addEventListener('click', ()=>{
+  if(flowPreview.style.display==='block'){ flowPreview.style.display='none'; return; }
+  flowPreview.style.display='block';
+  fetch('https://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.md')
+    .then(r=>r.text())
+    .then(text=>{ flowPreview.innerHTML = `<pre style="white-space:pre-wrap;">${text}</pre>`; });
+});
 </script>
 </body>
 </html>
