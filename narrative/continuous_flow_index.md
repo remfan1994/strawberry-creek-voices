@@ -209,7 +209,7 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 ---
 
 ## Transition 14 → 15
-**Text:** Night settles fully, not as an arrival but as a soft widening of perception. The creek’s currents slow to a meditative drift, smoothing sounds into one continuous breath. Shapes along the banks fade into silhouettes, and the water becomes a register of subtle movements—wind skimming low, small creatures testing the dark, the moon’s gradual ascent. Here the creek listens more than it flows, carrying the calm certainty of things that do not need to be seen to be known.  
+**Text:** Night settles fully, not as an arrival but as a soft widening of perception. The creek’s currents slow to a meditative drift, smoothing sounds into one continuous breath. Shapes along the banks fade into silhouettes, and the water becomes a register of subtle movements—wind skimming low, small creatures testing the dark, the moon’s gradual ascent. There are things that do not need to be closely watched to be understood—truths the creek reveals to those who move with quiet care. Currents shift subtly, reflections catch the light, and the creek holds each attentive heart in its flow.
 **Annotation:** Prepares for nocturnal small-life focus; emphasizes meditative quality and attentiveness.
 
 ---
