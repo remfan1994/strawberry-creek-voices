@@ -14,15 +14,42 @@ html, body {
 
 /* Hero */
 .hero {
-  position:relative; width:100%; height:75vh; display:flex; align-items:center; justify-content:center;
-  background:url('https://remfan1994.github.io/strawberry-creek-voices/web/scvhero.jpg') center/cover no-repeat;
+  position:relative;
+  width:100%;
+  height:75vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  /* Replace Unsplash with your real banner */
+  background:url('/web/scvhero.jpg') center/cover no-repeat;
 }
+
 .hero::after {
-  content:''; position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(46,43,40,0.5);
+  content:'';
+  position:absolute;
+  top:0; left:0;
+  width:100%; height:100%;
+  background:rgba(0,0,0,0.40); /* slightly lighter overlay for real photo */
 }
-.hero-content { position:relative; text-align:center; color:#fff; text-shadow:0 2px 6px rgba(0,0,0,0.7); }
-.hero h1 { font-size:3.2rem; margin:0; }
-.hero p { font-size:1.4rem; margin-top:0.5rem; }
+
+.hero-content {
+  position:relative;
+  text-align:center;
+  color:#fff;
+  text-shadow:0 2px 6px rgba(0,0,0,0.7);
+}
+
+.hero h1 {
+  font-size:3.2rem;
+  margin:0;
+}
+
+.hero p {
+  font-size:1.4rem;
+  margin-top:0.5rem;
+}
+
 
 /* River & Anchors */
 #river-svg { width:100%; height:400px; margin:2rem 0; }
