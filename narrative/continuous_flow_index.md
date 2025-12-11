@@ -250,6 +250,49 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Narrative Elements:**  Hollowed banks, converging streams, moss-laden stones, faint reflections, drifting seeds
 **Moral Note:**  Choices shape currents; even silent motions leave weight
 
+## Anchor 19 - The Threaded Glen
+**File:** `anchor19.md`  
+**Theme:** Intention and Alignment
+**Voice Layer:**   Low hum, purposeful, internalized
+**Narrative Elements:** Decisions forming, minor tensions resolved, creatures adjusting behaviors in response, attention drawn to what is most essential
+**Moral Note:** Reinforces consciousness as capital; builds momentum for active steps
+
+## Anchor 20 - The Luminous Bend
+**File:** `anchor20.md`  
+**Theme:** Action and Impact
+**Voice Layer:**   Clear, forward-driving, measured
+**Narrative Elements:** Deliberate movement, interactions between creatures, small-scale change in environment, cause and effect clearly observable
+**Moral Note:** First anchor where Repetition and Watchfulness are practically demonstrated
+
+
+## Anchor 21 - The Hollowed Spire
+**File:** `anchor21.md`  
+**Theme:** Assessment and Feedback
+**Voice Layer:**   Reflective, attentive, analytic
+**Narrative Elements:** Ripples settling, effects noted, creatures adjusting, environment responding, subtle shifts observed
+**Moral Note:** Feedback loop explicitly invoked; emphasizes learning and adjustment
+
+## Anchor 22 - The Verdant Weave
+**File:** `anchor22.md`  
+**Theme:** Refinement and Adjustment
+**Voice Layer:**   Soft but confident, iterative
+**Narrative Elements:** Corrections applied, behaviors smoothed, inefficient patterns reduced, environment stabilizing, stronger alignment of actions to intention
+**Moral Note:** Solidifies repetition cycle; ensures alignment before larger-scale engagement
+
+## Anchor 23 - The Conjoined Reach
+**File:** `anchor23.md`  
+**Theme:** Integration and Coordination
+**Voice Layer:**   Harmonized, interconnected, expansive
+**Narrative Elements:** Multiple actors working in concert, environment demonstrating emergent order, patterns forming across broader context
+**Moral Note:** Combines lessons from previous anchors; all prior feedback informs synchronized action
+
+## Anchor 24 - The Silent Confluence
+**File:** `anchor24.md`  
+**Theme:** Outcome and Consolidation
+**Voice Layer:**  Clear, resonant, resolved 
+**Narrative Elements:** Stable environment, observable total welfare increase, ripple effects fully integrated, creatures in equilibrium, sense of culmination
+**Moral Note:** Demonstrates total mercy / conscious-life outcome metric in SCV narrative; serves as reference point for next anchor cycle
+
 
 ## Notes on this Index
 - Each anchor links to a separate `.md` file containing the full text.  
