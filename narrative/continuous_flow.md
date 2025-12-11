@@ -188,7 +188,7 @@ Night approaches gently. The creek, now a quieter voice, listens to the sighs of
 
 Biodegradable scraps of paper, seeds, petals, and twigs—each left by humans or fallen naturally—float briefly before sinking, softening into the undercurrent. In this way, the creek participates in a quiet renewal: what was once separate is folded into the whole, nourishing soil, sustaining roots, and offering shelter for insects and small creatures.
 
-Every movement, no matter how slight, carries a lesson: patience, attentiveness, and gentle care are forms of service. The creek demonstrates that even in the absence of observation, the world can flourish when treated with respect.
+Each movement of the creek carries the quiet weight of care. Even the softest glance, the briefest pause, shapes the water’s rhythm. The creek carries memory in its currents, each ripple a record of attention given. Sunlight glints along water and stone, but it is the quiet presence of observers—the soft step on the bank, the patient pause beside the flow—that shapes the rhythm of the creek. Even the briefest glance, offered with care, leaves its mark. The creek responds not to force or hurry, but to mindful service, and in that attentiveness, it flourishes.
 
 Nightfall does not obscure memory; it reframes it. Shadows reveal contours, stars reflect in gentle pools, and the creek’s ledger of kindness, attention, and mercy deepens with each passing hour. It is ready to receive the next day, to witness new footsteps, new whispers, and new acts of quiet care, continuing the infinite cycle of presence, motion, and moral attentiveness.
 
@@ -208,7 +208,8 @@ Even in moonlit silence, the creek demonstrates attentiveness. Motion is gentle,
 
 Transition 14 → 15
 
-Night settles fully, not as an arrival but as a soft widening of perception. The creek’s currents slow to a meditative drift, smoothing sounds into one continuous breath. Shapes along the banks fade into silhouettes, and the water becomes a register of subtle movements—wind skimming low, small creatures testing the dark, the moon’s gradual ascent. Here the creek listens more than it flows, carrying the calm certainty of things that do not need to be seen to be known.
+Night settles fully, not as an arrival but as a soft widening of perception. The creek’s currents slow to a meditative drift, smoothing sounds into one continuous breath. Shapes along the banks fade into silhouettes, and the water becomes a register of subtle movements—wind skimming low, small creatures testing the dark, the moon’s gradual ascent. There are things that do not need to be closely watched to be understood—truths the creek reveals to those who move with quiet care. Currents shift subtly, reflections catch the light, and the creek holds each attentive heart in its flow.
+
 
 Anchor 15 – Small Lives at Dusk (Text)
 
