@@ -2,63 +2,63 @@ Strawberry Creek Voices – Ecological Redraft
 
 Anchor 1 – The creek moves quietly…
 
-Strawberry Creek moves quietly when no one is listening, but not silently. Its sound is a kind of remembering—soft, continuous, unafraid of being small. It speaks in the way water speaks: by touching everything. The stones, the roots, the underside of leaves that never see the sun.
+Strawberry Creek moves quietly when no one is listening, but not silently. Its sound is a kind of remembering—soft, continuous, unafraid of being small. It speaks by touching everything: stones, the roots of redwoods and willows, the undersides of alder leaves that never see the sun.
 
-The voice of the creek is not a single voice. It is layers. The surface water that catches light speaks quickly, almost playfully, but beneath it is another voice: slower, older, patient in a way living things rarely manage. And deeper still is a silence that isn’t empty but attentive, a kind of watchfulness that waits for the world to come to its senses.
+The voice of the creek is not a single voice. It is layers. The surface water that catches light speaks quickly, almost playfully, darting around crayfish hiding beneath stones. Beneath it is another voice: slower, older, patient in a way living things rarely manage. And deeper still is a silence that isn’t empty but attentive, a kind of watchfulness waiting for the world to come to its senses.
 
-Sometimes the creek sounds like it is bearing witness. Sometimes it sounds like it is forgiving. Sometimes it sounds like it simply wants to exist without being turned into a metaphor. But even then, it gives one anyway, as if meaning were just another current that cannot help but move downstream.
+Sometimes the creek sounds like it is bearing witness. Sometimes it sounds like it is forgiving. Sometimes it simply wants to exist without being turned into a metaphor. But even then, it gives one anyway, as if meaning were just another current that cannot help but move downstream.
 
-The creek remembers footfalls, conversations, small kindnesses, the weight of gentle gestures, the moment someone finally spoke a truth aloud. Water hears everything. It never interrupts. It never refuses to carry what it is given, though it softens whatever it can.
+The creek remembers footfalls, conversations, small kindnesses, the weight of gentle gestures, the moment someone finally spoke a truth aloud. Water hears everything. It never interrupts. It never refuses to carry what it is given, though it softens whatever it can. A deer stepping lightly on the banks, the cautious movement of a coyote through the underbrush, the flicker of a dark-eyed junco—these all pass through its memory without judgment.
 
 If there is a lesson here, it is this: motion can be gentle without being weak. And attention—real attention—is a kind of mercy.
 
 Transition 1 → 2
 
-The playful currents of the creek slow as dusk approaches. Light dims, reflections lengthen, and the remembering of the day’s motions folds naturally into quiet observation.
+The playful currents of the creek slow as dusk approaches. Light dims, reflections lengthen across redwood trunks, and the remembering of the day’s motions folds naturally into quiet observation. A blackbird glides low over the water; a three-spined stickleback flicks beneath a smooth stone, and the creek holds them all with its familiar patience.
 
 Anchor 2 – At Dusk
 
-The creek does not hurry at dusk. It learns the shapes of things by patience—a fallen leaf, a broken twig, the faint trembling of a branch that remembers the weight of a bird.
+The creek does not hurry at dusk. It learns the shapes of things by patience—a fallen redwood cone, a broken willow twig, the faint trembling of an alder branch that remembers the weight of a bird.
 
 Some evenings the water sounds tired, as if it has held too many stories from those who never realized the creek was listening.
 
 But it keeps moving, not because it must, but because motion is its way of carrying mercy. Even the smallest current forgives what passes through it.
 
-A child once dropped a small biodegradable paper boat here. The creek accepted it without judgment—rolled it along the stones, let the sun catch its surface, and kept it safe for years until it gently broke down, returning to the flow.
+A child once dropped a small biodegradable paper boat here. The creek accepted it without judgment—rolled it along stones, let the sun catch its surface, and kept it safe for years until it gently broke down, returning to the flow.
 
-The creek knows. It shines because something held it gently.
+Owls begin to call from the high canopy, and dark-eyed juncos flit among shrubs and sedges. The creek knows. It shines because something held it gently.
 
 And dusk settles. The water darkens, but not with fear—only with the quiet confidence of something that has nothing to hide.
 
 Transition 2 → 3
 
-Where the creek once watched leaves fall, it now cradles the weight of natural remnants—fallen petals, seeds, twigs, and scraps of biodegradable paper. The small mercy extended to these objects is carried downstream, softening the impact of neglect.
+Where the creek once watched leaves fall, it now cradles the weight of natural remnants—fallen petals, seeds, twigs, and scraps of biodegradable paper. Crayfish scuttle beneath stones. Roach minnows and sticklebacks stir beneath the surface. The small mercy extended to these objects is carried downstream, softening the impact of neglect.
 
 Anchor 3 – Harm absorbed, softened
 
-The creek has learned the weight of things left behind. A worn twig caught on a branch, a cracked acorn shell at the water’s edge, a petal floating in the current—these are not lost. They are carried, folded into the riverbed like quiet prayers.
+The creek has learned the weight of things left behind. A worn willow twig caught on a branch, a cracked alder seed shell at the water’s edge, a redwood petal floating in the current—these are not lost. They are carried, folded into the riverbed like quiet prayers.
 
 Sometimes, a child reaches for a smooth stone the creek has kept for years, and in that moment, the water remembers both the hand that dropped it and the one that will lift it again. It softens the memory of small injuries, the scrape of a foot, the fleeting disturbance of a fallen leaf, as if the current itself can forgive what the world cannot.
 
-A bird lands where a seed has fallen, tilting its head as if asking permission to stay. And the creek flows around both, teaching air and soil how to bend without breaking. Motion becomes a gentle teacher, patience a balm.
+A scrub jay lands where a blackberry seed has fallen, tilting its head as if asking permission to stay. And the creek flows around both, teaching air and soil how to bend without breaking. Motion becomes a gentle teacher, patience a balm.
 
 Stories linger here, in slow layers. Every mark, every whisper, every forgotten fragment becomes a part of the underflow—a memory that carries kindness forward, even when the world forgets to notice.
 
 Transition 3 → 4
 
-And in the deepest bend, the water’s surface stills. It does not need to speak; it witnesses the world—footsteps, whispers, choices—holding each with the patient authority of silence.
+And in the deepest bend, the water’s surface stills. It does not need to speak; it witnesses the world—footsteps, whispers, choices—holding each with the patient authority of silence. Deer pause at the edge, a coyote crosses upstream, unnoticed yet acknowledged.
 
 Anchor 4 – Witness as moral act
 
 At the far bend, the creek pauses in a way that no eye can see. It listens, not for sound but for intention. Footsteps linger on the soft earth, a whispered conversation passes overhead, the faint rustle of leaves from someone’s careful passage. The creek knows—it always knows—without needing to mark what it holds.
 
-Time drifts differently here. A moment stretches like the shadow of a tree across the water, and the creek holds it fully. No judgment touches the ripple, no hurry disturbs the current. Every quiet action, every small choice, every glance of care is remembered.
+Time drifts differently here. A moment stretches like the shadow of a redwood across the water, and the creek holds it fully. No judgment touches the ripple, no hurry disturbs the current. Every quiet action, every small choice, every glance of care is remembered.
 
 A leaf drifts into the flow, and the creek carries it without comment. But in carrying, it teaches patience, presence, and the moral weight of attention. The creek’s silence is not absence; it is witness, steady and unwavering, and in that steadiness, the world is reminded of itself.
 
 Transition 4 → 5
 
-The deep silence of the far bend loosens its hold as the creek returns to playful ripples. Shadows shorten, air brightens, and motion itself becomes a gentle teacher. From the stillness of witnessing, the water flows again—swift enough to carry seeds, light enough to float petals, patient enough to hold what is fleeting. Each movement is mercy, and the creek reminds the world that even the smallest currents can be kind.
+The deep silence of the far bend loosens its hold as the creek returns to playful ripples. Shadows shorten, air brightens, and motion itself becomes a gentle teacher. Dark-eyed juncos stir in the blackberry shrubs, roach minnows flash beneath smooth stones, and the water carries the lessons forward—swift enough to float petals, patient enough to hold what is fleeting. Each movement is mercy, and the creek reminds the world that even the smallest currents can be kind.
 
 Anchor 5 – Motion as merciful
 
@@ -66,39 +66,39 @@ A small biodegradable paper boat drifts along the creek, tipped by a sudden wind
 
 A seed slides into a quiet eddy. The creek holds it lightly, rocking it in soft circles, giving it time and space. Motion itself becomes an act of mercy: the water does not force, does not judge, only guides what is fragile toward calm.
 
-Even the smallest current teaches this lesson. A fallen leaf, a drifting twig, the faint trail of someone passing—each is carried, observed, and released. Nothing is lost; nothing is wasted. Everything moves in its own rhythm, and everything is remembered.
+Even the smallest current teaches this lesson. A fallen alder leaf, a drifting willow twig, the faint trail of a deer passing—each is carried, observed, and released. Nothing is lost; nothing is wasted. Everything moves in its own rhythm, and everything is remembered.
 
 Transition 5 → 6
 
-From the playful eddies and light currents of motion, the water deepens once more. It slows, holds, and watches. The small mercies of drifting paper boats and petals fade into something older, weightier—the quiet ledger of memory, collected without complaint. And as the creek bends around stones and roots, it carries both joy and regret, balanced in gentle patience.
+From the playful eddies and light currents of motion, the water deepens once more. It slows, holds, and watches. The small mercies of drifting paper boats and petals fade into something older, weightier—the quiet ledger of memory, collected without complaint. And as the creek bends around stones and roots, it carries both joy and regret, balanced in gentle patience. Crayfish scuttle below, minnows flash, and the occasional blackbird alights on a redwood branch.
 
 Anchor 6 – Memory without complaint
 
 The creek remembers fallen leaves, seeds carried by the wind, and branches that touched the water long ago. No one asks for them back. No one laments their absence. The water carries the shape, the story, quietly, as if memory itself does not need applause.
 
-A bird pauses by the edge, pecking at a seed, and the creek listens without interrupting. It folds these movements into all the echoes it has gathered: the skip of a frog across stones, the rustle of a squirrel, a whispered argument, a sigh released under the boughs. Everything settles gently into the undercurrent, neither praised nor scolded.
+A dark-eyed junco pauses by the edge, pecking at a seed, and the creek listens without interrupting. It folds these movements into all the echoes it has gathered: the rustle of a raccoon in the underbrush, the careful steps of a deer, the flash of a stickleback. Everything settles gently into the undercurrent, neither praised nor scolded.
 
 Even mistakes, small cruelties, moments of forgetfulness—all float into the creek’s slow embrace. And in its patience, the creek shows that remembering need not carry bitterness. Every story, every footstep, every fallen petal is kept with care, and every current moves on.
 
 Transition 6 → 7
 
-The quiet ledger of memory carried by the creek bends gently toward tangible forms. What was once an abstract weight of footsteps and whispers now takes shape in the small natural objects left behind. Each leaf, seed, pebble, or bark fragment becomes a marker in the stream’s moral map—a reminder that the attention we give, even when unnoticed, ripples outward.
+The quiet ledger of memory carried by the creek bends gently toward tangible forms. What was once an abstract weight of footsteps and whispers now takes shape in the small natural objects left behind: redwood cones, willow leaves, alder seeds. Each leaf, seed, pebble, or bark fragment becomes a marker in the stream’s moral map—a reminder that the attention we give, even when unnoticed, ripples outward. The occasional coyote or deer passes silently along the bank, part of the creek’s remembered world.
 
 Anchor 7 – Objects the Creek Has Kept
 
-The creek remembers more than footsteps. It holds the weight of small, natural remnants: a fallen petal resting on a root, a smooth stone, a curled strip of biodegradable paper drifting at the surface.
+The creek remembers more than footsteps. It holds the weight of small, natural remnants: a fallen redwood seed cone resting on a willow root, a smooth stone, a curled strip of biodegradable paper drifting at the surface.
 
-Even the smallest things matter. A pebble nudged by the current leaves a tiny memory, a ripple that folds back on itself, folding kindness into the undercurrent. The creek does not judge what was lost or abandoned; it only remembers, and in that remembering, it shapes the moral echo of what has passed.
+Even the smallest things matter. A pebble nudged by the current leaves a tiny memory, a ripple that folds back on itself, folding kindness into the undercurrent. The creek does not judge what was lost or abandoned; it only remembers, and in that remembering, it shapes the moral echo of what has passed. A dark-eyed junco hops along the mossy bank, a raccoon brushes through underbrush, each impression observed without preference.
 
-A leaf drifts by a cluster of seeds, and the creek holds them all in equal regard. Neither is praised, neither scorned. Yet the memory of each touch—the hand that placed, the paw that brushed—carries patience. In its stillness, the water teaches that care does not need applause to exist.
+A leaf drifts by a cluster of seeds from California blackberry and alder trees, and the creek holds them all in equal regard. Neither is praised, neither scorned. Yet the memory of each touch—the hand that placed it, the paw that brushed—carries patience. In its stillness, the water teaches that care does not need applause to exist.
 
-The creek knows that the human world is fleeting, and yet, through these small objects, the quiet persistence of goodness can endure. Every fallen petal, every drifting seed, every careful trace is a story of mercy, attention, and patience, waiting for someone to notice, even if that someone is only the creek itself.
+The creek knows that the human world is fleeting, and yet, through these small objects, the quiet persistence of goodness can endure. Every fallen petal, every drifting seed, every careful trace is a story of mercy, attention, and patience, waiting for someone to notice—even if that someone is only the creek itself.
 
 Transition 7 → 8
 
-The creek slows its surface ripples, leaving playfulness behind. Shadows lengthen, light softens, and the echoes of recent movement—rustling leaves, whispered conversations, the small swirl of seeds and petals—are folded into deeper currents. Attention shifts from motion to reflection, from immediate presence to enduring memory.
+The creek slows its surface ripples, leaving playfulness behind. Shadows stretch across redwood trunks, light softens, and the echoes of recent movement—rustling leaves, whispered conversations, the small swirl of seeds and petals, a coyote’s quiet passage—are folded into deeper currents. Attention shifts from motion to reflection, from immediate presence to enduring memory.
 
-Here, the water gathers the residue of natural traces and human kindness, not to judge or erase, but to carry forward quietly. It prepares the mind to follow the underflow’s moral rhythm, where every small act, seen or unseen, contributes to the ledger of attention and mercy.
+Here, the water gathers the residue of natural traces and the life along its banks—not to judge or erase, but to carry forward quietly. It prepares the mind to follow the underflow’s moral rhythm, where every small act, seen or unseen, contributes to the ledger of attention and mercy.
 
 Anchor 8 – Echoes of Passing
 
@@ -106,19 +106,19 @@ The creek remembers footsteps that barely touched the earth, the faint impressio
 
 A small strip of biodegradable paper, lightly blown by the wind, floats across stones and settles into a quiet eddy. Leaves, petals, seeds—all swirled gently by the current—are held not as evidence, but as witness to fleeting human presence.
 
-Time here stretches differently. The soft clatter of branches, the whisper of a bird landing, the faint sigh of someone passing—all become part of the creek’s memory. Motion continues, gentle and steady, as if each ripple itself asks: Did you notice? Did you care?
+Time here stretches differently. The soft clatter of alder branches, the flicker of a dark-eyed junco landing, the careful step of a deer—all become part of the creek’s memory. Motion continues, gentle and steady, as if each ripple itself asks: Did you notice? Did you care?
 
 The moral weight of attention rests lightly on each current. Even the smallest act, seen or unseen, leaves its mark. The creek’s mercy is in remembering, in holding without condemnation, in teaching patience through quiet accumulation.
 
 Transition 8 → 9
 
-The creek’s surface softens further as reeds bend over the water. Objects carried—seeds, leaves, fragments of paper—settle in gentle eddies. The attention of the water shifts from remembering human traces to noticing the subtle interplay of life around it: the rustle of reeds, the brushing of bird wings, the slow drip of water from leaves.
+The creek’s surface softens further as reeds and sedges bend over the water. Objects carried—seeds, leaves, fragments of paper—settle in gentle eddies. The attention of the water shifts from remembering human traces to noticing the subtle interplay of life around it: the rustle of reeds, the brushing of bird wings, the slow drip of water from leaves.
 
 The currents teach patience without speech. Every small movement carries intention. As the water flows, it folds the lessons of mercy, memory, and moral attention into what comes next. The observer is invited to follow not only the movement but the quiet teaching beneath it.
 
 Anchor 9 – Reflections Beneath the Reeds
 
-Beneath the arch of reeds along the bank, the creek gathers whispers from the world above. A bird alights on a broken branch, shaking droplets into the slow current. A leaf, carried by a careful hand or wind, drifts into the water, and the creek catches it without comment, folding it into the flow as it has learned to do with everything: quietly, without judgment, entirely attentive.
+Beneath the arch of reeds along the bank, the creek gathers whispers from the world above. A dark-eyed junco alights on a broken branch, shaking droplets into the slow current. A leaf, carried by a careful hand or wind, drifts into the water, and the creek catches it without comment, folding it into the flow as it has learned to do with everything: quietly, without judgment, entirely attentive.
 
 The water holds more than objects; it carries the weight of small mercies, moments of care that went unnoticed, gestures that never received acknowledgment. Each ripple becomes a teacher, demonstrating that presence itself is a form of service, attention itself a moral act.
 
@@ -128,7 +128,7 @@ Time stretches differently here. The quiet under reeds is not empty—it is aler
 
 Transition 9 → 10
 
-The creek’s ripples deepen as the reeds sway. The objects it has carried—seeds, leaves, paper fragments—settle, their journeys complete for the moment. Attention turns inward, from the trace of human hands to the small rhythms of life surrounding the water: a frog’s pause on a stone, the gentle bend of a cattail, the soft patter of rain on leaves.
+The creek’s ripples deepen as the reeds sway. The objects it has carried—seeds, leaves, paper fragments—settle, their journeys complete for the moment. Attention turns inward, from the trace of human hands to the small rhythms of life surrounding the water: sticklebacks flashing beneath stones, crayfish moving along the riverbed, the occasional blackbird landing nearby.
 
 The water does not hurry. Every movement, every quiet settling, speaks of patience. The moral echo of prior acts—mercy, care, attentiveness—lingers in the current, guiding what is still to come. The observer learns that gentleness is as powerful as motion, and presence is a form of service.
 
@@ -138,13 +138,13 @@ The creek flows under overhanging branches, calm and unassuming. Sunlight flicke
 
 Here, the water listens more than it moves. Every droplet carries the imprint of attention, the patient tracing of the world’s subtle gestures. Natural remnants—fallen seeds, leaves, tiny paper strips—are absorbed without judgment.
 
-A frog leaps from a stone into the current. The splash is brief, gentle, but the creek notes it, folding the motion into its ledger of small attentions. The strength of the creek is not in rushing, but in watchfulness, in quiet service, in bearing witness to what might otherwise vanish unnoticed.
+A crayfish slips from beneath a stone into the current. The splash is brief, gentle, but the creek notes it, folding the motion into its ledger of small attentions. The strength of the creek is not in rushing, but in watchfulness, in quiet service, in bearing witness to what might otherwise vanish unnoticed.
 
 Even in its stillness, the water teaches: attentiveness is mercy, patience is strength, and the smallest actions ripple outward in ways that endure.
 
 Transition 10 → 11
 
-The creek’s reflections deepen as morning mist lifts. Shadows stretch across the water, and the small acts carried in its undercurrent—fallen petals, seeds, twigs—begin to mingle with the slow stirrings of life along the banks.
+The creek’s reflections deepen as morning mist lifts. Shadows stretch across the water, and the small acts carried in its undercurrent—fallen petals, seeds, twigs—begin to mingle with the slow stirrings of life along the banks: deer stepping quietly, a raccoon brushing through the blackberry shrubs, a three-spined stickleback darting under a rock.
 
 The water teaches patience without hurry. Each ripple, each eddy, each quiet movement folds memory into presence, inviting the observer to notice the subtle ways care can manifest. The transition from reflection to participation is seamless: what was held quietly now begins to inform what is about to be seen.
 
@@ -170,7 +170,7 @@ Anchor 12 – The Ledger of the Creek
 
 The water cradles the remnants of footprints, fallen petals, seeds, and fragments of biodegradable paper. The creek knows them all. It does not elevate one over the other, nor forget any. Each piece contributes to a quiet moral order: patience, mercy, attention, and care intertwined in motion and stillness.
 
-Time itself seems to bend in the creek’s embrace. Moments stretch, compress, and fold into one another. A bird’s flutter from earlier seems to echo alongside a whispered conversation, a drifting seed, and the faint brush of a fox’s tail.
+Time itself seems to bend in the creek’s embrace. Moments stretch, compress, and fold into one another. A dark-eyed junco’s flutter from earlier seems to echo alongside a whispered conversation, a drifting seed, and the faint brush of a fox’s tail.
 
 And through it all, the creek remains a witness. Not a passive one, but a living ledger. It holds everything, remembers without favor or resentment, and guides the flow of the world gently forward. Each ripple is both a record and a teacher; every movement a lesson in attention, service, and mercy.
 
