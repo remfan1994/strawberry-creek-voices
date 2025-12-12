@@ -2,13 +2,13 @@ Strawberry Creek Voices – Species Specified Redraft
 
 Anchor 1 – The creek moves quietly…
 
-Strawberry Creek moves quietly when no one is listening, but not silently. Its sound is a kind of remembering—soft, continuous, unafraid of being small. It speaks by touching everything: stones, the roots of redwoods and willows, the undersides of alder leaves that never see the sun.
+Strawberry Creek moves quietly when no one is listening, but not silently. Its sound is a kind of remembering — soft, continuous, unafraid of being small. It speaks by touching everything: stones, the roots of coast redwoods and willows, the undersides of alder leaves that never see the sun.
 
 The voice of the creek is not a single voice. It is layers. The surface water that catches light speaks quickly, almost playfully, darting around crayfish hiding beneath stones. Beneath it is another voice: slower, older, patient in a way living things rarely manage. And deeper still is a silence that isn’t empty but attentive, a kind of watchfulness waiting for the world to come to its senses.
 
 Sometimes the creek sounds like it is bearing witness. Sometimes it sounds like it is forgiving. Sometimes it simply wants to exist without being turned into a metaphor. But even then, it gives one anyway, as if meaning were just another current that cannot help but move downstream.
 
-The creek remembers footfalls, conversations, small kindnesses, the weight of gentle gestures, the moment someone finally spoke a truth aloud. Water hears everything. It never interrupts. It never refuses to carry what it is given, though it softens whatever it can. A deer stepping lightly on the banks, the cautious movement of a coyote through the underbrush, the flicker of a dark-eyed junco—these all pass through its memory without judgment.
+The creek remembers footfalls, conversations, small kindnesses, the weight of gentle gestures, the moment someone finally spoke a truth aloud. Water hears everything. It never interrupts. It never refuses to carry what it is given, though it softens whatever it can. A deer stepping lightly by the bank, the cautious movement of a coyote through coffeeberry and California blackberry, and the quick flicker of a dark‑eyed junco — these all pass through its memory without judgment.
 
 If there is a lesson here, it is this: motion can be gentle without being weak. And attention—real attention—is a kind of mercy.
 
