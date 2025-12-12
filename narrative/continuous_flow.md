@@ -1,4 +1,4 @@
-Strawberry Creek Voices – Ecological Redraft
+Strawberry Creek Voices – Species Specified Redraft
 
 Anchor 1 – The creek moves quietly…
 
@@ -76,7 +76,7 @@ Anchor 6 – Memory without complaint
 
 The creek remembers fallen leaves, seeds carried by the wind, and branches that touched the water long ago. No one asks for them back. No one laments their absence. The water carries the shape, the story, quietly, as if memory itself does not need applause.
 
-A dark-eyed junco pauses by the edge, pecking at a seed, and the creek listens without interrupting. It folds these movements into all the echoes it has gathered: the rustle of a raccoon in the underbrush, the careful steps of a deer, the flash of a stickleback. Everything settles gently into the undercurrent, neither praised nor scolded.
+A bird pauses by the edge, pecking at a seed, and the creek listens without interrupting. It folds these movements into all the echoes it has gathered: the skip of a Pacific tree frog across stones, the rustle of a squirrel, a whispered argument, a sigh released under the boughs. Everything settles gently into the undercurrent, neither praised nor scolded.
 
 Even mistakes, small cruelties, moments of forgetfulness—all float into the creek’s slow embrace. And in its patience, the creek shows that remembering need not carry bitterness. Every story, every footstep, every fallen petal is kept with care, and every current moves on.
 
@@ -128,7 +128,7 @@ Time stretches differently here. The quiet under reeds is not empty—it is aler
 
 Transition 9 → 10
 
-The creek’s ripples deepen as the reeds sway. The objects it has carried—seeds, leaves, paper fragments—settle, their journeys complete for the moment. Attention turns inward, from the trace of human hands to the small rhythms of life surrounding the water: sticklebacks flashing beneath stones, crayfish moving along the riverbed, the occasional blackbird landing nearby.
+The creek’s ripples deepen as the reeds sway. The objects it has carried—seeds, leaves, paper fragments—settle, their journeys complete for the moment. Attention turns inward, from the trace of human hands to the small rhythms of life surrounding the water: a Pacific tree frog pausing on a stone, sticklebacks flashing beneath stones, crayfish moving along the riverbed, the occasional blackbird landing nearby, the gentle bend of a cattail, the soft patter of rain on leaves.
 
 The water does not hurry. Every movement, every quiet settling, speaks of patience. The moral echo of prior acts—mercy, care, attentiveness—lingers in the current, guiding what is still to come. The observer learns that gentleness is as powerful as motion, and presence is a form of service.
 
@@ -138,7 +138,7 @@ The creek flows under overhanging branches, calm and unassuming. Sunlight flicke
 
 Here, the water listens more than it moves. Every droplet carries the imprint of attention, the patient tracing of the world’s subtle gestures. Natural remnants—fallen seeds, leaves, tiny paper strips—are absorbed without judgment.
 
-A crayfish slips from beneath a stone into the current. The splash is brief, gentle, but the creek notes it, folding the motion into its ledger of small attentions. The strength of the creek is not in rushing, but in watchfulness, in quiet service, in bearing witness to what might otherwise vanish unnoticed.
+A Pacific tree frog leaps from a stone into the current. The splash is brief, gentle, but the creek notes it, folding the motion into its ledger of small attentions.
 
 Even in its stillness, the water teaches: attentiveness is mercy, patience is strength, and the smallest actions ripple outward in ways that endure.
 
@@ -213,7 +213,7 @@ Night settles fully, not as an arrival but as a soft widening of perception. The
 
 Anchor 15 – Small Lives at Dusk (Text)
 
-In the quiet of night, tiny creatures come to the water’s edge. A frog pauses on a stone, observing the subtle movements of the current. Insects skim across the surface, leaving tiny ripples that echo briefly before dissolving. Seeds drift, twigs float, and soft biodegradable fragments settle into nourishing soil.
+In the quiet of night, tiny creatures come to the water’s edge. A Pacific tree frog pauses on a stone, observing the subtle movements of the current. Insects skim across the surface, leaving tiny ripples that echo briefly before dissolving. Seeds drift, twigs float, and soft biodegradable fragments settle into nourishing soil.
 
 The creek bends around stones, roots, and reeds with gentle authority, teaching that even small lives and minor currents matter. Every movement is recorded and carried onward, a testament to patience and attentiveness. In these moments, the creek shows that care and moral attention extend to all who touch its waters.
 
