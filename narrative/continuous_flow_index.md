@@ -281,8 +281,8 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Moral Note:** First anchor where Repetition and Watchfulness are practically demonstrated
 
 ## Transition 20 → 21
-**Text:** Actions produce measurable outcomes. Ripples settle, creatures adjust, and currents reflect the effects of prior steps. Observation turns inward to assessment, recording deviations and noting efficiencies or misalignments. Every effect is data for the next iteration.
-**Annotation:** Moves from action to assessment; introduces feedback and reflection as essential for calibration.
+**Text:** Past the bright bend, a solitary spire rises, its hollowed ridge catching wind and shadow. The observer feels the land pause here—a natural place to look back, to sense how far each ripple has gone. The creek moves more slowly, as if reflecting on its own waters.
+**Annotation:** Moves from outward movement into a natural still-point of reflection; the landscape itself suggests a moment of quiet reckoning.
 
 ## Anchor 21 - The Hollowed Spire
 **File:** `anchor21.md`  
@@ -292,8 +292,8 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Moral Note:** Feedback loop explicitly invoked; emphasizes learning and adjustment
 
 ## Transition 21 → 22
-**Text:** Lessons from assessment inform refinement. Currents are guided with increased precision, inefficiencies corrected, movements smoothed. Each repetition enhances alignment, consolidating learning into practical adjustment.
-**Annotation:** Moves from evaluation to refinement; emphasizes iterative improvement and correction based on observed outcomes.
+**Text:** From the spire’s overlook, the creek loosens into a field of ferns where currents braid and unbraid themselves with soft patience. Small adjustments in the water’s route seem to settle the plants, drawing harmony without effort.
+**Annotation:** Shifts from contemplation to gentle realignment; the scene portrays the world smoothing its own patterns.
 
 ## Anchor 22 - The Verdant Weave
 **File:** `anchor22.md`  
@@ -303,8 +303,8 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Moral Note:** Solidifies repetition cycle; ensures alignment before larger-scale engagement
 
 ## Transition 22 → 23
-**Text:** Refined actions coalesce across threads of the creek. Individual adjustments now integrate system-wide, producing coordinated patterns of motion and life. Feedback loops amplify effectiveness, and minor corrections resonate beyond their origin points.
-**Annotation:** Moves from localized refinement to system-wide integration; highlights coordinated outcomes and emergent harmony.
+**Text:** Beyond the fern-field, two broader channels meet again. Their movements echo one another—leaf following leaf, shadow easing into shadow—as if separate paths have remembered their kinship. The air carries a quiet rhythm, steady and shared.
+**Annotation:** Moves from local adjustments to wider coherence; suggests separate flows naturally finding mutual pace.
 
 ## Anchor 23 - The Conjoined Reach
 **File:** `anchor23.md`  
@@ -314,8 +314,8 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 **Moral Note:** Combines lessons from previous anchors; all prior feedback informs synchronized action
 
 ## Transition 23 → 24
-**Text:** Streams converge into a calm, stable confluence. Adjustments, feedback, and coordinated actions manifest in observable balance. The observer notes the total increase in welfare, standing witness to the cumulative effect of attention, alignment, and repetition.
-**Annotation:** Moves from integrated coordination to consolidation; emphasizes realization of outcomes, total welfare improvement, and completion of the current cycle.
+**Text:** At last the waters gather in a calm basin, where stones, currents, and drifting creatures find a balanced pause. Nothing strains; nothing pushes. The observer senses the land settling into itself, as though the creek were taking a long, steady breath.
+**Annotation:** Shifts from joined movement into a place of settled harmony; emphasizes a gentle resting point where earlier motions resolve.
 
 ## Anchor 24 - The Silent Confluence
 **File:** `anchor24.md`  
