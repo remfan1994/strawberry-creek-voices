@@ -337,22 +337,36 @@ The current is ready.
   <summary>LICENSE</summary>
   <div id="license-content">Loading...</div>
 </details>
+
+<details>
+  <summary>About</summary>
+  <div id="about-content">Loading...</div>
+</details>
+
 <script>
 function loadFile(id, file) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  
   fetch(file)
-    .then(response => response.text())
+    .then(response => {
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.text();
+    })
     .then(text => {
-      document.getElementById(id).innerHTML = text.replace(/\n/g, '<br>');
+      el.innerHTML = text.replace(/\n/g, '<br>');
     })
     .catch(err => {
-      document.getElementById(id).innerHTML = 'Failed to load content.';
-      console.error(err);
+      el.innerHTML = 'Failed to load content.';
+      console.error('Failed to load file:', file, err);
     });
 }
 
 loadFile('readme-content', 'README.md');
-loadFile('license-content', '/HUMAN-GENERATED/LICENSE.md');
+loadFile('license-content', 'HUMAN-GENERATED/LICENSE.md');
 loadFile('about-content', 'ABOUT.txt');
+</script>
+
 
 
   
