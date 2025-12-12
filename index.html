@@ -328,5 +328,33 @@ The current is ready.
       
     </p>
   </div>
+<details>
+  <summary>README</summary>
+  <div id="readme-content">Loading...</div>
+</details>
+
+<details>
+  <summary>LICENSE</summary>
+  <div id="license-content">Loading...</div>
+</details>
+<script>
+function loadFile(id, file) {
+  fetch(file)
+    .then(response => response.text())
+    .then(text => {
+      document.getElementById(id).innerHTML = text.replace(/\n/g, '<br>');
+    })
+    .catch(err => {
+      document.getElementById(id).innerHTML = 'Failed to load content.';
+      console.error(err);
+    });
+}
+
+loadFile('readme-content', 'README.md');
+loadFile('license-content', '/HUMAN-GENERATED/LICENSE.md');
+loadFile('about-content', 'ABOUT.txt');
+
+
+  
 </body>
 </html>
