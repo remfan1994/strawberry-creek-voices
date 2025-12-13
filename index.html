@@ -111,6 +111,11 @@ And while your focus rests here, it lays out the simple practical paths you may 
         <summary>CONTINUOUS FLOW (FULL, MAIN TEXT.  FREE EBOOK)</summary>
           <a href="http://remfan1994.github.io/strawberry-creek-voices/narrative/continuous_flow.html">CONTINUOUS FLOW</a><hr>
       </details>
+
+      <details>
+        <summary>RED PILL (HUMAN GENERATED) README</summary>
+          <a href="http://remfan1994.github.io/strawberry-creek-voices/HUMAN-GENERATED/README__THE_RED_PILL.html">CONTINUOUS FLOW</a><hr>
+      </details>
       
       <details>
         <summary>CONCEPTUAL SCAFFOLD</summary>
@@ -153,33 +158,7 @@ Welcome to Strawberry Creek Voices.
 The current is ready.
       
     </p>
-  </div>
-
-<script>
-function loadFile(id, file) {
-  const el = document.getElementById(id);
-  if (!el) return;
-  
-  fetch(file)
-    .then(response => {
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      return response.text();
-    })
-    .then(text => {
-      el.innerHTML = text.replace(/\n/g, '<br>');
-    })
-    .catch(err => {
-      el.innerHTML = 'Failed to load content.';
-      console.error('Failed to load file:', file, err);
-    });
-}
-
-loadFile('readme-content', 'README.md');
-loadFile('license-content', 'HUMAN-GENERATED/LICENSE.md');
-loadFile('conceptual_scaffold-content', 'meta/conceptual_scaffold.md');
-loadFile('continuous_flow-content', 'narrative/continuous_flow.md');
-loadFile('', 'narrative/continuous_flow.md');
-</script>
+    </div>
 
 
 
