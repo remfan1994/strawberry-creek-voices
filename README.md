@@ -1,3 +1,5 @@
+<html><body bgcolor="black"><font color="grey"><pre>
+
 # Strawberry Creek Voices (SCV)
 
 ## Overview
@@ -110,3 +112,4 @@ This project grows slowly and deliberately. Participation is welcome, but always
 - This repository reflects the complete archive of content generated so far
 
 Alhamdulillah.
+</pre></font></body></html>
