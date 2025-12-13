@@ -1,4 +1,5 @@
-# Strawberry Creek Voices – Continuous Flow Index
+<html><body bgcolor="black"><font color="grey"><pre>
+## Strawberry Creek Voices – Continuous Flow Index
 
 This file provides a full overview of the Strawberry Creek Voices anchors, with **themes, voice layers, narrative elements, and moral notes** included for each anchor. All annotations are visible in GitHub view mode.
 
@@ -330,3 +331,4 @@ This file provides a full overview of the Strawberry Creek Voices anchors, with 
 - All transitions are included with annotations to explain **narrative flow, voice shifts, and moral reasoning**.  
 - This index serves as a **master guide** for continuous reading and editing.  
 - The formatting ensures **all annotations are visible in GitHub view mode**.
+</pre></font></body></html>
