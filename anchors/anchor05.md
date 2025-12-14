@@ -1,0 +1,15 @@
+Theme: Motion as merciful
+
+Voice Layer: Surface Water
+
+Narrative Elements: Seeds, petals, biodegradable fragments; gentle currents carrying life
+
+Moral Note: Even small movements can teach kindness; motion itself can be ethical
+
+Anchor 5 – Motion as merciful
+
+A small biodegradable paper boat drifts along the creek, tipped by a sudden wind. It wobbles, lists, almost overturns, yet the water carries it safely past stones, redwood roots, and oak branches. Children’s laughter echoes upstream, quick and bright, and the creek follows, nudging the boat as if saying, “go, go gently, go freely.”
+
+A bay laurel seed slides into a quiet eddy. The creek holds it lightly, rocking it in soft circles, giving it time and space. Motion itself becomes an act of mercy: the water does not force, does not judge, only guides what is fragile toward calm.
+
+Even the smallest current teaches this lesson. A fallen redwood needle, a drifting maple samara, the faint trail of someone passing—each is carried, observed, and released. Nothing is lost; nothing is wasted. Everything moves in its own rhythm, and everything is remembered.

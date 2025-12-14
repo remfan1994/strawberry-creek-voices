@@ -1,0 +1,17 @@
+Theme: Moral resonance of small actions
+
+Voice Layer: Underflow
+
+Narrative Elements: Footsteps, gentle human presence, natural remnants
+
+Moral Note: Every small act, seen or unseen, leaves a trace; the creek’s attention is a moral teacher.
+
+Anchor 8 – Echoes of Passing
+
+The creek remembers footsteps that barely touched the earth, the faint impressions left along mossy banks. It knows the hurried walk, the lingering pause, the careful gestures of someone placing a bay laurel seed or drifting a maple samara into the current. Each echo is folded gently into the water, carried without judgment.
+
+A small strip of biodegradable paper, lightly blown by the wind, floats across stones and settles into a quiet eddy. Redwood needles, oak acorns, and alder leaves—all swirled gently by the current—are held not as evidence, but as witness to fleeting human presence.
+
+Time here stretches differently. The soft clatter of branches, the whisper of a dark-eyed junco landing, the faint sigh of someone passing—all become part of the creek’s memory. Motion continues, gentle and steady, as if each ripple itself asks: Did you notice? Did you care?
+
+The moral weight of attention rests lightly on each current. Even the smallest act, seen or unseen, leaves its mark. The creek’s mercy is in remembering, in holding without condemnation, in teaching patience through quiet accumulation.
