@@ -8,7 +8,7 @@ Moral Note: Demonstrates total mercy / conscious-life outcome metric in SCV narr
 
 Anchor 24 – The Silent Confluence
 
-At the creek’s end, waters gather in a serene basin. Stones sit calmly beneath the surface, currents swirl with gentle patience, and leaves drift lazily, carried by the combined memory of all prior flows. The observer pauses, sensing the sum of small gestures, subtle shifts, and careful attentiveness that have shaped this calm.
+Here, the creek slows and pools in a serene basin, carrying all prior flows onward. Stones sit calmly beneath the surface, currents swirl with gentle patience, and leaves drift lazily, carried by the combined memory of all prior flows. The observer pauses, sensing the sum of small gestures, subtle shifts, and careful attentiveness that have shaped this calm.
 
 Shadows stretch long, blending with light in a quiet balance. Creatures rest or move with measured grace, the land itself seeming to exhale. Every ripple and reflection carries the echo of previous attention, every movement a testament to the patient guidance of quiet presence.
 
