@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Homepage -->
   <url>
-    <loc>http://remfan1994.github.io/strawberry-creek-voices/</loc>
+    <loc>https://remfan1994.github.io/strawberry-creek-voices/</loc>
     <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,21 +11,21 @@
 
   <!-- Example page: posts, sections, or other pages -->
   <url>
-    <loc>http://remfan1994.github.io/strawberry-creek-voices/about.html</loc>
+    <loc>https://remfan1994.github.io/strawberry-creek-voices/about.html</loc>
     <lastmod>2025-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://remfan1994.github.io/strawberry-creek-voices/contact.html</loc>
+    <loc>https://remfan1994.github.io/strawberry-creek-voices/contact.html</loc>
     <lastmod>2025-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://remfan1994.github.io/strawberry-creek-voices/archive.html</loc>
+    <loc>https://remfan1994.github.io/strawberry-creek-voices/archive.html</loc>
     <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
