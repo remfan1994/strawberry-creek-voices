@@ -344,6 +344,426 @@ Above, the visible place accumulated its own history.
 
 Below, another history accumulated along the same alignment.
 
+## Transition 90 -> 91
+
+The grade persists beneath repaired surfaces, carrying water through structures that have changed around it. At certain points, however, the separation between surface and creek is not complete.
+
+A narrow opening in the built ground allows air, sound, and moisture to cross between the two levels.
+
+Rainwater enters from above.
+
+Cooler air rises from below.
+
+The current can be heard briefly where the surrounding surface geometry concentrates its sound.
+
+Nothing has been uncovered yet. The creek remains buried.
+
+But the first evidence available from the surface is enough to disturb the assumption that the ground is solid all the way down.
+
+**Annotation:** Begins the recognition phase through a small physical connection between surface and buried channel, allowing the creek to become perceptible without yet becoming visible.
+
+<!-- Anchor 91 - Water Sound Beneath the Drain Opening
+**Theme:** Recognition through indirect evidence
+**Voice Layer:** Surface Water
+**Narrative Elements:** Drain opening; reflected water sound; rain entry; cool air rising from the buried channel
+**Moral Note:** Attention can recover a hidden relationship from small but truthful signs
+-->
+
+## Anchor 91 - Water Sound Beneath the Drain Opening
+
+A narrow opening in the surface crossed part of the buried alignment.
+
+From above, it appeared to belong entirely to drainage.
+
+Rain entered through it.
+
+Small amounts of surface water gathered along the edge, divided between openings, and disappeared below.
+
+But when the surrounding surface became quiet, another movement could be heard.
+
+Water was already moving underneath.
+
+The sound did not begin with the rain falling directly through the opening. It continued between those impacts, lower and steadier, shaped by the enclosed current passing beneath the surface.
+
+Cool air rose through the same opening.
+
+Its temperature differed slightly from the warmer ground around it, especially after sunlight had reached the surface for several hours.
+
+Moisture darkened the lower edges.
+
+The opening revealed almost nothing visually. The channel itself remained beyond sight.
+
+Yet sound, air, and temperature crossed the separation.
+
+A person standing nearby did not need to see the creek in order for the creek's continued presence to become physically available.
+
+The built surface remained intact.
+
+The water remained buried.
+
+Recognition began within the narrow space between those facts.
+
+
+
+## Transition 91 -> 92
+
+The sound beneath the opening continues downstream, but most of the buried alignment offers no comparable access.
+
+Recognition therefore cannot rely on one surface sign alone.
+
+The creek's position can also be inferred from slope.
+
+Water always requires a lower path.
+
+The enclosed channel follows that requirement beneath streets and structures whose visible arrangement obeys different boundaries.
+
+A slight change in grade, a low point where runoff repeatedly gathers, or a drainage line continuing farther than the surface alone seems to require can reveal the direction of the hidden system.
+
+Attention begins to connect separate clues.
+
+**Annotation:** Moves from immediate sensory recognition to spatial reasoning, allowing surface topography and drainage behavior to reveal the buried creek's continued direction.
+
+<!-- Anchor 92 - The Low Line Across the Built Ground
+**Theme:** Geography recovered through attention
+**Voice Layer:** Deep Silence
+**Narrative Elements:** Subtle surface grade; repeated runoff path; drainage alignment; buried downstream direction
+**Moral Note:** What has been concealed can still shape the world around it
+-->
+
+## Anchor 92 - The Low Line Across the Built Ground
+
+The ground above the buried creek did not announce its alignment.
+
+Buildings followed property lines.
+
+Paths followed use.
+
+Streets crossed and paralleled one another according to plans visible at the surface.
+
+Water followed another logic.
+
+After rain, shallow runoff gathered repeatedly along a lower line.
+
+The difference in elevation was slight.
+
+On dry days it could pass unnoticed.
+
+During rain, however, water from several directions converged toward the same series of openings and low points.
+
+The pattern extended beyond any single drain.
+
+Each surface flow entered the larger buried system somewhere below, joining water already moving along the creek's grade.
+
+The creek could not be seen in the line.
+
+But the land above it still responded to elevation.
+
+Gravity connected visible runoff with invisible current.
+
+The buried channel remained one level of the place.
+
+The surface remained another.
+
+Their geometries differed, yet they continued to meet wherever water moved from one into the other.
+
+A map was not required to begin noticing the relation.
+
+Rain had already traced part of it.
+
+
+
+## Transition 92 -> 93
+
+The low line across the surface suggests direction.
+
+Below it, the creek continues through structural sections that have accumulated years of wetting, drying, repair, and flow.
+
+One section contains a small access space where the enclosure can be observed directly.
+
+The opening does not restore daylight to the channel.
+
+It allows inspection.
+
+For the first time since burial became complete, a human point of view can enter the enclosed condition without pretending that enclosure has ended.
+
+Recognition moves from inference to encounter.
+
+**Annotation:** Carries indirect geographical recognition into direct observation of the buried channel through an access point, while maintaining the creek's underground condition.
+
+<!-- Anchor 93 - Looking Into the Buried Reach
+**Theme:** Witness without restoration
+**Voice Layer:** Underflow
+**Narrative Elements:** Access opening; enclosed water surface; damp structural walls; visible downstream passage
+**Moral Note:** Seeing a condition clearly is not the same as repairing it, but clear witness can precede responsible change
+-->
+
+## Anchor 93 - Looking Into the Buried Reach
+
+The access opening revealed a short section of the buried creek.
+
+Light entered from above in a narrow column.
+
+It reached one wall, part of the water surface, and several stones gathered along the lower edge.
+
+Beyond that illuminated area, the channel continued into darkness.
+
+The current was shallow.
+
+Its direction could be followed by the movement of small surface patterns and by the sound becoming slightly more distant downstream.
+
+Moisture covered the lower walls.
+
+Higher surfaces showed irregular bands left by previous rises in water.
+
+At one joint, seepage entered from surrounding ground and joined the current in a thin reflective line.
+
+The opening changed what could be known from the surface.
+
+The buried creek was no longer only an inferred route beneath streets and structures.
+
+Water could be seen.
+
+Its temperature could be felt in the cooler air rising from the enclosure.
+
+Its sound could be separated from the noises above.
+
+Yet the light reached only a small portion of the channel.
+
+Most of the creek remained enclosed on either side.
+
+Observation did not transform the place into an open creek.
+
+It simply made the existing condition harder to misunderstand.
+
+
+
+## Transition 93 -> 94
+
+The narrow column of light withdraws as attention returns to the surface.
+
+The creek has been seen, but only through an opening created for access rather than ecological connection.
+
+Recognition can now extend beyond the single point.
+
+If water is moving here, it must have arrived from upstream.
+
+It must continue downstream.
+
+The visible section becomes evidence of a larger continuity beneath places where no opening exists.
+
+A short encounter begins to restore the creek as geography rather than isolated infrastructure.
+
+**Annotation:** Expands recognition from one observed underground segment to the larger continuous buried course, reconnecting the visible glimpse with upstream and downstream watershed logic.
+
+<!-- Anchor 94 - Following the Buried Direction Beyond the Opening
+**Theme:** Continuity reconstructed from partial knowledge
+**Voice Layer:** Surface Water
+**Narrative Elements:** Access point; upstream inference; downstream alignment; repeated surface crossings
+**Moral Note:** Partial knowledge becomes useful when it is joined carefully rather than mistaken for the whole
+-->
+
+## Anchor 94 - Following the Buried Direction Beyond the Opening
+
+From the access point, the creek's direction could be followed without seeing the water continuously.
+
+Upstream, the buried alignment approached from higher ground.
+
+Downstream, it continued toward lower elevation.
+
+Between those points, streets and paths crossed above it.
+
+The surface showed no single uninterrupted mark.
+
+Instead, the creek had to be reconstructed from several kinds of evidence.
+
+Drainage openings.
+
+Low points.
+
+Structural records.
+
+Changes in grade.
+
+Places where water could be heard.
+
+Places where no sign appeared at all.
+
+The buried course passed beneath each of them.
+
+Recognition therefore required continuity of attention.
+
+One opening could confirm water.
+
+A second point could confirm direction.
+
+The slope could connect them.
+
+Upstream geography could explain where the flow originated.
+
+Downstream geography could show where it must continue.
+
+The creek became perceptible again not because the covering had been removed, but because separate observations were allowed to belong to the same system.
+
+The surface remained divided into many uses.
+
+Below, the water joined them along one descending line.
+
+
+
+## Transition 94 -> 95
+
+Once the buried direction is recognized, the absence of the creek at the surface takes on a different quality.
+
+A paved or built reach can no longer be understood simply as ground without water.
+
+It becomes ground above water.
+
+The distinction is small in wording but large in perception.
+
+A place that had appeared complete at the surface now contains another active layer beneath it.
+
+Nothing physical changes at the moment of recognition.
+
+The same structures remain.
+
+The same creek flows below.
+
+What changes is the accuracy with which the place can be perceived.
+
+**Annotation:** Shifts from reconstructing the buried alignment to the altered perception produced by knowing that the visible surface is only one layer of the site.
+
+<!-- Anchor 95 - Ground Above Water
+**Theme:** Awareness restoring layered place
+**Voice Layer:** Deep Silence
+**Narrative Elements:** Built surface; known buried alignment; unseen current; overlapping surface and creek geographies
+**Moral Note:** Accurate awareness can restore relationship before any physical restoration begins
+-->
+
+## Anchor 95 - Ground Above Water
+
+The surface remained unchanged.
+
+The same route crossed the buried channel.
+
+The same structures stood above it.
+
+The same drainage openings interrupted the ground at intervals.
+
+But once the creek's alignment was known, the place could no longer be understood as surface alone.
+
+Beneath the crossing, water continued downstream.
+
+Below a wall, groundwater entered through a seam.
+
+Under a repaired section, the current accelerated over smoother material.
+
+Farther along, sediment gathered where the passage widened.
+
+None of these conditions became newly true because they had been recognized.
+
+They had already been occurring.
+
+Awareness altered the completeness of the visible explanation.
+
+What appeared to be one continuous ground plane was also a roof.
+
+What appeared to be drainage infrastructure was also a point of connection with an older watershed.
+
+What appeared to be a low place in the street was related to a deeper grade extending beyond it.
+
+The city and creek were not separate maps laid beside one another.
+
+They occupied the same space at different levels.
+
+Recognition did not remove the covering.
+
+It removed part of the misunderstanding.
+
+
+
+## Transition 95 -> 96
+
+Recognition alone does not reopen the creek.
+
+But once the buried course is understood as active water rather than absent landscape, the possibility of making room for it becomes physically imaginable.
+
+Attention returns to the overhead structure itself.
+
+Its presence is no longer interpreted as inevitable simply because it has existed for decades.
+
+A covered reach has dimensions.
+
+It has edges.
+
+It has materials.
+
+It has places where the load is carried.
+
+It has sections that could, under different conditions, be opened.
+
+The creek beneath it already supplies the continuity that any future daylighting would reveal.
+
+**Annotation:** Carries recognition toward the first material possibility of daylighting, without beginning removal yet; the existing structure is newly perceived as alterable rather than permanent.
+
+<!-- Anchor 96 - Measuring the Covered Reach
+**Theme:** Possibility emerging from accurate understanding
+**Voice Layer:** Underflow
+**Narrative Elements:** Enclosure dimensions; structural edges; buried channel width; existing current beneath prospective opening
+**Moral Note:** Merciful change begins with understanding what is present before deciding what should be removed
+-->
+
+## Anchor 96 - Measuring the Covered Reach
+
+The covered reach had a width.
+
+It had a height.
+
+Its roof met supporting sides at specific points.
+
+The channel occupied part of the space below, changing depth with weather while maintaining the same general downstream direction.
+
+These facts made the enclosure measurable.
+
+The structure above the creek was substantial, but not abstract.
+
+Its materials had been placed.
+
+Its joints could be located.
+
+Its load traveled through identifiable supports.
+
+Its relationship to the water could be examined.
+
+Below, the current continued as it had before anyone considered changing the surface.
+
+Groundwater entered.
+
+Sediment moved.
+
+Rain altered depth.
+
+Cooler water traveled through the lower passage.
+
+The possibility of daylighting did not require imagining a creek where none existed.
+
+The creek was already there.
+
+What required imagination was a different relation between the water and the space above it.
+
+An opening could expose part of the surface.
+
+A larger opening could return direct air and light.
+
+Removal of additional covering could create enough room for banks rather than walls.
+
+None of those changes had happened yet.
+
+For now, the covered reach remained intact.
+
+But its buriedness had become specific enough to examine rather than merely inherit.
+
+The first condition of making room was understanding exactly what occupied the space.
+
 The two were connected physically even when they were rarely perceived together.
 
 Buriedness endured, but it was not static.
