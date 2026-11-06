@@ -1,207 +1,275 @@
-## Transition 66 -> 67
+This set begins Stage 1: the creek being built upon. The key movement is from open continuity to constrained visibility, not yet the long era of full buriedness.
 
-The first gray across the rejoined current grows more distinct as light begins to pass through an opening in the eastern canopy. The banks remain largely shaded, but a narrow reach downstream receives the lower angle of morning. The reflection arrives first as a pale lengthening across the surface, then reveals the shallow rise of the creek bed beneath it.
+## Transition 78 -> 79
 
-Where the water crosses the rising stones, the smooth current of Anchor 66 becomes a low riffle. Thin bands of brightness gather over the highest parts of the bed while darker water remains between them. Nothing changes suddenly. The riffle had continued through the night, carrying water over the same stones when neither their outlines nor the surface patterns could be seen.
+The returning shade of midmorning moves downstream until the open channel approaches a place where another kind of edge begins to shape the creek. Root and gravel still define most of the margin. Water still receives sky directly. Yet farther ahead, the banks no longer widen according only to soil, vegetation, and flow.
 
-Morning does not create the structure. It makes the continuing relation between stone, depth, light, and movement more available to attention.
+The change begins beside the water rather than over it. Ground is held more firmly. The margin becomes straighter. Space that had followed the irregular line of the creek begins to answer to another geometry.
 
-**Annotation:** Carries the renewed visibility of Anchor 66 into low morning sunlight, revealing a shallow riffle whose visible structure has persisted throughout the night.
+The current reaches this alteration without changing its origin or direction. It carries the same cool return from beneath the gravel, the same moisture gathered from the banks, and the same morning light that has followed it through the open corridor.
 
-<!-- Anchor 67 - Sunlight Entering the Shallow Riffle
-**Theme:** Clarity shaped by relation
+What changes first is not the water. It is the amount of room being left around it.
+
+**Annotation:** Opens the burial sequence gradually, allowing built geometry to enter the creek corridor first at the margins while the water remains fully open to sky.
+
+<!-- Anchor 79 - Open Water Before the Crossing
+**Theme:** Continuity before enclosure
 **Voice Layer:** Surface Water
-**Narrative Elements:** Low-angle sunlight; shallow riffle; flat stones; alternating reflection and transparency
-**Moral Note:** Clear perception arises when movement and the forms guiding it are attended together
+**Narrative Elements:** Open channel; irregular natural banks; approaching built geometry; uninterrupted sky above the current
+**Moral Note:** An existing presence remains whole even when another use of space begins to close around it
 -->
 
-## Anchor 67 - Sunlight Entering the Shallow Riffle
+## Anchor 79 - Open Water Before the Crossing
 
-Sunlight first reached the creek where the bed rose into a shallow riffle. The lower angle passed beneath several outer branches and settled across the water in a narrow band. Within that band, the surface alternated between reflection and transparency.
+The creek remained open where the morning light crossed it. Water moved between banks shaped by root, sediment, stone, and repeated changes in flow. Sedges leaned over one side. On the other, a shallow gravel margin held moisture between its darker stones.
 
-Flat stones became visible beneath the thinnest water. Their upper surfaces appeared lighter where the current passed closely over them, while the deeper spaces between stones retained the gray of the earlier morning. Each small variation in depth changed the shape of the light above it.
+Downstream, the line of the bank became straighter.
 
-The current crossed the riffle without forming a single uniform pattern. Over one stone it spread into a clear sheet. Beyond another it gathered into a narrow crease before opening again. Small ridges traveled downstream and disappeared as soon as the water entered the deeper run below.
+At first the difference was small enough to appear only as a change in proportion. The creek continued at nearly the same width, but the ground beside it no longer followed every shallow curve. The margin held to a firmer line while the current continued making smaller adjustments within it.
 
-Along the margin, coarse sand rested between lower stones. A few grains shifted when the current strengthened across an exposed edge, but most remained held within protected spaces. The water moved with enough energy to remain clear without disturbing the whole bed.
+Light still reached the entire surface. Reflections of leaves crossed the water without interruption. The creek bed remained visible through the shallow sections, and cooler water still emerged between stones where the underflow returned.
 
-The sunlight advanced gradually across the riffle. Areas that had first reflected the canopy became transparent as the angle changed, revealing forms that had been present beneath them all along. Elsewhere, stones that had been visible disappeared under newly bright reflections.
+Nothing in the current announced that the space ahead would become different.
 
-Clarity moved rather than remaining fixed. The creek could be seen through changing combinations of light, depth, and surface motion.
+Water entered the straighter reach carrying all the relations accumulated upstream. Moisture from the moss margin remained within it. The gravel had cooled part of it. Sunlight had warmed another part. Fine sediment continued to settle wherever velocity allowed.
 
-The riffle continued carrying water beyond the illuminated reach.
+The creek was not waiting to become something else. It was already complete in movement.
 
-## Transition 67 -> 68
+The altered banks appeared around that completeness.
 
-At the downstream end of the riffle, most of the current remains visible as it enters deeper water. A smaller portion follows another route. Where pressure gathers against the upstream faces of the gravel, water turns downward through the spaces between stones.
 
-The surface gives no complete account of this passage. Light crosses the riffle and reveals the uppermost layer of the bed, but below those visible stones the gravel continues through many connected openings. Water enters them gradually, moving beneath the surface flow before returning farther downstream.
 
-The bright patterns of Anchor 67 therefore lead toward a movement that cannot be followed by sight alone. What appears to be one current also includes exchange through the creek bed, where water is slowed, cooled, and redistributed before rejoining the channel.
+## Transition 79 -> 80
 
-**Annotation:** Moves from the visible surface structure of the riffle into the hidden passage of water through its gravel bed, deepening the hydrological continuity beneath morning light.
+The straighter margin continues downstream. Material placed beside the channel occupies spaces where the bank had previously changed gradually with moisture and root growth. The creek remains open overhead, but its lateral freedom decreases.
 
-<!-- Anchor 68 - Water Passing Beneath the Riffle Bed
-**Theme:** Reciprocity between visible and hidden flow
+Water meeting the tightened edge turns back toward the center sooner. Small eddies form where irregular stone meets the new boundary, then flatten as the current enters the narrower passage.
+
+The first transformation is therefore not disappearance. It is compression.
+
+The creek can still be seen from above. It still receives rain, light, leaves, and moving air directly. But the relation between water and surrounding ground has begun to change from a broad exchange into a guided passage.
+
+**Annotation:** Advances Stage 1 from approaching construction into physical confinement, emphasizing that burial begins through narrowing and edge control before overhead enclosure.
+
+<!-- Anchor 80 - Banks Drawn In Around the Current
+**Theme:** Constraint entering an existing flow
 **Voice Layer:** Underflow
-**Narrative Elements:** Porous gravel; downward entry; interstitial passage; cool downstream upwelling
-**Moral Note:** Continuity is strengthened when what moves openly and what moves unseen remain in exchange
+**Narrative Elements:** Straightened margins; compacted ground; confined current; reduced lateral exchange
+**Moral Note:** Restriction begins at the edges long before it becomes complete
 -->
 
-## Anchor 68 - Water Passing Beneath the Riffle Bed
+## Anchor 80 - Banks Drawn In Around the Current
 
-On the upstream side of the riffle, part of the current entered the gravel instead of passing entirely over it. Water pressed into the open spaces between rounded stones, divided into narrower passages, and continued below the visible creek bed.
+The banks drew closer around the creek.
 
-The route was neither empty nor uniform. Coarse gravel preserved larger openings through which water moved more freely. Sand occupied some of the smaller spaces, slowing the passage without sealing it. Thin rootlets reached into the upper margin from the bank, crossing between stones while leaving room for moisture to continue around them.
+Where soil had once sloped gradually toward the water, the margin now descended more directly. Roots remained in the older ground nearby, but fewer reached into the newly defined passage. The current moved beside a surface shaped to hold its line.
 
-Above, sunlight moved across the riffle in broken bands. Below, the water remained outside the reach of that reflection. Its direction was determined by the slope of the bed, the arrangement of gravel, and the difference in pressure between the upstream and downstream sides.
+Water responded without stopping.
 
-The underground passage lengthened the water's contact with stone and sediment. Surface warmth entered the bed slowly, while the deeper gravel retained the night's cooler temperature. The exchange moderated both conditions without making them identical.
+Along the straighter edge, the faster portion of the current shifted toward the center. A narrow zone of slower water remained against the boundary, carrying fine sediment downstream in intermittent clouds too slight to obscure the stones below.
 
-Farther downstream, small amounts of water returned through the creek bed. They appeared between stones as clear upward movement, visible only where fine sand lifted slightly and settled again. The returning water did not burst through the surface. It entered the lower current quietly and spread along the bed.
+The channel had less room to adjust laterally. When the current encountered a shallow rise in the bed, it could no longer spread as widely toward the bank. More of the movement passed forward.
 
-Water that had traveled openly across the riffle met water that had passed beneath it. Their paths had differed in light, speed, and temperature, but both belonged to the same downstream continuity.
+The difference continued beneath the surface. Groundwater approaching from the side still found openings into the channel, but the routes were fewer and more concentrated. Moisture that once reached the creek through a broad porous margin now emerged at particular seams and lower gaps.
 
-The visible creek was sustained partly by movement occurring below visibility.
+Above, the sky remained open.
 
-## Transition 68 -> 69
+Air moved along the water. Light reached the full width of the channel. A falling droplet could still enter from a leaf without passing any intervening structure.
 
-The water returning from beneath the gravel does not immediately disappear into uniformity. Along the downstream edge of the riffle, it forms a cooler, slower seam beside the main current. The distinction is slight, revealed through the different way each movement carries the reflection above it.
+The creek had been constrained without yet being concealed.
 
-An alder branch extends across this meeting place. Its shadow reduces the brightness that had made the riffle visible, allowing the subtler surface textures to emerge. The faster water carries narrow lines downstream. The returning water remains smoother for a short distance before the two patterns begin to overlap.
+It carried the new pressure as another physical condition, preserving movement inside a space that had become less willing to move with it.
 
-No boundary contains either one. The seam exists only while differences in temperature, speed, and direction remain perceptible. As the channel continues, those differences become part of a shared condition.
 
-**Annotation:** Follows the hidden water of Anchor 68 into its downstream return, where a cool seam beneath alder shade reveals the gradual joining of distinct flow conditions.
 
-<!-- Anchor 69 - Cool Seam Beneath the Alder Shade
-**Theme:** Difference joining without erasure
+## Transition 80 -> 81
+
+As the narrowed channel continues, the open sky above it begins to contract.
+
+The first overhead structure does not cover a long reach. It crosses from one side to the other, joining the firmer margins already established beside the water. Morning remains visible beyond both ends, but beneath the crossing the creek enters a different acoustic and thermal space.
+
+The surface darkens before the current changes speed. Reflections of canopy give way to the underside of the structure. Sound that had dispersed into open air returns from the closer surfaces above and beside the channel.
+
+For the first time in the sequence, the creek passes beneath ground that continues across it.
+
+**Annotation:** Introduces the decisive threshold of overhead construction while keeping the enclosure short, allowing the audience to experience burial first as the narrowing of sky.
+
+<!-- Anchor 81 - The First Roof Above the Creek
+**Theme:** Visibility diminished before continuity
 **Voice Layer:** Deep Silence
-**Narrative Elements:** Gravel upwelling; alder shade; smooth surface seam; gradual current mixing
-**Moral Note:** Integrity allows distinct conditions to meet without requiring one to dominate the other
+**Narrative Elements:** Short overhead crossing; narrowed daylight; cooler enclosed air; reflected water sound
+**Moral Note:** What becomes less visible does not thereby become less present
 -->
 
-## Anchor 69 - Cool Seam Beneath the Alder Shade
+## Anchor 81 - The First Roof Above the Creek
 
-Below the riffle, returning water formed a smooth seam along the creek bed. It rose through the gravel beneath the shade of an alder branch and entered the main flow at a shallow angle.
+The crossing placed a roof above the creek.
 
-The difference could not be seen as a separate color. It appeared through texture. The open current carried small ridges left by the riffle, while the upwelling water softened the surface above it. Between them, a narrow line shifted downstream without remaining fixed to one position.
+Daylight remained ahead and behind, but directly overhead the open sky ended. The surface changed immediately. Reflected leaves disappeared, replaced by a darker field broken only where light entered from the two openings.
 
-The alder shade crossed both movements. Leaves overhead divided the morning light into muted shapes that drifted across the seam as the branch moved slightly in the air. Reflection concealed the boundary in one moment and revealed it again in the next.
+The current continued beneath.
 
-Near the bottom, the cooler water stayed close to the gravel for a longer distance. The faster current passed above it, drawing portions upward and downstream. Mixing occurred through many small contacts rather than through a single visible disturbance.
+Sound became more contained. Water moving over a shallow stone produced a small note that returned from the overhead surface and sidewalls before joining the broader sound of flow. What had been easy to locate in the open channel became layered within the enclosed space.
 
-A softened leaf rested near the edge of the upwelling. Water entered beneath one side and lifted it slightly without carrying it away. The leaf settled again as the returning flow shifted toward another opening in the gravel.
+The air was cooler beneath the crossing. Stone and damp surfaces retained the night's temperature beyond the time when the exposed bank had begun to warm. Moisture gathered in the deeper seams and remained there after nearby open surfaces dried.
 
-Nothing preserved the seam as a permanent division. Its integrity consisted in remaining perceptible while its conditions lasted, then joining the larger current without loss or force.
+Near the entrance, sunlight reached a short distance beneath the roof. It illuminated the upper edge of one submerged stone, then weakened before reaching the center of the covered passage.
 
-The creek held difference long enough for relation to become visible.
+The current crossed that boundary without hesitation.
 
-Farther downstream, the surface became smooth across the full channel, carrying both waters together beneath the alder shade.
+For a few moments of travel, the creek had no sky directly above it. Then the downstream opening widened, reflections returned, and the water emerged again into morning.
 
-## Transition 69 -> 70
+The crossing was short enough for both openings to remain part of the same view.
 
-The joined current continues beneath the alder and reaches a margin of sedges leaning over the water. The cool seam can no longer be separated from the main flow, but its influence remains in the lower temperature of the shaded reach and in the moisture held along the stems.
+Yet something fundamental had become possible.
 
-One sedge blade bends outward farther than the others. Near its upper surface, a damselfly rests above the channel. Its narrow body follows the direction of the blade, and its folded wings hold the growing light without reflecting it strongly.
+The creek could continue where the sky did not.
 
-The movement of attention rises from the joined water to this small living presence, not as a departure from the creek, but as another relation sustained by water, vegetation, air, and morning warmth.
 
-**Annotation:** Carries the joined current beneath overhanging sedges and introduces a damselfly as a quiet living presence held within the creek's physical continuity.
 
-<!-- Anchor 70 - Damselfly Resting Above the Current
-**Theme:** Attentive stillness within motion
+## Transition 81 -> 82
+
+Beyond the first crossing, open water returns, but the new relation does not remain isolated. The enclosed distance can be lengthened. The supported ground above can extend farther downstream. A crossing can become a covered reach.
+
+As enclosure increases, the downstream opening appears smaller from within. Light no longer fills the passage from both directions with equal strength. The creek begins spending more of its course beneath a surface whose purpose belongs to the world above it.
+
+Water still follows slope.
+
+Gravity has not changed. The watershed has not stopped arriving. Seepage still enters where openings permit it. The physical necessity of flow continues while visual access to that flow decreases.
+
+The next threshold is not simply another crossing. It is entry into sustained buried distance.
+
+**Annotation:** Converts the brief enclosure of Anchor 81 into the possibility of extended culverting, marking the point where crossing over the creek becomes building continuously above it.
+
+<!-- Anchor 82 - Entering the Longer Covered Reach
+**Theme:** Continuity carried beyond direct witness
 **Voice Layer:** Surface Water
-**Narrative Elements:** Folded transparent wings; bending sedge blade; reflected current; minute posture adjustments
-**Moral Note:** Presence can remain responsive without becoming forceful
+**Narrative Elements:** Culvert entrance; receding daylight; enclosed current; sustained downstream passage
+**Moral Note:** Continuity does not depend upon being continuously witnessed
 -->
 
-## Anchor 70 - Damselfly Resting Above the Current
+## Anchor 82 - Entering the Longer Covered Reach
 
-A damselfly rested on a sedge blade extending over the shaded water. Its wings were folded together along the length of its body, nearly transparent except where the morning light met their fine structure.
+The longer covered reach began where the open channel narrowed toward a dark rectangular opening.
 
-The blade bent under very little weight. When the low air moved through the channel, the sedge shifted several degrees above the current and returned slowly toward its earlier position. The damselfly remained aligned with the stem, adjusting its legs as the surface beneath it moved.
+Water reached the threshold in full morning light. The surface carried sky until the final few centimeters, where the reflection compressed against shadow and disappeared beneath the roof.
 
-Below, the creek carried softened reflections of alder leaves. Small ridges from the upstream riffle had disappeared, leaving a smoother flow interrupted only by occasional rings from moisture falling out of the canopy.
+Inside, the current remained visible near the entrance.
 
-One ring widened beneath the sedge. Its edge passed through the reflected shape of the damselfly and branch without reaching the blade itself. The surface image stretched, separated, and reformed after the disturbance passed.
+The bed continued at the same downward tendency. Shallow water crossed small deposits of sand and gravel that had moved into the passage during stronger flows. Damp marks along the lower walls recorded earlier changes in level.
 
-The damselfly changed the angle of its head once. Its wings remained closed. As sunlight reached farther beneath the canopy, a faint brightness moved along one wing and revealed the network of supporting veins before the blade shifted back into shade.
+A short distance farther in, color diminished.
 
-Stillness here was not the absence of response. The sedge moved with air. The damselfly adjusted with the sedge. The reflected forms changed with water. Each remained attentive to conditions without resisting them.
+The current became easier to follow by sound than by sight. Flow against the lower edge of the enclosure produced a continuous low resonance. Small irregularities in the bed introduced quieter variations within it.
 
-After a longer interval, the damselfly lifted slightly, crossed the narrow channel, and settled on another stem close to the opposite bank. The movement disturbed neither the water nor the grasses below.
+Water entering through a seam along one side joined the creek without receiving daylight. The seep was clear and cool. It had traveled through the surrounding ground and found the enclosed channel just as groundwater had found the open creek upstream.
 
-The creek continued between the two resting places.
+Above the roof, another surface could continue without opening for the water beneath it.
 
-## Transition 70 -> 71
+Below, the creek carried the watershed forward.
 
-The first sedge blade rises after the damselfly leaves it, releasing the slight bend it had held. Attention follows the stem downward toward the bank, where its visible form divides into many finer structures beneath the soil.
+The distance to open sky increased behind the current. The entrance became a bright shape at the end of the enclosed reach, then a smaller one.
 
-At the waterline, several sedges grow close enough for their roots to overlap. Their leaves remain separate above the ground, but below, fibrous networks cross through the same saturated margin. Water moves between them by seepage and through the finer spaces where soil retains moisture after the surface level changes.
+The creek did not vanish at the boundary.
 
-The small living presence above the current gives way to the supporting system below it. What appeared as one blade resting over the water is connected to a distributed structure holding the creek edge together.
+Visibility withdrew from it.
 
-**Annotation:** Descends from the damselfly's sedge perch into the fibrous root network beneath it, shifting from visible responsiveness to distributed support within the bank.
 
-<!-- Anchor 71 - Fine Roots Holding the Sedge Margin
-**Theme:** Durability through distributed support
+
+## Transition 82 -> 83
+
+Within the longer covered reach, the bright entrance recedes until it no longer illuminates the bed. The creek now moves beneath a continuous layer of built ground.
+
+Above, weight is transferred across the structure and into the surrounding earth. Below, water continues through the space preserved for it. The two systems occupy the same horizontal route without sharing the same visible world.
+
+Rain falling on the surface above may enter drains and return to the creek farther along. Groundwater reaches seams from the sides. Upstream flow arrives continuously from the open watershed.
+
+The buried channel is not isolated from the city above it. It has become one of the ways the city and watershed remain physically connected.
+
+**Annotation:** Deepens the enclosure into true built-overness, establishing the layered relation between the functioning surface above and the continuing watershed below.
+
+<!-- Anchor 83 - Current Beneath the Built Surface
+**Theme:** Persistence beneath another use of place
 **Voice Layer:** Underflow
-**Narrative Elements:** Fibrous sedge roots; saturated soil; capillary moisture; porous bank structure
-**Moral Note:** Lasting stability can arise from many small forms of support acting together
+**Narrative Elements:** Buried channel; overhead load; lateral seepage; uninterrupted downstream current
+**Moral Note:** What is hidden from ordinary attention may remain essential to everything resting above it
 -->
 
-## Anchor 71 - Fine Roots Holding the Sedge Margin
+## Anchor 83 - Current Beneath the Built Surface
 
-Beneath the sedges, the bank was held by roots too fine to distinguish individually from above. Each plant divided into a dense cluster below the soil, and neighboring clusters crossed through the same damp ground.
+The creek moved beneath ground that no longer opened above it.
 
-The roots did not form a solid wall. Soil, fine gravel, and fragments of softened leaf remained between them. These spaces allowed water to enter and withdraw as the creek level varied. The margin held together because moisture could move through it rather than being forced entirely around it.
+The overhead structure carried the weight of the surface across the channel. The water below carried something different: runoff from the hills, seepage from saturated ground, and the continuing discharge of the watershed toward lower elevation.
 
-Closest to the channel, the soil was saturated and dark. A few centimeters higher, water remained in smaller pores between grains and around root surfaces. The transition from wet to merely damp followed no straight line. It rose beside finer material and remained lower where coarse gravel opened wider passages.
+Neither movement could be understood entirely from the other surface.
 
-Some roots reached directly into the water. Their surfaces changed the current only slightly, dividing a thin layer of flow before it rejoined beyond them. Others remained entirely within the bank, drawing moisture held above the visible waterline.
+Above, the ground could appear continuous.
 
-The sedge leaves above responded separately to air and light. Below, their roots formed a shared field of support. No single strand held the margin by itself. Stability emerged through repetition, overlap, and the capacity of the ground to receive water without losing its form.
+Below, the creek remained directional.
 
-Small particles of organic material rested among the roots and continued softening into the soil. Moisture passed around them. New root tips entered spaces opened by older decomposition.
+The enclosed air changed slowly in temperature. Without direct sunlight, damp surfaces retained coolness. Moisture condensed in small areas where warmer air entered and met the colder interior. Drops gathered, released, and returned to the current.
 
-The bank remained open enough for exchange and coherent enough to endure it.
+Fine sediment accumulated along lower edges where velocity decreased. During stronger flow it would move again. The passage therefore retained its own patterns of deposition and removal even without exposed banks.
 
-Above the waterline, the sedges stood in morning light. Beneath them, their finer continuities remained in shade.
+At one seam, groundwater entered steadily enough to darken the surrounding surface. It traveled downward and joined the creek in a thin line. The distinction between seepage and channel water lasted only until the next shallow disturbance mixed them.
 
-## Transition 71 -> 72
+The creek had lost canopy, reeds, and direct sky within this reach. It had not lost gravity, water, direction, or connection to the watershed.
 
-The saturated margin extends beyond the sedges into the wider creek corridor. As morning light rises, the difference between channel, bank, and canopy becomes easier to see, but none of these regions stands alone.
+Its circumstances had changed profoundly.
 
-The roots hold soil that receives seepage. The seepage returns water to the gravel. The gravel divides and rejoins the current. Leaves release moisture from above, and the low air continues to follow the channel until the surrounding ground warms.
+Its continuity had not.
 
-Earlier details return within the widening view: the waterline across the willow root, the pale stones of the riffle, the remaining droplets beneath the alder, and the sedges resting above their hidden roots. Morning gathers these relations into visibility without reducing them to a single center.
+Above, the built surface gave little indication of the moving water beneath it.
 
-**Annotation:** Expands from the fine support system of Anchor 71 into a corridor-wide morning view, bringing recurring motifs together as parts of one continuing ecological relation.
 
-<!-- Anchor 72 - Morning Widening Through the Creek Corridor
-**Theme:** Renewal as accumulated continuity
+
+## Transition 83 -> 84
+
+The farther the buried current travels, the less the surface above needs to acknowledge its exact position.
+
+A person crossing the ground overhead can move from one side of the former open channel to the other without descending a bank or stepping across water. Buildings, paths, and streets can align themselves according to their own geometry because the creek has been given another geometry below.
+
+This is where enclosure begins to alter memory.
+
+The creek remains physically active. Water continues moving beneath the same ground. Yet the visible cues that once required attention to it have been removed from ordinary passage.
+
+Burial becomes more than a roof over water.
+
+It becomes a separation between presence and awareness.
+
+**Annotation:** Completes the first six-anchor burial sequence by moving from physical enclosure toward the beginning of cultural forgetting, preparing the next phase of decades-long buriedness.
+
+<!-- Anchor 84 - Where the Creek Is No Longer Seen
+**Theme:** Presence separated from ordinary awareness
 **Voice Layer:** Deep Silence
-**Narrative Elements:** Brightening canopy openings; recurring root and gravel forms; warmed surface; cool underflow
-**Moral Note:** A renewed interval remains whole by carrying forward the relations that made it possible
+**Narrative Elements:** Continuous underground flow; uninterrupted surface above; absent visible banks; concealed downstream direction
+**Moral Note:** Absence from sight does not erase either existence or dependence
 -->
 
-## Anchor 72 - Morning Widening Through the Creek Corridor
+## Anchor 84 - Where the Creek Is No Longer Seen
 
-Morning widened through the creek corridor gradually. Light reached the upper leaves first, then entered lower openings and moved across the channel in separated bands. Shaded water remained cool while exposed stones began receiving warmth.
+Above the buried reach, the ground continued across the creek without revealing where one bank had once ended and the other begun.
 
-The riffle upstream had become fully visible. Water crossed its flat stones in clear sheets before entering the deeper run. Beneath it, passage through the gravel continued without visible interruption, returning cooler water along the downstream bed.
+There was no visible waterline.
 
-The willow root held the irregular waterline formed during the night. Its upper bark had dried further, but moisture remained in the deeper furrows. Fine sediment still marked earlier contact between current and wood.
+No reflection showed the direction of flow. No sedge leaned over the current. No shifting brightness revealed shallow stone beneath the surface. The ordinary signs by which a creek could be recognized were absent.
 
-Along the alder margin, a few droplets remained suspended beneath shaded leaves. Others had fallen, leaving darker points along the leaf tips. The damselfly rested on a sedge across the channel, its folded wings now easier to distinguish against the brightening water.
+Below them, water continued westward.
 
-The low current of air that had followed the creek before dawn became less coherent as the banks warmed. Sedges no longer leaned in one shared direction. Each blade responded to smaller movements passing through the open reach.
+The current followed the enclosed grade through darkness, increasing when upstream water arrived and decreasing when the watershed released less. Seepage entered through the surrounding ground. Sediment moved through the lower passage according to velocity and depth.
 
-Below them, the root-filled soil retained the night's moisture. Seepage continued toward the creek through gravel and fine pores, unaffected by the greater brightness above. The visible morning rested upon exchanges that had not paused during darkness.
+The creek remained responsive to conditions occurring far beyond the buried reach.
 
-No part of the corridor became the single source of continuity. Water, stone, root, leaf, soil, air, and living presence remained dependent upon relations extending beyond what could be seen at once.
+Rain in the hills could change the water beneath this ground. Saturated soil upstream could strengthen the flow. A dry interval could reduce it. What happened where the creek remained visible continued to affect the place where it could no longer be seen.
 
-The creek carried morning through these relations rather than beginning again.
+The surface above acquired its own continuity. Movement across it no longer required awareness of water underneath. The old relation between bank, channel, and crossing was no longer available to immediate perception.
 
-Light increased. The current continued. What had been preserved in darkness entered visibility without surrendering its depth.
+This was a different kind of darkness from night.
+
+Night had concealed the creek while leaving its place intact. Morning had restored visibility.
+
+Here, concealment had been built into the place itself.
+
+The creek continued beneath it, carrying the watershed through a landscape that could gradually learn to behave as though no creek were there.
+
+The endpoint at Anchor 84 deliberately reaches only the threshold of "forgottenness." The next six can inhabit the decades-long buried state itself: repetition above, continuous flow below, changing generations at the surface, maintenance and structural aging, and the creek persisting as an unseen geographic fact. Historical records support this broader trajectory: Strawberry Creek was progressively culverted west of the UC Berkeley campus beginning in the late nineteenth century, with most of its city course ultimately placed underground. [creeks.berkeley.edu](https://creeks.berkeley.edu/strawberry-creek-management-plan-1987/32-historical-perspective?utm_source=chatgpt.com)
