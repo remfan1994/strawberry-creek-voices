@@ -1,275 +1,351 @@
-This set begins Stage 1: the creek being built upon. The key movement is from open continuity to constrained visibility, not yet the long era of full buriedness.
+## Transition 84 -> 85
 
-## Transition 78 -> 79
+Once the creek can no longer be recognized from the surface, its changes must be read through other conditions. Rain begins on roofs, streets, slopes, gardens, and open ground throughout the watershed. Some water enters soil. Some moves across built surfaces toward drains. Some reaches the buried channel through connections no longer visible from above.
 
-The returning shade of midmorning moves downstream until the open channel approaches a place where another kind of edge begins to shape the creek. Root and gravel still define most of the margin. Water still receives sky directly. Yet farther ahead, the banks no longer widen according only to soil, vegetation, and flow.
+Below, the current rises.
 
-The change begins beside the water rather than over it. Ground is held more firmly. The margin becomes straighter. Space that had followed the irregular line of the creek begins to answer to another geometry.
+The increase does not require anyone standing over the creek to witness it. Water arriving from many parts of the watershed gathers into the same downstream direction, and the enclosed passage carries a stronger flow beneath ground that appears nearly unchanged.
 
-The current reaches this alteration without changing its origin or direction. It carries the same cool return from beneath the gravel, the same moisture gathered from the banks, and the same morning light that has followed it through the open corridor.
+The first long lesson of buriedness is therefore not stillness, but responsiveness without visibility.
 
-What changes first is not the water. It is the amount of room being left around it.
+**Annotation:** Begins the decades-long buried phase by showing that watershed events continue to register below the city even when the creek itself is absent from ordinary sight.
 
-**Annotation:** Opens the burial sequence gradually, allowing built geometry to enter the creek corridor first at the margins while the water remains fully open to sky.
-
-<!-- Anchor 79 - Open Water Before the Crossing
-**Theme:** Continuity before enclosure
-**Voice Layer:** Surface Water
-**Narrative Elements:** Open channel; irregular natural banks; approaching built geometry; uninterrupted sky above the current
-**Moral Note:** An existing presence remains whole even when another use of space begins to close around it
--->
-
-## Anchor 79 - Open Water Before the Crossing
-
-The creek remained open where the morning light crossed it. Water moved between banks shaped by root, sediment, stone, and repeated changes in flow. Sedges leaned over one side. On the other, a shallow gravel margin held moisture between its darker stones.
-
-Downstream, the line of the bank became straighter.
-
-At first the difference was small enough to appear only as a change in proportion. The creek continued at nearly the same width, but the ground beside it no longer followed every shallow curve. The margin held to a firmer line while the current continued making smaller adjustments within it.
-
-Light still reached the entire surface. Reflections of leaves crossed the water without interruption. The creek bed remained visible through the shallow sections, and cooler water still emerged between stones where the underflow returned.
-
-Nothing in the current announced that the space ahead would become different.
-
-Water entered the straighter reach carrying all the relations accumulated upstream. Moisture from the moss margin remained within it. The gravel had cooled part of it. Sunlight had warmed another part. Fine sediment continued to settle wherever velocity allowed.
-
-The creek was not waiting to become something else. It was already complete in movement.
-
-The altered banks appeared around that completeness.
-
-
-
-## Transition 79 -> 80
-
-The straighter margin continues downstream. Material placed beside the channel occupies spaces where the bank had previously changed gradually with moisture and root growth. The creek remains open overhead, but its lateral freedom decreases.
-
-Water meeting the tightened edge turns back toward the center sooner. Small eddies form where irregular stone meets the new boundary, then flatten as the current enters the narrower passage.
-
-The first transformation is therefore not disappearance. It is compression.
-
-The creek can still be seen from above. It still receives rain, light, leaves, and moving air directly. But the relation between water and surrounding ground has begun to change from a broad exchange into a guided passage.
-
-**Annotation:** Advances Stage 1 from approaching construction into physical confinement, emphasizing that burial begins through narrowing and edge control before overhead enclosure.
-
-<!-- Anchor 80 - Banks Drawn In Around the Current
-**Theme:** Constraint entering an existing flow
+<!-- Anchor 85 - Rain Reaching the Buried Channel
+**Theme:** Response without visibility
 **Voice Layer:** Underflow
-**Narrative Elements:** Straightened margins; compacted ground; confined current; reduced lateral exchange
-**Moral Note:** Restriction begins at the edges long before it becomes complete
+**Narrative Elements:** Watershed rainfall; street drainage; groundwater contribution; rising underground current
+**Moral Note:** A living system may respond fully even when the response is hidden from ordinary view
 -->
 
-## Anchor 80 - Banks Drawn In Around the Current
+## Anchor 85 - Rain Reaching the Buried Channel
 
-The banks drew closer around the creek.
+Rain spread across the watershed without regard for whether the creek below it was visible.
 
-Where soil had once sloped gradually toward the water, the margin now descended more directly. Roots remained in the older ground nearby, but fewer reached into the newly defined passage. The current moved beside a surface shaped to hold its line.
+On the hills, water entered soil and shallow channels. Across flatter built ground, part of the rainfall moved toward drains and openings designed to carry it away from the surface. Beneath both conditions, groundwater pressure increased slowly.
 
-Water responded without stopping.
+The buried creek received these arrivals at different times.
 
-Along the straighter edge, the faster portion of the current shifted toward the center. A narrow zone of slower water remained against the boundary, carrying fine sediment downstream in intermittent clouds too slight to obscure the stones below.
+Runoff entered quickly where drainage connected directly with the enclosed channel. Water moving through soil arrived later, filtered through pores, root zones, gravel, and fill before reaching seams and lower openings.
 
-The channel had less room to adjust laterally. When the current encountered a shallow rise in the bed, it could no longer spread as widely toward the bank. More of the movement passed forward.
+The current rose.
 
-The difference continued beneath the surface. Groundwater approaching from the side still found openings into the channel, but the routes were fewer and more concentrated. Moisture that once reached the creek through a broad porous margin now emerged at particular seams and lower gaps.
+Dark marks along the walls disappeared beneath the higher water. Deposits of fine sediment that had remained undisturbed during lower flow began to shift along their exposed edges. Coarser material stayed in place until the stronger current reached it.
 
-Above, the sky remained open.
+Sound changed with depth. Small individual contacts with the bed became harder to separate as more of the passage filled. The enclosed current produced a broader continuous resonance through the reach.
 
-Air moved along the water. Light reached the full width of the channel. A falling droplet could still enter from a leaf without passing any intervening structure.
+Above, the surface showed rain.
 
-The creek had been constrained without yet being concealed.
+Below, the creek showed accumulation.
 
-It carried the new pressure as another physical condition, preserving movement inside a space that had become less willing to move with it.
+The two conditions belonged to the same watershed even where no visible channel connected them.
+
+When rainfall weakened, the quickest inflows diminished first. Groundwater continued entering more slowly. The creek began to lower after the surface had already started drying.
+
+Buriedness changed access to the creek.
+
+It did not remove the creek from weather.
 
 
 
-## Transition 80 -> 81
+## Transition 85 -> 86
 
-As the narrowed channel continues, the open sky above it begins to contract.
+The higher current gradually subsides, leaving a fresh line along the enclosed walls. Fine sediment settles again where velocity decreases. The creek returns toward its lower condition, but not to an exact previous state.
 
-The first overhead structure does not cover a long reach. It crosses from one side to the other, joining the firmer margins already established beside the water. Morning remains visible beyond both ends, but beneath the crossing the creek enters a different acoustic and thermal space.
+Another rain will arrive.
 
-The surface darkens before the current changes speed. Reflections of canopy give way to the underside of the structure. Sound that had dispersed into open air returns from the closer surfaces above and beside the channel.
+Then another dry interval.
 
-For the first time in the sequence, the creek passes beneath ground that continues across it.
+The buried reach begins to accumulate time through repetition: water rising and falling, seams darkening and drying, sediment moving and settling, cooler groundwater entering during warmer periods, stronger runoff arriving during storms.
 
-**Annotation:** Introduces the decisive threshold of overhead construction while keeping the enclosure short, allowing the audience to experience burial first as the narrowing of sky.
+Above, seasons become visible through light, vegetation, clothing, and temperature.
 
-<!-- Anchor 81 - The First Roof Above the Creek
-**Theme:** Visibility diminished before continuity
+Below, they are recorded differently.
+
+**Annotation:** Moves from a single rainfall event into recurring seasonal cycles, establishing buriedness as a sustained condition measured through repeated hydraulic change.
+
+<!-- Anchor 86 - Seasonal Waterlines Beneath the Street
+**Theme:** Time recorded through repeated flow
 **Voice Layer:** Deep Silence
-**Narrative Elements:** Short overhead crossing; narrowed daylight; cooler enclosed air; reflected water sound
-**Moral Note:** What becomes less visible does not thereby become less present
+**Narrative Elements:** Repeated high-water marks; seasonal discharge; drying wall surfaces; recurring sediment movement
+**Moral Note:** Time leaves knowledge in repeated contact even where no one is present to observe each event
 -->
 
-## Anchor 81 - The First Roof Above the Creek
+## Anchor 86 - Seasonal Waterlines Beneath the Street
 
-The crossing placed a roof above the creek.
+Along the enclosed wall, several darkened bands remained at different heights.
 
-Daylight remained ahead and behind, but directly overhead the open sky ended. The surface changed immediately. Reflected leaves disappeared, replaced by a darker field broken only where light entered from the two openings.
+The lowest belonged to ordinary flow. Above it, another line marked water that had risen during stronger rain. Higher still, a faint residue followed an irregular path across the surface before disappearing into a seam.
 
-The current continued beneath.
+No single event explained all of them.
 
-Sound became more contained. Water moving over a shallow stone produced a small note that returned from the overhead surface and sidewalls before joining the broader sound of flow. What had been easy to locate in the open channel became layered within the enclosed space.
+The creek had risen and lowered many times.
 
-The air was cooler beneath the crossing. Stone and damp surfaces retained the night's temperature beyond the time when the exposed bank had begun to warm. Moisture gathered in the deeper seams and remained there after nearby open surfaces dried.
+During wetter periods, current covered stones that remained exposed during lower flow. Fine sand moved downstream and settled again in protected recesses. Water entered lateral seams more strongly when the surrounding ground became saturated.
 
-Near the entrance, sunlight reached a short distance beneath the roof. It illuminated the upper edge of one submerged stone, then weakened before reaching the center of the covered passage.
+During longer dry intervals, the channel narrowed. Dampness remained close to the lowest passage while higher surfaces dried slowly in the enclosed air.
 
-The current crossed that boundary without hesitation.
+Temperature changed less quickly underground than above. Warm periods reached the buried water gradually. Cooler groundwater continued entering from surrounding soil and moderated the change.
 
-For a few moments of travel, the creek had no sky directly above it. Then the downstream opening widened, reflections returned, and the water emerged again into morning.
+The walls held these differences without arranging them into a calendar.
 
-The crossing was short enough for both openings to remain part of the same view.
+One line crossed another.
 
-Yet something fundamental had become possible.
+A newer deposit partially covered an older one.
 
-The creek could continue where the sky did not.
+A patch that had dried during one interval darkened again when the creek rose.
 
+Above, years could be divided by seasons.
 
+Below, time accumulated through contact.
 
-## Transition 81 -> 82
-
-Beyond the first crossing, open water returns, but the new relation does not remain isolated. The enclosed distance can be lengthened. The supported ground above can extend farther downstream. A crossing can become a covered reach.
-
-As enclosure increases, the downstream opening appears smaller from within. Light no longer fills the passage from both directions with equal strength. The creek begins spending more of its course beneath a surface whose purpose belongs to the world above it.
-
-Water still follows slope.
-
-Gravity has not changed. The watershed has not stopped arriving. Seepage still enters where openings permit it. The physical necessity of flow continues while visual access to that flow decreases.
-
-The next threshold is not simply another crossing. It is entry into sustained buried distance.
-
-**Annotation:** Converts the brief enclosure of Anchor 81 into the possibility of extended culverting, marking the point where crossing over the creek becomes building continuously above it.
-
-<!-- Anchor 82 - Entering the Longer Covered Reach
-**Theme:** Continuity carried beyond direct witness
-**Voice Layer:** Surface Water
-**Narrative Elements:** Culvert entrance; receding daylight; enclosed current; sustained downstream passage
-**Moral Note:** Continuity does not depend upon being continuously witnessed
--->
-
-## Anchor 82 - Entering the Longer Covered Reach
-
-The longer covered reach began where the open channel narrowed toward a dark rectangular opening.
-
-Water reached the threshold in full morning light. The surface carried sky until the final few centimeters, where the reflection compressed against shadow and disappeared beneath the roof.
-
-Inside, the current remained visible near the entrance.
-
-The bed continued at the same downward tendency. Shallow water crossed small deposits of sand and gravel that had moved into the passage during stronger flows. Damp marks along the lower walls recorded earlier changes in level.
-
-A short distance farther in, color diminished.
-
-The current became easier to follow by sound than by sight. Flow against the lower edge of the enclosure produced a continuous low resonance. Small irregularities in the bed introduced quieter variations within it.
-
-Water entering through a seam along one side joined the creek without receiving daylight. The seep was clear and cool. It had traveled through the surrounding ground and found the enclosed channel just as groundwater had found the open creek upstream.
-
-Above the roof, another surface could continue without opening for the water beneath it.
-
-Below, the creek carried the watershed forward.
-
-The distance to open sky increased behind the current. The entrance became a bright shape at the end of the enclosed reach, then a smaller one.
-
-The creek did not vanish at the boundary.
-
-Visibility withdrew from it.
+The creek remained responsive to every interval while carrying no requirement that those intervals be named.
 
 
 
-## Transition 82 -> 83
+## Transition 86 -> 87
 
-Within the longer covered reach, the bright entrance recedes until it no longer illuminates the bed. The creek now moves beneath a continuous layer of built ground.
+As repeated waterlines accumulate, the creek bed also changes.
 
-Above, weight is transferred across the structure and into the surrounding earth. Below, water continues through the space preserved for it. The two systems occupy the same horizontal route without sharing the same visible world.
+Material entering from upstream does not pass through at one constant rate. Some grains travel during stronger flow and stop when velocity falls. Others remain lodged behind shallow irregularities for longer periods. Later water may move them again.
 
-Rain falling on the surface above may enter drains and return to the creek farther along. Groundwater reaches seams from the sides. Upstream flow arrives continuously from the open watershed.
+In open reaches, sunlight can reveal these changes directly.
 
-The buried channel is not isolated from the city above it. It has become one of the ways the city and watershed remain physically connected.
+Here, sediment records movement in darkness.
 
-**Annotation:** Deepens the enclosure into true built-overness, establishing the layered relation between the functioning surface above and the continuing watershed below.
+The buried passage develops its own temporary bars, thin deposits, and cleared channels, each revised by the next sufficient flow.
 
-<!-- Anchor 83 - Current Beneath the Built Surface
-**Theme:** Persistence beneath another use of place
+**Annotation:** Shifts from time recorded on enclosure walls to time recorded in the creek bed, emphasizing that sediment processes continue under burial.
+
+<!-- Anchor 87 - Sediment Moving Through the Dark Reach
+**Theme:** Continuity through redistribution
 **Voice Layer:** Underflow
-**Narrative Elements:** Buried channel; overhead load; lateral seepage; uninterrupted downstream current
-**Moral Note:** What is hidden from ordinary attention may remain essential to everything resting above it
+**Narrative Elements:** Fine sand; gravel pockets; changing deposits; stronger-flow remobilization
+**Moral Note:** Continuity does not require materials to remain where they were
 -->
 
-## Anchor 83 - Current Beneath the Built Surface
+## Anchor 87 - Sediment Moving Through the Dark Reach
 
-The creek moved beneath ground that no longer opened above it.
+A shallow deposit of sand had formed along one side of the buried channel where the current lost speed.
 
-The overhead structure carried the weight of the surface across the channel. The water below carried something different: runoff from the hills, seepage from saturated ground, and the continuing discharge of the watershed toward lower elevation.
+Its upstream edge was gradual. Fine grains appeared first between small stones, then thickened into a low shelf protected by the geometry of the wall and bed.
 
-Neither movement could be understood entirely from the other surface.
+During ordinary flow, water passed beside it without major change.
 
-Above, the ground could appear continuous.
+During stronger flow, the edge began to move.
 
-Below, the creek remained directional.
+Grains lifted one by one, traveled a short distance, and settled farther downstream. Where the current concentrated along a narrow line, part of the deposit was removed entirely, revealing darker material beneath.
 
-The enclosed air changed slowly in temperature. Without direct sunlight, damp surfaces retained coolness. Moisture condensed in small areas where warmer air entered and met the colder interior. Drops gathered, released, and returned to the current.
+Small gravel remained longer.
 
-Fine sediment accumulated along lower edges where velocity decreased. During stronger flow it would move again. The passage therefore retained its own patterns of deposition and removal even without exposed banks.
+Some pieces turned without traveling far. Others shifted only when water deepened enough to reduce their resistance against the bed.
 
-At one seam, groundwater entered steadily enough to darken the surrounding surface. It traveled downward and joined the creek in a thin line. The distinction between seepage and channel water lasted only until the next shallow disturbance mixed them.
+The deposit therefore never became a permanent feature.
 
-The creek had lost canopy, reeds, and direct sky within this reach. It had not lost gravity, water, direction, or connection to the watershed.
+Neither was it meaningless.
 
-Its circumstances had changed profoundly.
+Its shape revealed where flow had slowed, where pressure had concentrated, and where previous water had carried material from upstream.
 
-Its continuity had not.
+No sunlight reached the shelf.
 
-Above, the built surface gave little indication of the moving water beneath it.
+No plant rooted into it.
+
+Still, sediment continued participating in the creek's physical history.
+
+Burial altered the conditions of movement.
+
+It did not end movement itself.
 
 
 
-## Transition 83 -> 84
+## Transition 87 -> 88
 
-The farther the buried current travels, the less the surface above needs to acknowledge its exact position.
+Beyond the sediment shelf, the wall carries another form of continuity.
 
-A person crossing the ground overhead can move from one side of the former open channel to the other without descending a bank or stepping across water. Buildings, paths, and streets can align themselves according to their own geometry because the creek has been given another geometry below.
+A seam between structural sections remains darker than the surfaces around it. The difference is not produced by the main current. Moisture is arriving from the surrounding ground.
 
-This is where enclosure begins to alter memory.
+The creek therefore continues to receive water not only from upstream and from surface drainage, but laterally through the buried landscape itself.
 
-The creek remains physically active. Water continues moving beneath the same ground. Yet the visible cues that once required attention to it have been removed from ordinary passage.
+What had once occurred across a broad porous bank now appears through narrower openings.
 
-Burial becomes more than a roof over water.
+The exchange is reduced in width, but not entirely severed.
 
-It becomes a separation between presence and awareness.
+**Annotation:** Moves from sediment transport within the buried channel to groundwater exchange through structural seams, showing how an older bank relationship persists in altered form.
 
-**Annotation:** Completes the first six-anchor burial sequence by moving from physical enclosure toward the beginning of cultural forgetting, preparing the next phase of decades-long buriedness.
+<!-- Anchor 88 - Groundwater Entering at the Wall Seam
+**Theme:** Connection surviving altered form
+**Voice Layer:** Surface Water
+**Narrative Elements:** Structural seam; groundwater seepage; mineral-darkened surface; quiet lateral inflow
+**Moral Note:** A relationship may persist through smaller openings even after its original form has been constrained
+-->
 
-<!-- Anchor 84 - Where the Creek Is No Longer Seen
-**Theme:** Presence separated from ordinary awareness
+## Anchor 88 - Groundwater Entering at the Wall Seam
+
+A narrow seam ran vertically down one section of the enclosure.
+
+Most of the surrounding surface had dried above the current, but the seam remained dark.
+
+Water moved through it slowly.
+
+Near the upper portion, moisture appeared only as a thin change in texture. Lower down, several paths joined into a narrow film that reached the channel without forming a falling drop.
+
+The inflow was cooler than the water already moving downstream.
+
+For a short distance, the difference could be detected along the wall where the seepage spread before joining the main current. Then turbulence from a shallow irregularity mixed the two.
+
+Fine mineral traces had formed beside the seam over time. Their pattern followed repeated wetting rather than the height of the creek itself.
+
+This water had not traveled through the visible channel upstream.
+
+It had passed through surrounding ground.
+
+The broad bank exchange of the open creek had been narrowed by construction, but the watershed still found certain permeable routes.
+
+Water entered through joints.
+
+Through gravel below.
+
+Through connected soil beyond the wall.
+
+The creek remained linked to a larger saturated landscape than the enclosure alone could show.
+
+
+
+## Transition 88 -> 89
+
+Above the seam, the built surface continues through years of ordinary use.
+
+Routes change.
+
+Surfaces are repaired.
+
+Buildings are occupied, altered, and occupied again.
+
+People cross the buried alignment without needing to know that groundwater is entering below them or that sediment has shifted after the last rain.
+
+The loss of awareness requires no deliberate act.
+
+It can emerge simply because the visible cues are absent long enough.
+
+What once required crossing a creek can become an uninterrupted passage across ground.
+
+**Annotation:** Moves from continuing subsurface exchange to the human condition above it, showing forgetting as a consequence of altered geography rather than conscious rejection.
+
+<!-- Anchor 89 - Ordinary Passage Above the Hidden Course
+**Theme:** Forgetting through uninterrupted surface
 **Voice Layer:** Deep Silence
-**Narrative Elements:** Continuous underground flow; uninterrupted surface above; absent visible banks; concealed downstream direction
-**Moral Note:** Absence from sight does not erase either existence or dependence
+**Narrative Elements:** Continuous built ground; repeated human passage; absent banks and waterline; active creek below
+**Moral Note:** What no longer interrupts attention can remain essential while gradually leaving ordinary awareness
 -->
 
-## Anchor 84 - Where the Creek Is No Longer Seen
+## Anchor 89 - Ordinary Passage Above the Hidden Course
 
-Above the buried reach, the ground continued across the creek without revealing where one bank had once ended and the other begun.
+People crossed the creek without crossing visible water.
 
-There was no visible waterline.
+Their route continued over the buried channel at the same level as the ground before and after it.
 
-No reflection showed the direction of flow. No sedge leaned over the current. No shifting brightness revealed shallow stone beneath the surface. The ordinary signs by which a creek could be recognized were absent.
+There was no bank to descend.
 
-Below them, water continued westward.
+No bridge edge to mark the center.
 
-The current followed the enclosed grade through darkness, increasing when upstream water arrived and decreasing when the watershed released less. Seepage entered through the surrounding ground. Sediment moved through the lower passage according to velocity and depth.
+No sound of current requiring recognition.
 
-The creek remained responsive to conditions occurring far beyond the buried reach.
+No reflected sky beneath the crossing.
 
-Rain in the hills could change the water beneath this ground. Saturated soil upstream could strengthen the flow. A dry interval could reduce it. What happened where the creek remained visible continued to affect the place where it could no longer be seen.
+The surface allowed movement to remain continuous.
 
-The surface above acquired its own continuity. Movement across it no longer required awareness of water underneath. The old relation between bank, channel, and crossing was no longer available to immediate perception.
+Below, the creek also remained continuous.
 
-This was a different kind of darkness from night.
+Water passed beneath footsteps, wheels, foundations, planted ground, and changing uses of the surface. Rain strengthened it. Dry weather reduced it. Groundwater entered at seams. Sediment shifted during stronger flow.
 
-Night had concealed the creek while leaving its place intact. Morning had restored visibility.
+These processes required no awareness from above.
 
-Here, concealment had been built into the place itself.
+A person could follow the same route repeatedly and never encounter a visible reason to imagine water below.
 
-The creek continued beneath it, carrying the watershed through a landscape that could gradually learn to behave as though no creek were there.
+Another person could learn the neighborhood later and inherit the same absence of cues.
 
-The endpoint at Anchor 84 deliberately reaches only the threshold of "forgottenness." The next six can inhabit the decades-long buried state itself: repetition above, continuous flow below, changing generations at the surface, maintenance and structural aging, and the creek persisting as an unseen geographic fact. Historical records support this broader trajectory: Strawberry Creek was progressively culverted west of the UC Berkeley campus beginning in the late nineteenth century, with most of its city course ultimately placed underground. [creeks.berkeley.edu](https://creeks.berkeley.edu/strawberry-creek-management-plan-1987/32-historical-perspective?utm_source=chatgpt.com)
+The forgetting accumulated without needing to be taught.
+
+The creek had not withdrawn.
+
+The surface had become sufficient for ordinary navigation without reference to it.
+
+Two geographies occupied the same place.
+
+One organized daily movement above.
+
+The other continued carrying water below.
+
+
+
+## Transition 89 -> 90
+
+Years of ordinary passage do not stop the buried channel from aging with the rest of the built landscape.
+
+Surfaces weather.
+
+Joints expand and contract.
+
+Repairs alter particular sections while leaving the downstream direction intact.
+
+The creek continues through each intervention.
+
+Its enclosure is therefore not a single completed act preserved unchanged through time. Buriedness itself has duration, maintenance, alteration, and accumulated history.
+
+The structure above and around the creek changes.
+
+The water keeps finding the grade through it.
+
+**Annotation:** Extends buriedness across longer time by showing that infrastructure itself ages and changes while the creek's hydrological direction persists.
+
+<!-- Anchor 90 - The Grade Remaining Beneath Changed Surfaces
+**Theme:** Direction persisting through altered surroundings
+**Voice Layer:** Underflow
+**Narrative Elements:** Aging enclosure; repaired joints; changed surface uses; persistent downstream grade
+**Moral Note:** Continuity can outlast the forms built around it without remaining physically unchanged
+-->
+
+## Anchor 90 - The Grade Remaining Beneath Changed Surfaces
+
+The surfaces above the creek did not remain exactly as they had been when the channel was first covered.
+
+Materials weathered.
+
+Edges were repaired.
+
+Some sections were replaced.
+
+Loads changed as the uses above them changed.
+
+Within the buried reach, newer surfaces met older ones at joints distinguishable by texture and construction.
+
+Water passed beneath both.
+
+The grade remained sufficient to carry the current downstream.
+
+At one repaired section, the bed was smoother than the older reach upstream. Flow accelerated slightly across it before encountering a rougher surface farther ahead.
+
+At another joint, groundwater gathered along the boundary between materials and entered in a thin line.
+
+The creek adjusted continuously to these local differences.
+
+Its path was constrained by construction, but its movement was never identical from decade to decade.
+
+Sediment altered the bed.
+
+Repairs altered resistance.
+
+Storms changed deposits.
+
+Dry periods exposed lower surfaces.
+
+Groundwater found new and old openings.
+
+Above, the visible place accumulated its own history.
+
+Below, another history accumulated along the same alignment.
+
+The two were connected physically even when they were rarely perceived together.
+
+Buriedness endured, but it was not static.
+
+The creek remained beneath changing surfaces, carrying direction through every revision.
